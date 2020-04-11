@@ -1,9 +1,9 @@
-# About [repository-name]
+# About iOSAdblockList-hosts_git_BlackJack8
 
-[![Build Status](https://travis-ci.org/[repository-slug].svg?branch=master)](https://travis-ci.org/[repository-slug])
+[![Build Status](https://travis-ci.org/dead-hosts/iOSAdblockList-hosts_git_BlackJack8.svg?branch=master)](https://travis-ci.org/dead-hosts/iOSAdblockList-hosts_git_BlackJack8)
 
 ```
-[description]
+Host-List for iOS ad blockers
 ```
 
 --------------------------------------------------------------------------------
