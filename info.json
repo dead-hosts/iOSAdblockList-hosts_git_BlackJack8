@@ -1,9 +1,9 @@
 {
     "currently_under_test": false,
     "custom_pyfunceble_config": {},
-    "days_until_next_test": 0.0,
-    "name": "[repository-name]",
+    "days_until_next_test": 5,
+    "name": "dead-hosts/iOSAdblockList-hosts_git_BlackJack8",
     "own_management": false,
     "ping": [],
-    "raw_link": ""
+    "raw_link": "https://raw.githubusercontent.com/BlackJack8/iOSAdblockList/master/Hosts.txt"
 }
