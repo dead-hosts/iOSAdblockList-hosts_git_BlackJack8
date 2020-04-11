@@ -6,8 +6,9 @@ env:
     global:
     -   GIT_NAME: Travis CI
     -   GIT_EMAIL: dead-hosts@funilrys.com
-    -   TRAVIS_REPO_SLUG: repository-slug
+    -   TRAVIS_REPO_SLUG: dead-hosts/iOSAdblockList-hosts_git_BlackJack8
     -   GIT_BRANCH: master
+    -   secure: iEMb6TrhO7ZlL/tTtfYNgK/KvDQUxFEJEV/dX5D7YrntcZYg3HHaI7yJKvSBEZyjSyRhGcH6cWGXqkvn8nqxf6LweWbzQTaMYizVv8/n71zR7ixsKFGOMbzbivmx1mLdqFmHrBFmnqOHArBnxcLDFp2kC3+NzcFm+LJlnnqxGdUN7EXzbP6yn4nWeaP1Mry585T5lFWUYHL31QQUQSM/W64+iTYjhiFkEVQYTo13jlw3ZsSYdPFmeJiVkqiw4OaMDzssnjusOymQFUqcKu5OWPxK8sYV1tEpen4YvAMt+GWlf+AUD9gKlspB3q8hgV2R3OLi8fuQe54p66PazfmHXAgB+onE3rnJ0wds0KqYteXe8wvxj/fuKsVLbn5amgpsS8c6Pv2F64UDnq6ty+0o2oOs4GLpe+vMT+80EH0yslQSZhQfBFXsgYuYvbGSCGQ/cj+o9AFHGmrVe0uoxXycQVFzY191iso4GDxSzdCXRIu3wJ+tEbkG4kTPMjnhDIQHOBch1MgRPhc47MmedfaSxIQMfWJgYb4SyPJKfRlUlwEb4EwUQbZuZ1iXxkTzd1MvNB1hGqi26XhpFFENR0bJQRMdiVgcUTa/aL4A72Cc9nVVoeTQjg21FQUQ21rTAt6VTIrOjIHoydCPOntRDR/gi0I5OIOto1h7Yj9hD190F7s=
     matrix:
     - PYTHON_VERSION="3.7.3"
 install:
