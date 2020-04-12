@@ -1,6 +1,24 @@
 {
     "/home/travis/build/dead-hosts/iOSAdblockList-hosts_git_BlackJack8/domains.list": {
-        "1586595960": {
+        "1586600585": {
+            "ad.adip.ly": "INACTIVE",
+            "ad.eurosport.com": "INACTIVE"
+        },
+        "1586600586": {
+            "adi.mainichi.co.jp": "INACTIVE",
+            "adimage.asiaone.com.sg": "INACTIVE",
+            "adimages.omroepzeeland.nl": "INACTIVE"
+        },
+        "1586605868": {
+            "adman.in.gr": "INACTIVE"
+        },
+        "1586610568": {
+            "ad.doctissimo.fr": "INACTIVE"
+        },
+        "1586628374": {
+            "ad.choiceradio.com": "INACTIVE"
+        },
+        "1586683014": {
             "1049.b.akamai.net": "INACTIVE",
             "1fjiw5x.oloadcdn.net": "INACTIVE",
             "a.0day.kiev.ua": "INACTIVE",
@@ -16,7 +34,9 @@
             "ad.aboutit.de": "INACTIVE",
             "ad.afy11.net": "INACTIVE",
             "ad.audio-ak.cdn.spotify.com": "INACTIVE",
-            "ad.directrev.com": "INACTIVE",
+            "ad.directrev.com": "INACTIVE"
+        },
+        "1586683015": {
             "ad.e-kolay.net": "INACTIVE",
             "ad.eurosport.de": "INACTIVE",
             "ad.f1cd.ru": "INACTIVE",
@@ -38,24 +58,6 @@
             "adboost.de.vu": "INACTIVE",
             "adbsc.mobinativeads.com": "INACTIVE",
             "adclear.teufel.de": "INACTIVE"
-        },
-        "1586600585": {
-            "ad.adip.ly": "INACTIVE",
-            "ad.eurosport.com": "INACTIVE"
-        },
-        "1586600586": {
-            "adi.mainichi.co.jp": "INACTIVE",
-            "adimage.asiaone.com.sg": "INACTIVE",
-            "adimages.omroepzeeland.nl": "INACTIVE"
-        },
-        "1586605868": {
-            "adman.in.gr": "INACTIVE"
-        },
-        "1586610568": {
-            "ad.doctissimo.fr": "INACTIVE"
-        },
-        "1586628374": {
-            "ad.choiceradio.com": "INACTIVE"
         }
     }
 }
