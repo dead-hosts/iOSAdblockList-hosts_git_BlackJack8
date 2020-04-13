@@ -1,45 +1,7 @@
 {
     "/home/travis/build/dead-hosts/iOSAdblockList-hosts_git_BlackJack8/domains.list": {
         "1586683014": {
-            "1049.b.akamai.net": "INACTIVE",
-            "1fjiw5x.oloadcdn.net": "INACTIVE",
-            "a.0day.kiev.ua": "INACTIVE",
-            "a.26f396e0b71780f057be4d4af8ebe55b.com": "INACTIVE",
-            "a.bf-tools.net.edgekey.net": "INACTIVE",
-            "a.collective-media.net": "INACTIVE",
-            "a32.g.a.yimg.com": "INACTIVE",
-            "accounts.pkr.com.invalid": "INVALID",
-            "ad-images.suntimes.com": "INACTIVE",
-            "ad-serverparc.nl": "INACTIVE",
-            "ad-yt-bfp.doubleclick.net": "INACTIVE",
-            "ad.3au.doubleclick.net": "INACTIVE",
-            "ad.aboutit.de": "INACTIVE",
-            "ad.afy11.net": "INACTIVE",
-            "ad.audio-ak.cdn.spotify.com": "INACTIVE",
-            "ad.directrev.com": "INACTIVE"
-        },
-        "1586683015": {
-            "ad.e-kolay.net": "INACTIVE",
-            "ad.eurosport.de": "INACTIVE",
-            "ad.f1cd.ru": "INACTIVE",
-            "ad.globe7.com": "INACTIVE",
-            "ad.leadboltapps.net": "INACTIVE",
-            "ad.leadboltmobile.net": "INACTIVE",
-            "ad.madvertise.de": "INACTIVE",
-            "ad.nexage.com": "INACTIVE",
-            "ad.onad.eu": "INACTIVE",
-            "ad.slutload.com": "INACTIVE",
-            "ad.thewheelof.com": "INACTIVE",
-            "ad.top50.to": "INACTIVE",
-            "ad.twitchguru.com": "INACTIVE",
-            "ad.watch.impress.co.jp": "INACTIVE",
-            "ad1.adinfuse.com": "INACTIVE",
-            "ad2.adinfuse.com": "INACTIVE",
-            "ad2.ip.ro": "INACTIVE",
-            "ad2.linxcz.cz": "INACTIVE",
-            "adboost.de.vu": "INACTIVE",
-            "adbsc.mobinativeads.com": "INACTIVE",
-            "adclear.teufel.de": "INACTIVE"
+            "1049.b.akamai.net": "INACTIVE"
         },
         "1586687450": {
             "adi.mainichi.co.jp": "INACTIVE",
@@ -63,6 +25,46 @@
         },
         "1586752159": {
             "access.adblox.net": "INACTIVE"
+        },
+        "1586770001": {
+            "1fjiw5x.oloadcdn.net": "INACTIVE",
+            "a.0day.kiev.ua": "INACTIVE",
+            "a.26f396e0b71780f057be4d4af8ebe55b.com": "INACTIVE",
+            "a.bf-tools.net.edgekey.net": "INACTIVE",
+            "a.collective-media.net": "INACTIVE"
+        },
+        "1586770002": {
+            "a32.g.a.yimg.com": "INACTIVE",
+            "accounts.pkr.com.invalid": "INVALID",
+            "ad-images.suntimes.com": "INACTIVE",
+            "ad-serverparc.nl": "INACTIVE",
+            "ad-yt-bfp.doubleclick.net": "INACTIVE",
+            "ad.3au.doubleclick.net": "INACTIVE",
+            "ad.aboutit.de": "INACTIVE",
+            "ad.afy11.net": "INACTIVE",
+            "ad.audio-ak.cdn.spotify.com": "INACTIVE",
+            "ad.directrev.com": "INACTIVE",
+            "ad.e-kolay.net": "INACTIVE",
+            "ad.eurosport.de": "INACTIVE",
+            "ad.f1cd.ru": "INACTIVE",
+            "ad.globe7.com": "INACTIVE",
+            "ad.leadboltapps.net": "INACTIVE",
+            "ad.leadboltmobile.net": "INACTIVE",
+            "ad.madvertise.de": "INACTIVE",
+            "ad.nexage.com": "INACTIVE",
+            "ad.onad.eu": "INACTIVE",
+            "ad.slutload.com": "INACTIVE",
+            "ad.thewheelof.com": "INACTIVE",
+            "ad.top50.to": "INACTIVE",
+            "ad.twitchguru.com": "INACTIVE",
+            "ad.watch.impress.co.jp": "INACTIVE",
+            "ad1.adinfuse.com": "INACTIVE",
+            "ad2.adinfuse.com": "INACTIVE",
+            "ad2.ip.ro": "INACTIVE",
+            "ad2.linxcz.cz": "INACTIVE",
+            "adboost.de.vu": "INACTIVE",
+            "adbsc.mobinativeads.com": "INACTIVE",
+            "adclear.teufel.de": "INACTIVE"
         }
     }
 }
