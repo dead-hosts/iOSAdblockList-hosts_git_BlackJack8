@@ -1,12 +1,5 @@
 {
     "/home/travis/build/dead-hosts/iOSAdblockList-hosts_git_BlackJack8/domains.list": {
-        "1586683014": {
-            "1049.b.akamai.net": "INACTIVE"
-        },
-        "1586687450": {
-            "adi.mainichi.co.jp": "INACTIVE",
-            "adimage.asiaone.com.sg": "INACTIVE"
-        },
         "1586691816": {
             "ad.adip.ly": "INACTIVE",
             "adimages.omroepzeeland.nl": "INACTIVE"
@@ -65,6 +58,13 @@
             "adboost.de.vu": "INACTIVE",
             "adbsc.mobinativeads.com": "INACTIVE",
             "adclear.teufel.de": "INACTIVE"
+        },
+        "1586774325": {
+            "1049.b.akamai.net": "INACTIVE"
+        },
+        "1586774326": {
+            "adi.mainichi.co.jp": "INACTIVE",
+            "adimage.asiaone.com.sg": "INACTIVE"
         }
     }
 }
