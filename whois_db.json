@@ -790,9 +790,9 @@
         "state": "future"
     },
     "adinfuse.com": {
-        "epoch": 1580169600.0,
-        "expiration_date": "28-jan-2020",
-        "state": "past"
+        "epoch": 1618358400.0,
+        "expiration_date": "14-apr-2021",
+        "state": "future"
     },
     "adinjector.net": {
         "epoch": 1599696000.0,
