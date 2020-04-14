@@ -20,7 +20,6 @@
             "1fjiw5x.oloadcdn.net": "INACTIVE",
             "a.0day.kiev.ua": "INACTIVE",
             "a.26f396e0b71780f057be4d4af8ebe55b.com": "INACTIVE",
-            "a.bf-tools.net.edgekey.net": "INACTIVE",
             "a.collective-media.net": "INACTIVE"
         },
         "1586770002": {
@@ -29,14 +28,11 @@
             "ad-images.suntimes.com": "INACTIVE",
             "ad-serverparc.nl": "INACTIVE",
             "ad-yt-bfp.doubleclick.net": "INACTIVE",
-            "ad.3au.doubleclick.net": "INACTIVE",
             "ad.aboutit.de": "INACTIVE",
-            "ad.afy11.net": "INACTIVE",
             "ad.audio-ak.cdn.spotify.com": "INACTIVE",
             "ad.directrev.com": "INACTIVE",
             "ad.e-kolay.net": "INACTIVE",
             "ad.eurosport.de": "INACTIVE",
-            "ad.f1cd.ru": "INACTIVE",
             "ad.globe7.com": "INACTIVE",
             "ad.leadboltapps.net": "INACTIVE",
             "ad.leadboltmobile.net": "INACTIVE",
@@ -69,6 +65,12 @@
         },
         "1586783313": {
             "ad.eurosport.com": "INACTIVE"
+        },
+        "1586860225": {
+            "a.bf-tools.net.edgekey.net": "INACTIVE",
+            "ad.3au.doubleclick.net": "INACTIVE",
+            "ad.afy11.net": "INACTIVE",
+            "ad.f1cd.ru": "INACTIVE"
         }
     }
 }
