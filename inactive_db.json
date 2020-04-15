@@ -59,11 +59,6 @@
             "adi.mainichi.co.jp": "INACTIVE",
             "adimage.asiaone.com.sg": "INACTIVE"
         },
-        "1586870351": {
-            "050003.voodoo.io": "INACTIVE",
-            "050005.voodoo.io": "INACTIVE",
-            "ad.eurosport.com": "INACTIVE"
-        },
         "1586947210": {
             "a.bf-tools.net.edgekey.net": "INACTIVE"
         },
@@ -74,6 +69,11 @@
         },
         "1586955782": {
             "activeoffers.appromoters.com": "INACTIVE"
+        },
+        "1586960237": {
+            "050003.voodoo.io": "INACTIVE",
+            "050005.voodoo.io": "INACTIVE",
+            "ad.eurosport.com": "INACTIVE"
         }
     }
 }
