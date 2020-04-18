@@ -202,7 +202,7 @@
     "99count.com": {
         "epoch": 1587168000.0,
         "expiration_date": "18-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "a-ads.com": {
         "epoch": 1594080000.0,
@@ -887,7 +887,7 @@
     "adlegend.com": {
         "epoch": 1587168000.0,
         "expiration_date": "18-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "adloox.com": {
         "epoch": 1645747200.0,
