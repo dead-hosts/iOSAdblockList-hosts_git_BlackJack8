@@ -241,8 +241,8 @@
         "ads.admob.com": {
             "included_at_epoch": 1587982800.123083,
             "included_at_iso": "2020-04-27T10:20:00.123083",
-            "last_retested_at_epoch": 1587982800.123083,
-            "last_retested_at_iso": "2020-04-27T10:20:00.123083",
+            "last_retested_at_epoch": 1588081500.206603,
+            "last_retested_at_iso": "2020-04-28T13:45:00.206603",
             "status": "INACTIVE"
         },
         "ads.adultswim.com": {
