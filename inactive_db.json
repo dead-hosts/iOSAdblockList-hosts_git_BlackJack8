@@ -276,8 +276,8 @@
         "ads.aol.com": {
             "included_at_epoch": 1587982800.173671,
             "included_at_iso": "2020-04-27T10:20:00.173671",
-            "last_retested_at_epoch": 1587982800.173671,
-            "last_retested_at_iso": "2020-04-27T10:20:00.173671",
+            "last_retested_at_epoch": 1588098326.359403,
+            "last_retested_at_iso": "2020-04-28T18:25:26.359403",
             "status": "INACTIVE"
         },
         "ads.asia1.com.sg": {
