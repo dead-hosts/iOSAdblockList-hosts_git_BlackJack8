@@ -283,8 +283,8 @@
         "ads.asia1.com.sg": {
             "included_at_epoch": 1587982800.195174,
             "included_at_iso": "2020-04-27T10:20:00.195174",
-            "last_retested_at_epoch": 1587982800.195174,
-            "last_retested_at_iso": "2020-04-27T10:20:00.195174",
+            "last_retested_at_epoch": 1588102588.419525,
+            "last_retested_at_iso": "2020-04-28T19:36:28.419525",
             "status": "INACTIVE"
         },
         "ads.batpmturner.com": {
