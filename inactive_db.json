@@ -248,29 +248,29 @@
         "ads.adultswim.com": {
             "included_at_epoch": 1587982800.139815,
             "included_at_iso": "2020-04-27T10:20:00.139815",
-            "last_retested_at_epoch": 1587982800.139815,
-            "last_retested_at_iso": "2020-04-27T10:20:00.139815",
+            "last_retested_at_epoch": 1588085698.748191,
+            "last_retested_at_iso": "2020-04-28T14:54:58.748191",
             "status": "INACTIVE"
         },
         "ads.ak.facebook.com.edgesuite.net": {
             "included_at_epoch": 1587982800.152761,
             "included_at_iso": "2020-04-27T10:20:00.152761",
-            "last_retested_at_epoch": 1587982800.152761,
-            "last_retested_at_iso": "2020-04-27T10:20:00.152761",
+            "last_retested_at_epoch": 1588085698.763167,
+            "last_retested_at_iso": "2020-04-28T14:54:58.763167",
             "status": "INACTIVE"
         },
         "ads.allvatar.com": {
             "included_at_epoch": 1587982800.157949,
             "included_at_iso": "2020-04-27T10:20:00.157949",
-            "last_retested_at_epoch": 1587982800.157949,
-            "last_retested_at_iso": "2020-04-27T10:20:00.157949",
+            "last_retested_at_epoch": 1588085698.768723,
+            "last_retested_at_iso": "2020-04-28T14:54:58.768723",
             "status": "INACTIVE"
         },
         "ads.alwayson-network.com": {
             "included_at_epoch": 1587982800.163316,
             "included_at_iso": "2020-04-27T10:20:00.163316",
-            "last_retested_at_epoch": 1587982800.163316,
-            "last_retested_at_iso": "2020-04-27T10:20:00.163316",
+            "last_retested_at_epoch": 1588085698.774114,
+            "last_retested_at_iso": "2020-04-28T14:54:58.774114",
             "status": "INACTIVE"
         },
         "ads.aol.com": {
