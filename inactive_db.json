@@ -171,8 +171,8 @@
         "adq.nextag.com": {
             "included_at_epoch": 1587982799.990476,
             "included_at_iso": "2020-04-27T10:19:59.990476",
-            "last_retested_at_epoch": 1587982799.990476,
-            "last_retested_at_iso": "2020-04-27T10:19:59.990476",
+            "last_retested_at_epoch": 1588072697.528856,
+            "last_retested_at_iso": "2020-04-28T11:18:17.528856",
             "status": "INACTIVE"
         },
         "adrotator.se": {
@@ -185,29 +185,29 @@
         "ads-a-darwin.hulu.com": {
             "included_at_epoch": 1587982800.030054,
             "included_at_iso": "2020-04-27T10:20:00.030054",
-            "last_retested_at_epoch": 1587982800.030054,
-            "last_retested_at_iso": "2020-04-27T10:20:00.030054",
+            "last_retested_at_epoch": 1588072697.567569,
+            "last_retested_at_iso": "2020-04-28T11:18:17.567569",
             "status": "INACTIVE"
         },
         "ads-akp.spotify.com": {
             "included_at_epoch": 1587982800.031796,
             "included_at_iso": "2020-04-27T10:20:00.031796",
-            "last_retested_at_epoch": 1587982800.031796,
-            "last_retested_at_iso": "2020-04-27T10:20:00.031796",
+            "last_retested_at_epoch": 1588072697.569664,
+            "last_retested_at_iso": "2020-04-28T11:18:17.569664",
             "status": "INACTIVE"
         },
         "ads-fa.cdn.spotify.com": {
             "included_at_epoch": 1587982800.048481,
             "included_at_iso": "2020-04-27T10:20:00.048481",
-            "last_retested_at_epoch": 1587982800.048481,
-            "last_retested_at_iso": "2020-04-27T10:20:00.048481",
+            "last_retested_at_epoch": 1588072697.586736,
+            "last_retested_at_iso": "2020-04-28T11:18:17.586736",
             "status": "INACTIVE"
         },
         "ads-fa.spotify.com": {
             "included_at_epoch": 1587982800.050365,
             "included_at_iso": "2020-04-27T10:20:00.050365",
-            "last_retested_at_epoch": 1587982800.050365,
-            "last_retested_at_iso": "2020-04-27T10:20:00.050365",
+            "last_retested_at_epoch": 1588072697.588799,
+            "last_retested_at_iso": "2020-04-28T11:18:17.588799",
             "status": "INACTIVE"
         },
         "ads.admob.com": {
