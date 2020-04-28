@@ -119,6 +119,13 @@
             "last_retested_at_iso": "2020-04-28T10:04:13.455935",
             "status": "INACTIVE"
         },
+        "ad.profiwin.de": {
+            "included_at_epoch": 1588107361.89776,
+            "included_at_iso": "2020-04-28T20:56:01.897760",
+            "last_retested_at_epoch": 1588107361.89776,
+            "last_retested_at_iso": "2020-04-28T20:56:01.897760",
+            "status": "INACTIVE"
+        },
         "adi.mainichi.co.jp": {
             "included_at_epoch": 1586774326.0,
             "included_at_iso": "2020-04-13T10:38:46",
