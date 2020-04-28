@@ -175,6 +175,13 @@
             "last_retested_at_iso": "2020-04-27T10:19:59.990476",
             "status": "INACTIVE"
         },
+        "adrotator.se": {
+            "included_at_epoch": 1588040460.816829,
+            "included_at_iso": "2020-04-28T02:21:00.816829",
+            "last_retested_at_epoch": 1588040460.816829,
+            "last_retested_at_iso": "2020-04-28T02:21:00.816829",
+            "status": "INACTIVE"
+        },
         "ads-a-darwin.hulu.com": {
             "included_at_epoch": 1587982800.030054,
             "included_at_iso": "2020-04-27T10:20:00.030054",
