@@ -3,15 +3,15 @@
         "050003.voodoo.io": {
             "included_at_epoch": 1587142116.0,
             "included_at_iso": "2020-04-17T16:48:36",
-            "last_retested_at_epoch": 1588068252.76011,
-            "last_retested_at_iso": "2020-04-28T10:04:12.760110",
+            "last_retested_at_epoch": 1588159676.850771,
+            "last_retested_at_iso": "2020-04-29T11:27:56.850771",
             "status": "INACTIVE"
         },
         "050005.voodoo.io": {
             "included_at_epoch": 1587979031.14473,
             "included_at_iso": "2020-04-27T09:17:11.144730",
-            "last_retested_at_epoch": 1588068252.758205,
-            "last_retested_at_iso": "2020-04-28T10:04:12.758205",
+            "last_retested_at_epoch": 1588159676.853318,
+            "last_retested_at_iso": "2020-04-29T11:27:56.853318",
             "status": "INACTIVE"
         },
         "1049.b.akamai.net": {
@@ -59,8 +59,8 @@
         "a.bf-tools.net.edgekey.net": {
             "included_at_epoch": 1587211502.0,
             "included_at_iso": "2020-04-18T12:05:02",
-            "last_retested_at_epoch": 1588068253.043174,
-            "last_retested_at_iso": "2020-04-28T10:04:13.043174",
+            "last_retested_at_epoch": 1588159677.132722,
+            "last_retested_at_iso": "2020-04-29T11:27:57.132722",
             "status": "INACTIVE"
         },
         "a32.g.a.yimg.com": {
@@ -80,8 +80,8 @@
         "ad.3au.doubleclick.net": {
             "included_at_epoch": 1587979031.658798,
             "included_at_iso": "2020-04-27T09:17:11.658798",
-            "last_retested_at_epoch": 1588068253.365811,
-            "last_retested_at_iso": "2020-04-28T10:04:13.365811",
+            "last_retested_at_epoch": 1588159677.454469,
+            "last_retested_at_iso": "2020-04-29T11:27:57.454469",
             "status": "INACTIVE"
         },
         "ad.adip.ly": {
@@ -94,8 +94,8 @@
         "ad.afy11.net": {
             "included_at_epoch": 1587979031.687976,
             "included_at_iso": "2020-04-27T09:17:11.687976",
-            "last_retested_at_epoch": 1588068253.394772,
-            "last_retested_at_iso": "2020-04-28T10:04:13.394772",
+            "last_retested_at_epoch": 1588159677.477465,
+            "last_retested_at_iso": "2020-04-29T11:27:57.477465",
             "status": "INACTIVE"
         },
         "ad.choiceradio.com": {
@@ -115,8 +115,8 @@
         "ad.f1cd.ru": {
             "included_at_epoch": 1587979031.750443,
             "included_at_iso": "2020-04-27T09:17:11.750443",
-            "last_retested_at_epoch": 1588068253.455935,
-            "last_retested_at_iso": "2020-04-28T10:04:13.455935",
+            "last_retested_at_epoch": 1588159677.528375,
+            "last_retested_at_iso": "2020-04-29T11:27:57.528375",
             "status": "INACTIVE"
         },
         "ad.profiwin.de": {
@@ -206,36 +206,36 @@
         "adq.nextag.com": {
             "included_at_epoch": 1587982799.990476,
             "included_at_iso": "2020-04-27T10:19:59.990476",
-            "last_retested_at_epoch": 1588072697.528856,
-            "last_retested_at_iso": "2020-04-28T11:18:17.528856",
+            "last_retested_at_epoch": 1588159678.647874,
+            "last_retested_at_iso": "2020-04-29T11:27:58.647874",
             "status": "INACTIVE"
         },
         "ads-a-darwin.hulu.com": {
             "included_at_epoch": 1587982800.030054,
             "included_at_iso": "2020-04-27T10:20:00.030054",
-            "last_retested_at_epoch": 1588072697.567569,
-            "last_retested_at_iso": "2020-04-28T11:18:17.567569",
+            "last_retested_at_epoch": 1588159678.690552,
+            "last_retested_at_iso": "2020-04-29T11:27:58.690552",
             "status": "INACTIVE"
         },
         "ads-akp.spotify.com": {
             "included_at_epoch": 1587982800.031796,
             "included_at_iso": "2020-04-27T10:20:00.031796",
-            "last_retested_at_epoch": 1588072697.569664,
-            "last_retested_at_iso": "2020-04-28T11:18:17.569664",
+            "last_retested_at_epoch": 1588159678.692775,
+            "last_retested_at_iso": "2020-04-29T11:27:58.692775",
             "status": "INACTIVE"
         },
         "ads-fa.cdn.spotify.com": {
             "included_at_epoch": 1587982800.048481,
             "included_at_iso": "2020-04-27T10:20:00.048481",
-            "last_retested_at_epoch": 1588072697.586736,
-            "last_retested_at_iso": "2020-04-28T11:18:17.586736",
+            "last_retested_at_epoch": 1588159678.714249,
+            "last_retested_at_iso": "2020-04-29T11:27:58.714249",
             "status": "INACTIVE"
         },
         "ads-fa.spotify.com": {
             "included_at_epoch": 1587982800.050365,
             "included_at_iso": "2020-04-27T10:20:00.050365",
-            "last_retested_at_epoch": 1588072697.588799,
-            "last_retested_at_iso": "2020-04-28T11:18:17.588799",
+            "last_retested_at_epoch": 1588159678.711981,
+            "last_retested_at_iso": "2020-04-29T11:27:58.711981",
             "status": "INACTIVE"
         },
         "ads.admob.com": {
