@@ -1054,6 +1054,11 @@
         "expiration_date": "09-apr-2021",
         "state": "future"
     },
+    "admob.pt": {
+        "epoch": 1614470400.0,
+        "expiration_date": "28-feb-2021",
+        "state": "future"
+    },
     "admob.ru": {
         "epoch": 1597968000.0,
         "expiration_date": "21-aug-2020",
