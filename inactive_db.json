@@ -136,8 +136,8 @@
         "adk2ads.tictacti.com": {
             "included_at_epoch": 1587979032.369094,
             "included_at_iso": "2020-04-27T09:17:12.369094",
-            "last_retested_at_epoch": 1588068254.124337,
-            "last_retested_at_iso": "2020-04-28T10:04:14.124337",
+            "last_retested_at_epoch": 1588154886.239957,
+            "last_retested_at_iso": "2020-04-29T10:08:06.239957",
             "status": "INACTIVE"
         },
         "adman.in.gr": {
@@ -150,57 +150,57 @@
         "admob.comadwhirl.com": {
             "included_at_epoch": 1587979032.516031,
             "included_at_iso": "2020-04-27T09:17:12.516031",
-            "last_retested_at_epoch": 1588068254.288896,
-            "last_retested_at_iso": "2020-04-28T10:04:14.288896",
+            "last_retested_at_epoch": 1588154886.405197,
+            "last_retested_at_iso": "2020-04-29T10:08:06.405197",
             "status": "INACTIVE"
         },
         "admp-tc-digo.adtlgc.com": {
             "included_at_epoch": 1587979032.577835,
             "included_at_iso": "2020-04-27T09:17:12.577835",
-            "last_retested_at_epoch": 1588068254.361903,
-            "last_retested_at_iso": "2020-04-28T10:04:14.361903",
+            "last_retested_at_epoch": 1588154886.479827,
+            "last_retested_at_iso": "2020-04-29T10:08:06.479827",
             "status": "INACTIVE"
         },
         "admp-tc-hegnar.adtlgc.com": {
             "included_at_epoch": 1587979032.58065,
             "included_at_iso": "2020-04-27T09:17:12.580650",
-            "last_retested_at_epoch": 1588068254.365701,
-            "last_retested_at_iso": "2020-04-28T10:04:14.365701",
+            "last_retested_at_epoch": 1588154886.48395,
+            "last_retested_at_iso": "2020-04-29T10:08:06.483950",
             "status": "INACTIVE"
         },
         "admp-tc-larepublica.adtlgc.com": {
             "included_at_epoch": 1587979032.583522,
             "included_at_iso": "2020-04-27T09:17:12.583522",
-            "last_retested_at_epoch": 1588068254.368082,
-            "last_retested_at_iso": "2020-04-28T10:04:14.368082",
+            "last_retested_at_epoch": 1588154886.486347,
+            "last_retested_at_iso": "2020-04-29T10:08:06.486347",
             "status": "INACTIVE"
         },
         "admp-tc-lrytas.adtlgc.com": {
             "included_at_epoch": 1587979032.585174,
             "included_at_iso": "2020-04-27T09:17:12.585174",
-            "last_retested_at_epoch": 1588068254.371898,
-            "last_retested_at_iso": "2020-04-28T10:04:14.371898",
+            "last_retested_at_epoch": 1588154886.49025,
+            "last_retested_at_iso": "2020-04-29T10:08:06.490250",
             "status": "INACTIVE"
         },
         "admp-tc-oecd.adtlgc.com": {
             "included_at_epoch": 1587979032.588417,
             "included_at_iso": "2020-04-27T09:17:12.588417",
-            "last_retested_at_epoch": 1588068254.375911,
-            "last_retested_at_iso": "2020-04-28T10:04:14.375911",
+            "last_retested_at_epoch": 1588154886.496444,
+            "last_retested_at_iso": "2020-04-29T10:08:06.496444",
             "status": "INACTIVE"
         },
         "admp-tc-pmp.adtlgc.com": {
             "included_at_epoch": 1587979032.590366,
             "included_at_iso": "2020-04-27T09:17:12.590366",
-            "last_retested_at_epoch": 1588068254.378312,
-            "last_retested_at_iso": "2020-04-28T10:04:14.378312",
+            "last_retested_at_epoch": 1588154886.494148,
+            "last_retested_at_iso": "2020-04-29T10:08:06.494148",
             "status": "INACTIVE"
         },
         "adnet.worldreviewer.com": {
             "included_at_epoch": 1587979032.635723,
             "included_at_iso": "2020-04-27T09:17:12.635723",
-            "last_retested_at_epoch": 1588068254.426357,
-            "last_retested_at_iso": "2020-04-28T10:04:14.426357",
+            "last_retested_at_epoch": 1588154886.546529,
+            "last_retested_at_iso": "2020-04-29T10:08:06.546529",
             "status": "INACTIVE"
         },
         "adq.nextag.com": {
