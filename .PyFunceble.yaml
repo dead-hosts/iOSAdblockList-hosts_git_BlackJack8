@@ -3,7 +3,8 @@ aggressive: false
 auto_continue: true
 ci: true
 ci_autosave_commit: '[Autosave][Dead-Hosts::repository-structure]'
-ci_autosave_final_commit: '[Final/Result][Dead-Hosts::repository-structure]'
+ci_autosave_final_commit: '[Final/Result][Dead-Hosts::iOSAdblockList-hosts_git_BlackJack8]
+    | cc @BlackJack8 | '
 ci_autosave_minutes: 10
 ci_branch: master
 ci_distribution_branch: master
