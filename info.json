@@ -13,7 +13,9 @@
     "live_update": true,
     "name": "iOSAdblockList-hosts_git_BlackJack8",
     "own_management": false,
-    "ping": [],
+    "ping": [
+        "@BlackJack8"
+    ],
     "raw_link": "https://raw.githubusercontent.com/BlackJack8/iOSAdblockList/master/Hosts.txt",
     "start_datetime": "2020-04-11T08:55:59.159339",
     "start_timestamp": 1586595359.159339
