@@ -2263,5 +2263,330 @@
         "epoch": 1598486400.0,
         "expiration_date": "27-aug-2020",
         "state": "future"
+    },
+    "andomedia.com": {
+        "epoch": 1599696000.0,
+        "expiration_date": "10-sep-2020",
+        "state": "future"
+    },
+    "andromob.info": {
+        "epoch": 1593820800.0,
+        "expiration_date": "04-jul-2020",
+        "state": "future"
+    },
+    "anquan.org": {
+        "epoch": 1717286400.0,
+        "expiration_date": "02-jun-2024",
+        "state": "future"
+    },
+    "antivironlineeu.com": {
+        "epoch": 1594425600.0,
+        "expiration_date": "11-jul-2020",
+        "state": "future"
+    },
+    "apex-ad.com": {
+        "epoch": 1610323200.0,
+        "expiration_date": "11-jan-2021",
+        "state": "future"
+    },
+    "aphycolourses.info": {
+        "epoch": 1639612800.0,
+        "expiration_date": "16-dec-2021",
+        "state": "future"
+    },
+    "api-01.com": {
+        "epoch": 1817856000.0,
+        "expiration_date": "10-aug-2027",
+        "state": "future"
+    },
+    "api-02.com": {
+        "epoch": 1817856000.0,
+        "expiration_date": "10-aug-2027",
+        "state": "future"
+    },
+    "api-03.com": {
+        "epoch": 1817856000.0,
+        "expiration_date": "10-aug-2027",
+        "state": "future"
+    },
+    "api-04.com": {
+        "epoch": 1817856000.0,
+        "expiration_date": "10-aug-2027",
+        "state": "future"
+    },
+    "api-05.com": {
+        "epoch": 1817856000.0,
+        "expiration_date": "10-aug-2027",
+        "state": "future"
+    },
+    "api-06.com": {
+        "epoch": 1817856000.0,
+        "expiration_date": "10-aug-2027",
+        "state": "future"
+    },
+    "api-07.com": {
+        "epoch": 1817856000.0,
+        "expiration_date": "10-aug-2027",
+        "state": "future"
+    },
+    "api-08.com": {
+        "epoch": 1817856000.0,
+        "expiration_date": "10-aug-2027",
+        "state": "future"
+    },
+    "apis.com.br": {
+        "epoch": 1837900800.0,
+        "expiration_date": "29-mar-2028",
+        "state": "future"
+    },
+    "app-measurement.com": {
+        "epoch": 1592524800.0,
+        "expiration_date": "19-jun-2020",
+        "state": "future"
+    },
+    "app-promo.com": {
+        "epoch": 1595548800.0,
+        "expiration_date": "24-jul-2020",
+        "state": "future"
+    },
+    "app.link": {
+        "epoch": 1805328000.0,
+        "expiration_date": "18-mar-2027",
+        "state": "future"
+    },
+    "appads.com": {
+        "epoch": 1625702400.0,
+        "expiration_date": "08-jul-2021",
+        "state": "future"
+    },
+    "appbaqend.com": {
+        "epoch": 1589587200.0,
+        "expiration_date": "16-may-2020",
+        "state": "future"
+    },
+    "appboy.com": {
+        "epoch": 1696550400.0,
+        "expiration_date": "06-oct-2023",
+        "state": "future"
+    },
+    "appclick.co": {
+        "epoch": 1596326400.0,
+        "expiration_date": "02-aug-2020",
+        "state": "future"
+    },
+    "appclick.net": {
+        "epoch": 1613520000.0,
+        "expiration_date": "17-feb-2021",
+        "state": "future"
+    },
+    "appcpi.net": {
+        "epoch": 1617148800.0,
+        "expiration_date": "31-mar-2021",
+        "state": "future"
+    },
+    "appdog.com": {
+        "epoch": 1593302400.0,
+        "expiration_date": "28-jun-2020",
+        "state": "future"
+    },
+    "appearch.info": {
+        "epoch": 1613692800.0,
+        "expiration_date": "19-feb-2021",
+        "state": "future"
+    },
+    "appfireworks.com": {
+        "epoch": 1600992000.0,
+        "expiration_date": "25-sep-2020",
+        "state": "future"
+    },
+    "appflood.com": {
+        "epoch": 1601424000.0,
+        "expiration_date": "30-sep-2020",
+        "state": "future"
+    },
+    "appia.com": {
+        "epoch": 1631232000.0,
+        "expiration_date": "10-sep-2021",
+        "state": "future"
+    },
+    "appier.com": {
+        "epoch": 1598832000.0,
+        "expiration_date": "31-aug-2020",
+        "state": "future"
+    },
+    "appier.net": {
+        "epoch": 1624060800.0,
+        "expiration_date": "19-jun-2021",
+        "state": "future"
+    },
+    "appintop.com": {
+        "epoch": 1591747200.0,
+        "expiration_date": "10-jun-2020",
+        "state": "future"
+    },
+    "applift.com": {
+        "epoch": 1614729600.0,
+        "expiration_date": "03-mar-2021",
+        "state": "future"
+    },
+    "applovin.com": {
+        "epoch": 1719792000.0,
+        "expiration_date": "01-jul-2024",
+        "state": "future"
+    },
+    "applvn.com": {
+        "epoch": 1590364800.0,
+        "expiration_date": "25-may-2020",
+        "state": "future"
+    },
+    "appnext.com": {
+        "epoch": 1613174400.0,
+        "expiration_date": "13-feb-2021",
+        "state": "future"
+    },
+    "appnexus.com": {
+        "epoch": 1599782400.0,
+        "expiration_date": "11-sep-2020",
+        "state": "future"
+    },
+    "appnexus.net": {
+        "epoch": 1631404800.0,
+        "expiration_date": "12-sep-2021",
+        "state": "future"
+    },
+    "appodeal.com": {
+        "epoch": 1588377600.0,
+        "expiration_date": "02-may-2020",
+        "state": "future"
+    },
+    "appolicious.com": {
+        "epoch": 1619222400.0,
+        "expiration_date": "24-apr-2021",
+        "state": "future"
+    },
+    "apprebates.com": {
+        "epoch": 1598486400.0,
+        "expiration_date": "27-aug-2020",
+        "state": "future"
+    },
+    "appredeem.com": {
+        "epoch": 1597795200.0,
+        "expiration_date": "19-aug-2020",
+        "state": "future"
+    },
+    "approstar.com": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "apprupt.com": {
+        "epoch": 1614124800.0,
+        "expiration_date": "24-feb-2021",
+        "state": "future"
+    },
+    "appsdt.com": {
+        "epoch": 1648944000.0,
+        "expiration_date": "03-apr-2022",
+        "state": "future"
+    },
+    "appserver-ap.com": {
+        "epoch": 1615939200.0,
+        "expiration_date": "17-mar-2021",
+        "state": "future"
+    },
+    "appserver-cp.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
+    "appservestar.com": {
+        "epoch": 1608163200.0,
+        "expiration_date": "17-dec-2020",
+        "state": "future"
+    },
+    "appsfire.com": {
+        "epoch": 1620086400.0,
+        "expiration_date": "04-may-2021",
+        "state": "future"
+    },
+    "appsfire.net": {
+        "epoch": 1620086400.0,
+        "expiration_date": "04-may-2021",
+        "state": "future"
+    },
+    "appsflyer.com": {
+        "epoch": 1715212800.0,
+        "expiration_date": "09-may-2024",
+        "state": "future"
+    },
+    "appsnack.com": {
+        "epoch": 1598572800.0,
+        "expiration_date": "28-aug-2020",
+        "state": "future"
+    },
+    "apptera.com": {
+        "epoch": 1644710400.0,
+        "expiration_date": "13-feb-2022",
+        "state": "future"
+    },
+    "apptornado.com": {
+        "epoch": 1601683200.0,
+        "expiration_date": "03-oct-2020",
+        "state": "future"
+    },
+    "appular.com": {
+        "epoch": 1615248000.0,
+        "expiration_date": "09-mar-2021",
+        "state": "future"
+    },
+    "apsalar.com": {
+        "epoch": 1611792000.0,
+        "expiration_date": "28-jan-2021",
+        "state": "future"
+    },
+    "aptashant.club": {
+        "epoch": 1596240000.0,
+        "expiration_date": "01-aug-2020",
+        "state": "future"
+    },
+    "aptrk5.com": {
+        "epoch": 1582502400.0,
+        "expiration_date": "24-feb-2020",
+        "state": "past"
+    },
+    "apture.com": {
+        "epoch": 1620086400.0,
+        "expiration_date": "04-may-2021",
+        "state": "future"
+    },
+    "apxadtracking.net": {
+        "epoch": 1596672000.0,
+        "expiration_date": "06-aug-2020",
+        "state": "future"
+    },
+    "arcadebanners.com": {
+        "epoch": 1649289600.0,
+        "expiration_date": "07-apr-2022",
+        "state": "future"
+    },
+    "are-ter.com": {
+        "epoch": 1589155200.0,
+        "expiration_date": "11-may-2020",
+        "state": "future"
+    },
+    "arraghand-top.com": {
+        "epoch": 1599350400.0,
+        "expiration_date": "06-sep-2020",
+        "state": "future"
+    },
+    "arrlnk.com": {
+        "epoch": 1613088000.0,
+        "expiration_date": "12-feb-2021",
+        "state": "future"
+    },
+    "as5000.com": {
+        "epoch": 1616025600.0,
+        "expiration_date": "18-mar-2021",
+        "state": "future"
     }
 }
