@@ -3589,6 +3589,11 @@
         "expiration_date": "18-feb-2021",
         "state": "future"
     },
+    "cdn-server.xyz": {
+        "epoch": 1611619200.0,
+        "expiration_date": "26-jan-2021",
+        "state": "future"
+    },
     "cdn7.rocks": {
         "epoch": 1614038400.0,
         "expiration_date": "23-feb-2021",
