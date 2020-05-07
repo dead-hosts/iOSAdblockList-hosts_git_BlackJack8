@@ -3,12 +3,17 @@
 
 0.0.0.0 050003.voodoo.io
 0.0.0.0 050005.voodoo.io
+0.0.0.0 1049.b.akamai.net
+0.0.0.0 1fjiw5x.oloadcdn.net
+0.0.0.0 a32.g.a.yimg.com
 0.0.0.0 a.bf-tools.net.edgekey.net
 0.0.0.0 ad.3au.doubleclick.net
 0.0.0.0 ad.afy11.net
 0.0.0.0 ad.f1cd.ru
 0.0.0.0 adfarm.mediaplex.com
+0.0.0.0 adi.mainichi.co.jp
 0.0.0.0 adk2ads.tictacti.com
+0.0.0.0 adman.in.gr
 0.0.0.0 admob.comadwhirl.com
 0.0.0.0 admp-tc-digo.adtlgc.com
 0.0.0.0 admp-tc-hegnar.adtlgc.com
@@ -607,3 +612,8 @@
 0.0.0.0 xaxis-emea.mookie1.com
 0.0.0.0 xaxis-it.mookie1.com
 0.0.0.0 xclub.app.infinixmobility.com
+0.0.0.0 yoc.mobi
+0.0.0.0 zap.mookie1.com
+0.0.0.0 zde-affinity.edgecaching.net
+0.0.0.0 zentral.aws.branch.io
+0.0.0.0 zeus.ad.intl.xiaomi.com
