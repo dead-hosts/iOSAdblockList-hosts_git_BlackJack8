@@ -10535,8 +10535,8 @@
         "state": "future"
     },
     "richpays.com": {
-        "epoch": 1588636800.0,
-        "expiration_date": "05-may-2020",
+        "epoch": 1620172800.0,
+        "expiration_date": "05-may-2021",
         "state": "future"
     },
     "richwebmaster.com": {
@@ -10655,8 +10655,8 @@
         "state": "future"
     },
     "rubiconproject.com": {
-        "epoch": 1588377600.0,
-        "expiration_date": "02-may-2020",
+        "epoch": 1619913600.0,
+        "expiration_date": "02-may-2021",
         "state": "future"
     },
     "run-syndicate.com": {
@@ -10757,6 +10757,11 @@
     "scanscout.com": {
         "epoch": 1590624000.0,
         "expiration_date": "28-may-2020",
+        "state": "future"
+    },
+    "scenicapp.space": {
+        "epoch": 1596931200.0,
+        "expiration_date": "09-aug-2020",
         "state": "future"
     },
     "scientiamobile.com": {
