@@ -11250,8 +11250,8 @@
         "state": "future"
     },
     "splicky.com": {
-        "epoch": 1588723200.0,
-        "expiration_date": "06-may-2020",
+        "epoch": 1620259200.0,
+        "expiration_date": "06-may-2021",
         "state": "future"
     },
     "sponsorpay.com": {
@@ -11627,6 +11627,11 @@
     "takeyourprizesnow4.life": {
         "epoch": 1614729600.0,
         "expiration_date": "03-mar-2021",
+        "state": "future"
+    },
+    "takip.site": {
+        "epoch": 1595980800.0,
+        "expiration_date": "29-jul-2020",
         "state": "future"
     },
     "takru.com": {
