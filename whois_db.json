@@ -8714,6 +8714,11 @@
         "expiration_date": "29-nov-2020",
         "state": "future"
     },
+    "navrcholu.cz": {
+        "epoch": 1603238400.0,
+        "expiration_date": "21-oct-2020",
+        "state": "future"
+    },
     "nbjmp.com": {
         "epoch": 1606780800.0,
         "expiration_date": "01-dec-2020",
@@ -8784,14 +8789,19 @@
         "expiration_date": "29-may-2021",
         "state": "future"
     },
+    "netagent.cz": {
+        "epoch": 1611532800.0,
+        "expiration_date": "25-jan-2021",
+        "state": "future"
+    },
     "netavenir.com": {
         "epoch": 1605744000.0,
         "expiration_date": "19-nov-2020",
         "state": "future"
     },
     "netclickstats.com": {
-        "epoch": 1588377600.0,
-        "expiration_date": "02-may-2020",
+        "epoch": 1619913600.0,
+        "expiration_date": "02-may-2021",
         "state": "future"
     },
     "netcommunities.com": {
@@ -8942,6 +8952,11 @@
     "nuggad.net": {
         "epoch": 1644019200.0,
         "expiration_date": "05-feb-2022",
+        "state": "future"
+    },
+    "nukat.cf": {
+        "epoch": 1606348800.0,
+        "expiration_date": "26-nov-2020",
         "state": "future"
     },
     "numbers.md": {
