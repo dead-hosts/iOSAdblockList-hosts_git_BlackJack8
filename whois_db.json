@@ -405,8 +405,8 @@
         "state": "future"
     },
     "ad4game.com": {
-        "epoch": 1589241600.0,
-        "expiration_date": "12-may-2020",
+        "epoch": 1620777600.0,
+        "expiration_date": "12-may-2021",
         "state": "future"
     },
     "ad4push.com": {
@@ -620,9 +620,9 @@
         "state": "future"
     },
     "addealing.com": {
-        "epoch": 1582156800.0,
-        "expiration_date": "20-feb-2020",
-        "state": "past"
+        "epoch": 1620604800.0,
+        "expiration_date": "10-may-2021",
+        "state": "future"
     },
     "addesktop.com": {
         "epoch": 1597622400.0,
@@ -1035,9 +1035,9 @@
         "state": "future"
     },
     "admob.it": {
-        "epoch": 1587600000.0,
-        "expiration_date": "23-apr-2020",
-        "state": "past"
+        "epoch": 1619136000.0,
+        "expiration_date": "23-apr-2021",
+        "state": "future"
     },
     "admob.kr": {
         "epoch": 1593129600.0,
