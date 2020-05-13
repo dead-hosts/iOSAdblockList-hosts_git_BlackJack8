@@ -4239,6 +4239,11 @@
         "expiration_date": "14-apr-2022",
         "state": "future"
     },
+    "counter.cz": {
+        "epoch": 1602460800.0,
+        "expiration_date": "12-oct-2020",
+        "state": "future"
+    },
     "cpalead.com": {
         "epoch": 1615939200.0,
         "expiration_date": "17-mar-2021",
@@ -4327,7 +4332,7 @@
     "creafi-online-media.com": {
         "epoch": 1589328000.0,
         "expiration_date": "13-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "creafi.com": {
         "epoch": 1609891200.0,
