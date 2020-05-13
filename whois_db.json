@@ -1245,8 +1245,8 @@
         "state": "future"
     },
     "adplxmd.com": {
-        "epoch": 1588982400.0,
-        "expiration_date": "09-may-2020",
+        "epoch": 1620518400.0,
+        "expiration_date": "09-may-2021",
         "state": "future"
     },
     "adprimemedia.com": {
@@ -1310,9 +1310,9 @@
         "state": "future"
     },
     "adrotator.se": {
-        "epoch": 1582329600.0,
-        "expiration_date": "22-feb-2020",
-        "state": "past"
+        "epoch": 1620518400.0,
+        "expiration_date": "09-may-2021",
+        "state": "future"
     },
     "adrta.com": {
         "epoch": 1687392000.0,
