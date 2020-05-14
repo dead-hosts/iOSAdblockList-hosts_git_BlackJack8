@@ -162,11 +162,13 @@ analytics.toast.com
 an.tacoda.net
 api.adflake.com
 api.admob.com
+api.adsnative.com
 api.alpha.branch.io
 api.ambelbet.com
 api.appfireworks.com
 api.ay73.de
 api.beta.branch.io
+api-cache.adsnative.com
 api.deep-ad.com.edgekey.net
 apidm.airpush.com
 api.dsp.batmobi.net
@@ -214,6 +216,7 @@ beacon-maxis.krxd.net
 beamkite.com
 b.engadget.com
 be.sponsorpay.com
+bevo.adsnative.com
 bigads.guj.de
 br-ad.sam4m.com
 brassrule.com
@@ -221,6 +224,7 @@ broker.video-v2.fyber.com
 c3.myapkcdn.in
 cat.sv.us.criteo.com
 c.compete.com
+cdn.adsnative.com
 cdn.cpiera.com
 cdn.freefacti.com
 cdn.layer.com
@@ -348,6 +352,7 @@ intouch.adinfuse.com
 ipe.pcwelt.de
 i.po.st
 ipreparty.info
+ivid-f5-us-va.adhigh.net
 iw3.a.mobimagic.com
 jail.branch.io
 javacript.gq
@@ -375,6 +380,7 @@ logs.mobiletop.cc
 lumpyleaf.com
 mads.aol.com
 magnetic.t.domdex.com
+mam.ad-balancer.at
 maplefarmmedia.com
 maroonspider.com
 matchcows.com
@@ -398,6 +404,7 @@ mobred.net
 mobsrv.in
 mprezchc.com
 mrp.rubiconproject.com
+mt.analytics.163.com
 mtbadedrhcx.bid
 munki.aws.branch.io
 munkireport.aws.branch.io
@@ -472,14 +479,18 @@ rtb.persona.ly
 rtb.sv.us.criteo.com
 rtwvnrgn.com
 rubick.gameanalytics.com
+rubicon-tagan.adlightning.com
 ru.cdn5.onthe.io
+rudy.adsnative.com
 rulerabbit.com
 ru-traffic.com
+ru.velti.com
 rvvslhmmbor.com
 rythmxchange.com
 sal.aws.branch.io
 scarcestream.com
 scfkfridulshkd.com
+sdk.adbuddiz.com
 sdk-ads.bidmotion.com
 sdk-data.nv.prod.bidmotion.com
 sdk.kamcord.com
@@ -539,6 +550,7 @@ tck.synerise.com
 terribleturkey.com
 textads.opera.com
 textron.vo.llnwd.net
+thales.adsrvr.org
 thanatos.branch.io
 theads.me
 theylike.org
@@ -555,6 +567,7 @@ track.bidads.co.in
 trackers.voodoo-analytics.io
 track.getoffers.top
 tracking.acekoala.com
+tracking.admobsphere.com
 tracking.appleadstech.com
 tracking.deskadsserver.com
 tracking.mobinetad.com
@@ -612,3 +625,8 @@ x0v6u-gomobilead.com
 xaxis-emea.mookie1.com
 xaxis-it.mookie1.com
 xclub.app.infinixmobility.com
+yoc.mobi
+zap.mookie1.com
+zde-affinity.edgecaching.net
+zentral.aws.branch.io
+zeus.ad.intl.xiaomi.com
