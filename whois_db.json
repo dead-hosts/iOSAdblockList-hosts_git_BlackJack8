@@ -9680,8 +9680,8 @@
         "state": "future"
     },
     "polarcdn-terrax.com": {
-        "epoch": 1589414400.0,
-        "expiration_date": "14-may-2020",
+        "epoch": 1652486400.0,
+        "expiration_date": "14-may-2022",
         "state": "future"
     },
     "polyad.net": {
@@ -9810,8 +9810,8 @@
         "state": "future"
     },
     "postitial.com": {
-        "epoch": 1589068800.0,
-        "expiration_date": "10-may-2020",
+        "epoch": 1620604800.0,
+        "expiration_date": "10-may-2021",
         "state": "future"
     },
     "postrelease.com": {
@@ -9950,8 +9950,8 @@
         "state": "future"
     },
     "prooffactor.com": {
-        "epoch": 1588982400.0,
-        "expiration_date": "09-may-2020",
+        "epoch": 1872979200.0,
+        "expiration_date": "09-may-2029",
         "state": "future"
     },
     "propellerads.com": {
@@ -10422,7 +10422,7 @@
     "reklamport.com": {
         "epoch": 1589414400.0,
         "expiration_date": "14-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "reklamz.com": {
         "epoch": 1594339200.0,
@@ -10527,7 +10527,7 @@
     "rfihub.com": {
         "epoch": 1589414400.0,
         "expiration_date": "14-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "rhythmnewmedia.com": {
         "epoch": 1616371200.0,
