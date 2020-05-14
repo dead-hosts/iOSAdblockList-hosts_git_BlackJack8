@@ -13069,6 +13069,11 @@
         "expiration_date": "22-jan-2021",
         "state": "future"
     },
+    "webcounter.cz": {
+        "epoch": 1774310400.0,
+        "expiration_date": "24-mar-2026",
+        "state": "future"
+    },
     "webgains.com": {
         "epoch": 1591574400.0,
         "expiration_date": "08-jun-2020",
@@ -13380,8 +13385,8 @@
         "state": "future"
     },
     "xtendmedia.com": {
-        "epoch": 1589155200.0,
-        "expiration_date": "11-may-2020",
+        "epoch": 1620691200.0,
+        "expiration_date": "11-may-2021",
         "state": "future"
     },
     "xtremetop100.com": {
