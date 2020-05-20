@@ -9490,8 +9490,8 @@
         "state": "future"
     },
     "pgmediaserve.com": {
-        "epoch": 1589500800.0,
-        "expiration_date": "15-may-2020",
+        "epoch": 1621036800.0,
+        "expiration_date": "15-may-2021",
         "state": "future"
     },
     "pgpartner.com": {
@@ -10420,9 +10420,9 @@
         "state": "future"
     },
     "reklamport.com": {
-        "epoch": 1589414400.0,
-        "expiration_date": "14-may-2020",
-        "state": "past"
+        "epoch": 1620950400.0,
+        "expiration_date": "14-may-2021",
+        "state": "future"
     },
     "reklamz.com": {
         "epoch": 1594339200.0,
@@ -10525,9 +10525,9 @@
         "state": "future"
     },
     "rfihub.com": {
-        "epoch": 1589414400.0,
-        "expiration_date": "14-may-2020",
-        "state": "past"
+        "epoch": 1620950400.0,
+        "expiration_date": "14-may-2021",
+        "state": "future"
     },
     "rhythmnewmedia.com": {
         "epoch": 1616371200.0,
