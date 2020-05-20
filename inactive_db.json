@@ -1,66 +1,66 @@
 {
     "/home/travis/build/dead-hosts/iOSAdblockList-hosts_git_BlackJack8/domains.list": {
         "050003.voodoo.io": {
-            "included_at_epoch": 1587142116.0,
-            "included_at_iso": "2020-04-17T16:48:36",
-            "last_retested_at_epoch": 1589358685.555363,
-            "last_retested_at_iso": "2020-05-13T08:31:25.555363",
+            "included_at_epoch": 1589963668.928257,
+            "included_at_iso": "2020-05-20T08:34:28.928257",
+            "last_retested_at_epoch": 1589963668.928257,
+            "last_retested_at_iso": "2020-05-20T08:34:28.928257",
             "status": "INACTIVE"
         },
         "050005.voodoo.io": {
             "included_at_epoch": 1587979031.14473,
             "included_at_iso": "2020-04-27T09:17:11.144730",
-            "last_retested_at_epoch": 1589358685.565089,
-            "last_retested_at_iso": "2020-05-13T08:31:25.565089",
+            "last_retested_at_epoch": 1589963668.938504,
+            "last_retested_at_iso": "2020-05-20T08:34:28.938504",
             "status": "INACTIVE"
         },
         "a.bf-tools.net.edgekey.net": {
-            "included_at_epoch": 1587211502.0,
-            "included_at_iso": "2020-04-18T12:05:02",
-            "last_retested_at_epoch": 1589358686.693167,
-            "last_retested_at_iso": "2020-05-13T08:31:26.693167",
+            "included_at_epoch": 1589963670.067633,
+            "included_at_iso": "2020-05-20T08:34:30.067633",
+            "last_retested_at_epoch": 1589963670.067633,
+            "last_retested_at_iso": "2020-05-20T08:34:30.067633",
             "status": "INACTIVE"
         },
         "acsystem.wasu.cn": {
             "included_at_epoch": 1589358687.19366,
             "included_at_iso": "2020-05-13T08:31:27.193660",
-            "last_retested_at_epoch": 1589358687.19366,
-            "last_retested_at_iso": "2020-05-13T08:31:27.193660",
+            "last_retested_at_epoch": 1589963670.589427,
+            "last_retested_at_iso": "2020-05-20T08:34:30.589427",
             "status": "INACTIVE"
         },
         "ad.3au.doubleclick.net": {
             "included_at_epoch": 1587979031.658798,
             "included_at_iso": "2020-04-27T09:17:11.658798",
-            "last_retested_at_epoch": 1589358687.598185,
-            "last_retested_at_iso": "2020-05-13T08:31:27.598185",
+            "last_retested_at_epoch": 1589963671.003885,
+            "last_retested_at_iso": "2020-05-20T08:34:31.003885",
             "status": "INACTIVE"
         },
         "ad.afy11.net": {
             "included_at_epoch": 1587979031.687976,
             "included_at_iso": "2020-04-27T09:17:11.687976",
-            "last_retested_at_epoch": 1589358687.626956,
-            "last_retested_at_iso": "2020-05-13T08:31:27.626956",
+            "last_retested_at_epoch": 1589963671.033041,
+            "last_retested_at_iso": "2020-05-20T08:34:31.033041",
             "status": "INACTIVE"
         },
         "ad.f1cd.ru": {
             "included_at_epoch": 1587979031.750443,
             "included_at_iso": "2020-04-27T09:17:11.750443",
-            "last_retested_at_epoch": 1589358687.685608,
-            "last_retested_at_iso": "2020-05-13T08:31:27.685608",
+            "last_retested_at_epoch": 1589963671.086969,
+            "last_retested_at_iso": "2020-05-20T08:34:31.086969",
             "status": "INACTIVE"
         },
         "adfarm.mediaplex.com": {
             "included_at_epoch": 1588282378.375766,
             "included_at_iso": "2020-04-30T21:32:58.375766",
-            "last_retested_at_epoch": 1589358689.444383,
-            "last_retested_at_iso": "2020-05-13T08:31:29.444383",
+            "last_retested_at_epoch": 1589963672.834705,
+            "last_retested_at_iso": "2020-05-20T08:34:32.834705",
             "status": "INACTIVE"
         },
         "adk2ads.tictacti.com": {
             "included_at_epoch": 1587979032.369094,
             "included_at_iso": "2020-04-27T09:17:12.369094",
-            "last_retested_at_epoch": 1589358690.372736,
-            "last_retested_at_iso": "2020-05-13T08:31:30.372736",
+            "last_retested_at_epoch": 1589963673.769272,
+            "last_retested_at_iso": "2020-05-20T08:34:33.769272",
             "status": "INACTIVE"
         },
         "admob.comadwhirl.com": {
