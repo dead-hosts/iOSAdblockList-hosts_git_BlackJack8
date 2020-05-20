@@ -162,11 +162,13 @@
 0.0.0.0 an.tacoda.net
 0.0.0.0 api.adflake.com
 0.0.0.0 api.admob.com
+0.0.0.0 api.adsnative.com
 0.0.0.0 api.alpha.branch.io
 0.0.0.0 api.ambelbet.com
 0.0.0.0 api.appfireworks.com
 0.0.0.0 api.ay73.de
 0.0.0.0 api.beta.branch.io
+0.0.0.0 api-cache.adsnative.com
 0.0.0.0 api.deep-ad.com.edgekey.net
 0.0.0.0 apidm.airpush.com
 0.0.0.0 api.dsp.batmobi.net
@@ -215,6 +217,7 @@
 0.0.0.0 beamkite.com
 0.0.0.0 b.engadget.com
 0.0.0.0 be.sponsorpay.com
+0.0.0.0 bevo.adsnative.com
 0.0.0.0 bigads.guj.de
 0.0.0.0 br-ad.sam4m.com
 0.0.0.0 brassrule.com
@@ -222,6 +225,7 @@
 0.0.0.0 c3.myapkcdn.in
 0.0.0.0 cat.sv.us.criteo.com
 0.0.0.0 c.compete.com
+0.0.0.0 cdn.adsnative.com
 0.0.0.0 cdn.cpiera.com
 0.0.0.0 cdn.freefacti.com
 0.0.0.0 cdn.layer.com
@@ -354,6 +358,7 @@
 0.0.0.0 ipe.pcwelt.de
 0.0.0.0 i.po.st
 0.0.0.0 ipreparty.info
+0.0.0.0 ivid-f5-us-va.adhigh.net
 0.0.0.0 iw3.a.mobimagic.com
 0.0.0.0 i.w.vip.ams1.inmobi.com
 0.0.0.0 jail.branch.io
@@ -381,6 +386,7 @@
 0.0.0.0 lumpyleaf.com
 0.0.0.0 mads.aol.com
 0.0.0.0 magnetic.t.domdex.com
+0.0.0.0 mam.ad-balancer.at
 0.0.0.0 maplefarmmedia.com
 0.0.0.0 matchcows.com
 0.0.0.0 match-us-east-1.sharethrough.com
@@ -404,6 +410,7 @@
 0.0.0.0 mprezchc.com
 0.0.0.0 mrp.rubiconproject.com
 0.0.0.0 ms-ads-events-cdn.prod.cloud.ogury.io
+0.0.0.0 mt.analytics.163.com
 0.0.0.0 mtbadedrhcx.bid
 0.0.0.0 munki.aws.branch.io
 0.0.0.0 munkireport.aws.branch.io
@@ -476,15 +483,19 @@
 0.0.0.0 rtb.sv.us.criteo.com
 0.0.0.0 rtwvnrgn.com
 0.0.0.0 rubick.gameanalytics.com
+0.0.0.0 rubicon-tagan.adlightning.com
 0.0.0.0 ru.cdn5.onthe.io
+0.0.0.0 rudy.adsnative.com
 0.0.0.0 rulerabbit.com
 0.0.0.0 ru-traffic.com
+0.0.0.0 ru.velti.com
 0.0.0.0 rvvslhmmbor.com
 0.0.0.0 rythmxchange.com
 0.0.0.0 sal.aws.branch.io
 0.0.0.0 sanalytics.virginmobileusa.com
 0.0.0.0 scarcestream.com
 0.0.0.0 scfkfridulshkd.com
+0.0.0.0 sdk.adbuddiz.com
 0.0.0.0 sdk-ads.bidmotion.com
 0.0.0.0 sdk-data.nv.prod.bidmotion.com
 0.0.0.0 sdk.kamcord.com
@@ -547,6 +558,7 @@
 0.0.0.0 terribleturkey.com
 0.0.0.0 textads.opera.com
 0.0.0.0 textron.vo.llnwd.net
+0.0.0.0 thales.adsrvr.org
 0.0.0.0 thanatos.branch.io
 0.0.0.0 theads.me
 0.0.0.0 theylike.org
@@ -563,6 +575,7 @@
 0.0.0.0 trackers.voodoo-analytics.io
 0.0.0.0 track.getoffers.top
 0.0.0.0 tracking.acekoala.com
+0.0.0.0 tracking.admobsphere.com
 0.0.0.0 tracking.appleadstech.com
 0.0.0.0 tracking.deskadsserver.com
 0.0.0.0 tracking.mobinetad.com
@@ -623,3 +636,12 @@
 0.0.0.0 www.pflexads.com
 0.0.0.0 www.revmob.com
 0.0.0.0 www-s1.revcontent.com
+0.0.0.0 x0v6u-gomobilead.com
+0.0.0.0 xaxis-emea.mookie1.com
+0.0.0.0 xaxis-it.mookie1.com
+0.0.0.0 xclub.app.infinixmobility.com
+0.0.0.0 yoc.mobi
+0.0.0.0 zap.mookie1.com
+0.0.0.0 zde-affinity.edgecaching.net
+0.0.0.0 zentral.aws.branch.io
+0.0.0.0 zeus.ad.intl.xiaomi.com
