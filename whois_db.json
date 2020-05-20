@@ -5005,9 +5005,9 @@
         "state": "future"
     },
     "emediate.dk": {
-        "epoch": 1582934400.0,
-        "expiration_date": "29-feb-2020",
-        "state": "past"
+        "epoch": 1614470400.0,
+        "expiration_date": "28-feb-2021",
+        "state": "future"
     },
     "emediate.se": {
         "epoch": 1617408000.0,
