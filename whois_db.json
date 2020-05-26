@@ -8484,6 +8484,11 @@
         "expiration_date": "28-sep-2020",
         "state": "future"
     },
+    "mprezchc.com": {
+        "epoch": 1621641600.0,
+        "expiration_date": "22-may-2021",
+        "state": "future"
+    },
     "mpstat.us": {
         "epoch": 1606608000.0,
         "expiration_date": "29-nov-2020",
@@ -9282,6 +9287,11 @@
     "overture.com": {
         "epoch": 1611532800.0,
         "expiration_date": "25-jan-2021",
+        "state": "future"
+    },
+    "owap.su": {
+        "epoch": 1624320000.0,
+        "expiration_date": "22-jun-2021",
         "state": "future"
     },
     "owebmoney.ru": {
