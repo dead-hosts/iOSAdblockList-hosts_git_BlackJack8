@@ -4265,9 +4265,9 @@
         "state": "future"
     },
     "cpmrocket.com": {
-        "epoch": 1584489600.0,
-        "expiration_date": "18-mar-2020",
-        "state": "past"
+        "epoch": 1621814400.0,
+        "expiration_date": "24-may-2021",
+        "state": "future"
     },
     "cpmstar.com": {
         "epoch": 1629590400.0,
@@ -4655,8 +4655,8 @@
         "state": "future"
     },
     "directivepub.com": {
-        "epoch": 1590192000.0,
-        "expiration_date": "23-may-2020",
+        "epoch": 1621728000.0,
+        "expiration_date": "23-may-2021",
         "state": "future"
     },
     "directleads.com": {
