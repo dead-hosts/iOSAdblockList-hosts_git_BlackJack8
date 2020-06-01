@@ -3792,7 +3792,7 @@
     "claria.com": {
         "epoch": 1590969600.0,
         "expiration_date": "01-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "clashmobile.com": {
         "epoch": 1596412800.0,
@@ -3985,8 +3985,8 @@
         "state": "future"
     },
     "clickzxc.com": {
-        "epoch": 1590624000.0,
-        "expiration_date": "28-may-2020",
+        "epoch": 1622160000.0,
+        "expiration_date": "28-may-2021",
         "state": "future"
     },
     "clicmanager.fr": {
