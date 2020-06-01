@@ -2910,8 +2910,8 @@
         "state": "future"
     },
     "bbelements.com": {
-        "epoch": 1590710400.0,
-        "expiration_date": "29-may-2020",
+        "epoch": 1622246400.0,
+        "expiration_date": "29-may-2021",
         "state": "future"
     },
     "bcfads.com": {
@@ -2960,8 +2960,8 @@
         "state": "future"
     },
     "besguses.pro": {
-        "epoch": 1590710400.0,
-        "expiration_date": "29-may-2020",
+        "epoch": 1622246400.0,
+        "expiration_date": "29-may-2021",
         "state": "future"
     },
     "best-pr.info": {
@@ -2980,8 +2980,8 @@
         "state": "future"
     },
     "bestadmedia.com": {
-        "epoch": 1590710400.0,
-        "expiration_date": "29-may-2020",
+        "epoch": 1622246400.0,
+        "expiration_date": "29-may-2021",
         "state": "future"
     },
     "bestsearch.net": {
@@ -3050,8 +3050,8 @@
         "state": "future"
     },
     "bidtrk.com": {
-        "epoch": 1590883200.0,
-        "expiration_date": "31-may-2020",
+        "epoch": 1622419200.0,
+        "expiration_date": "31-may-2021",
         "state": "future"
     },
     "bidvertiser.com": {
@@ -3387,7 +3387,7 @@
     "budsinc.com": {
         "epoch": 1590969600.0,
         "expiration_date": "01-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "bugsense.com": {
         "epoch": 1652918400.0,
