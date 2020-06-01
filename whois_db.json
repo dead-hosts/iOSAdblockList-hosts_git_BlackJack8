@@ -10780,8 +10780,8 @@
         "state": "future"
     },
     "scanscout.com": {
-        "epoch": 1590624000.0,
-        "expiration_date": "28-may-2020",
+        "epoch": 1622160000.0,
+        "expiration_date": "28-may-2021",
         "state": "future"
     },
     "scenicapp.space": {
@@ -10920,8 +10920,8 @@
         "state": "future"
     },
     "sessionm.com": {
-        "epoch": 1590969600.0,
-        "expiration_date": "01-jun-2020",
+        "epoch": 1622505600.0,
+        "expiration_date": "01-jun-2021",
         "state": "future"
     },
     "sexcounter.com": {
@@ -11062,7 +11062,7 @@
     "sistacked.com": {
         "epoch": 1590969600.0,
         "expiration_date": "01-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "sitemaji.com": {
         "epoch": 1743292800.0,
