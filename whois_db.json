@@ -3385,9 +3385,9 @@
         "state": "future"
     },
     "budsinc.com": {
-        "epoch": 1590969600.0,
-        "expiration_date": "01-jun-2020",
-        "state": "past"
+        "epoch": 1622505600.0,
+        "expiration_date": "01-jun-2021",
+        "state": "future"
     },
     "bugsense.com": {
         "epoch": 1652918400.0,
@@ -3790,9 +3790,9 @@
         "state": "future"
     },
     "claria.com": {
-        "epoch": 1590969600.0,
-        "expiration_date": "01-jun-2020",
-        "state": "past"
+        "epoch": 1622505600.0,
+        "expiration_date": "01-jun-2021",
+        "state": "future"
     },
     "clashmobile.com": {
         "epoch": 1596412800.0,
@@ -4045,8 +4045,8 @@
         "state": "future"
     },
     "cloudmobi.net": {
-        "epoch": 1591056000.0,
-        "expiration_date": "02-jun-2020",
+        "epoch": 1622592000.0,
+        "expiration_date": "02-jun-2021",
         "state": "future"
     },
     "cloudns.com": {
