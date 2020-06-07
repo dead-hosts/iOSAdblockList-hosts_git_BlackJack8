@@ -4650,8 +4650,8 @@
         "state": "future"
     },
     "directaclick.com": {
-        "epoch": 1591228800.0,
-        "expiration_date": "04-jun-2020",
+        "epoch": 1622764800.0,
+        "expiration_date": "04-jun-2021",
         "state": "future"
     },
     "directivepub.com": {
@@ -4690,9 +4690,9 @@
         "state": "future"
     },
     "displayadsmedia.com": {
-        "epoch": 1584230400.0,
-        "expiration_date": "15-mar-2020",
-        "state": "past"
+        "epoch": 1622592000.0,
+        "expiration_date": "02-jun-2021",
+        "state": "future"
     },
     "displaypagerank.com": {
         "epoch": 1602028800.0,
@@ -4775,8 +4775,8 @@
         "state": "future"
     },
     "doublepimp.com": {
-        "epoch": 1591142400.0,
-        "expiration_date": "03-jun-2020",
+        "epoch": 1622678400.0,
+        "expiration_date": "03-jun-2021",
         "state": "future"
     },
     "dpmsrv.com": {
