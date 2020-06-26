@@ -5290,8 +5290,8 @@
         "state": "future"
     },
     "f5biz.com": {
-        "epoch": 1593043200.0,
-        "expiration_date": "25-jun-2020",
+        "epoch": 1624579200.0,
+        "expiration_date": "25-jun-2021",
         "state": "future"
     },
     "fabric.io": {
@@ -5550,8 +5550,8 @@
         "state": "future"
     },
     "friendlyduck.com": {
-        "epoch": 1592870400.0,
-        "expiration_date": "23-jun-2020",
+        "epoch": 1624406400.0,
+        "expiration_date": "23-jun-2021",
         "state": "future"
     },
     "ftjcfx.com": {
@@ -5680,8 +5680,8 @@
         "state": "future"
     },
     "gdwbetvn888.com": {
-        "epoch": 1592697600.0,
-        "expiration_date": "21-jun-2020",
+        "epoch": 1624233600.0,
+        "expiration_date": "21-jun-2021",
         "state": "future"
     },
     "gdwviet.com": {
@@ -5825,8 +5825,8 @@
         "state": "future"
     },
     "gomain.pro": {
-        "epoch": 1593129600.0,
-        "expiration_date": "26-jun-2020",
+        "epoch": 1624665600.0,
+        "expiration_date": "26-jun-2021",
         "state": "future"
     },
     "goodadvert.ru": {
@@ -6032,7 +6032,7 @@
     "hadarone.com": {
         "epoch": 1593129600.0,
         "expiration_date": "26-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "hajoopteg.com": {
         "epoch": 1607299200.0,
@@ -6265,8 +6265,8 @@
         "state": "future"
     },
     "hotkeys.com": {
-        "epoch": 1592784000.0,
-        "expiration_date": "22-jun-2020",
+        "epoch": 1624320000.0,
+        "expiration_date": "22-jun-2021",
         "state": "future"
     },
     "hotlog.ru": {
