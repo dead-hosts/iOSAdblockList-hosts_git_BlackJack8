@@ -7785,8 +7785,8 @@
         "state": "future"
     },
     "medialytics.com": {
-        "epoch": 1593043200.0,
-        "expiration_date": "25-jun-2020",
+        "epoch": 1624579200.0,
+        "expiration_date": "25-jun-2021",
         "state": "future"
     },
     "mediamath.com": {
@@ -7845,8 +7845,8 @@
         "state": "future"
     },
     "medio.com": {
-        "epoch": 1592697600.0,
-        "expiration_date": "21-jun-2020",
+        "epoch": 1624233600.0,
+        "expiration_date": "21-jun-2021",
         "state": "future"
     },
     "medleyads.com": {
@@ -7880,8 +7880,8 @@
         "state": "future"
     },
     "memeglobal.com": {
-        "epoch": 1592956800.0,
-        "expiration_date": "24-jun-2020",
+        "epoch": 1624492800.0,
+        "expiration_date": "24-jun-2021",
         "state": "future"
     },
     "metaffiliation.com": {
@@ -7975,8 +7975,8 @@
         "state": "future"
     },
     "mindmemobile.com": {
-        "epoch": 1592870400.0,
-        "expiration_date": "23-jun-2020",
+        "epoch": 1624406400.0,
+        "expiration_date": "23-jun-2021",
         "state": "future"
     },
     "minimob.com": {
@@ -8507,7 +8507,7 @@
     "msales.com": {
         "epoch": 1593129600.0,
         "expiration_date": "26-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "mstrlytcs.com": {
         "epoch": 1661385600.0,
