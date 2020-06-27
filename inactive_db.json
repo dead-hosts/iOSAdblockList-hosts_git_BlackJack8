@@ -4854,36 +4854,36 @@
         "yoc.mobi": {
             "included_at_epoch": 1591013069.654249,
             "included_at_iso": "2020-06-01T12:04:29.654249",
-            "last_retested_at_epoch": 1592657037.3569,
-            "last_retested_at_iso": "2020-06-20T12:43:57.356900",
+            "last_retested_at_epoch": 1593250792.52422,
+            "last_retested_at_iso": "2020-06-27T09:39:52.524220",
             "status": "INACTIVE"
         },
         "zap.mookie1.com": {
             "included_at_epoch": 1591013070.455161,
             "included_at_iso": "2020-06-01T12:04:30.455161",
-            "last_retested_at_epoch": 1592657038.12686,
-            "last_retested_at_iso": "2020-06-20T12:43:58.126860",
+            "last_retested_at_epoch": 1593250793.282746,
+            "last_retested_at_iso": "2020-06-27T09:39:53.282746",
             "status": "INACTIVE"
         },
         "zde-affinity.edgecaching.net": {
             "included_at_epoch": 1591013070.548528,
             "included_at_iso": "2020-06-01T12:04:30.548528",
-            "last_retested_at_epoch": 1592657038.238042,
-            "last_retested_at_iso": "2020-06-20T12:43:58.238042",
+            "last_retested_at_epoch": 1593250793.393561,
+            "last_retested_at_iso": "2020-06-27T09:39:53.393561",
             "status": "INACTIVE"
         },
         "zeus.ad.intl.xiaomi.com": {
             "included_at_epoch": 1591013070.840791,
             "included_at_iso": "2020-06-01T12:04:30.840791",
-            "last_retested_at_epoch": 1592657038.491344,
-            "last_retested_at_iso": "2020-06-20T12:43:58.491344",
+            "last_retested_at_epoch": 1593250793.657914,
+            "last_retested_at_iso": "2020-06-27T09:39:53.657914",
             "status": "INACTIVE"
         },
         "zone.uniad.vn": {
             "included_at_epoch": 1591531531.253091,
             "included_at_iso": "2020-06-07T12:05:31.253091",
-            "last_retested_at_epoch": 1592657038.776298,
-            "last_retested_at_iso": "2020-06-20T12:43:58.776298",
+            "last_retested_at_epoch": 1593250793.935455,
+            "last_retested_at_iso": "2020-06-27T09:39:53.935455",
             "status": "INACTIVE"
         }
     }
