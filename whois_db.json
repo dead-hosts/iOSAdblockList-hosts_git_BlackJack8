@@ -5975,8 +5975,8 @@
         "state": "future"
     },
     "gtsads.com": {
-        "epoch": 1593734400.0,
-        "expiration_date": "03-jul-2020",
+        "epoch": 1625270400.0,
+        "expiration_date": "03-jul-2021",
         "state": "future"
     },
     "gtsmobi.com": {
@@ -6035,9 +6035,9 @@
         "state": "future"
     },
     "hadarone.com": {
-        "epoch": 1593129600.0,
-        "expiration_date": "26-jun-2020",
-        "state": "past"
+        "epoch": 1624665600.0,
+        "expiration_date": "26-jun-2021",
+        "state": "future"
     },
     "hajoopteg.com": {
         "epoch": 1607299200.0,
@@ -6390,8 +6390,8 @@
         "state": "future"
     },
     "i1img.com": {
-        "epoch": 1593216000.0,
-        "expiration_date": "27-jun-2020",
+        "epoch": 1656288000.0,
+        "expiration_date": "27-jun-2022",
         "state": "future"
     },
     "iadnet.com": {
