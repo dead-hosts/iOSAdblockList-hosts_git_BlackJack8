@@ -2390,8 +2390,8 @@
         "state": "future"
     },
     "appdog.com": {
-        "epoch": 1593302400.0,
-        "expiration_date": "28-jun-2020",
+        "epoch": 1624838400.0,
+        "expiration_date": "28-jun-2021",
         "state": "future"
     },
     "appearch.info": {
@@ -2749,9 +2749,14 @@
         "expiration_date": "12-aug-2020",
         "state": "future"
     },
+    "azfront.com": {
+        "epoch": 1624924800.0,
+        "expiration_date": "29-jun-2021",
+        "state": "future"
+    },
     "b-1st.com": {
-        "epoch": 1593388800.0,
-        "expiration_date": "29-jun-2020",
+        "epoch": 1624924800.0,
+        "expiration_date": "29-jun-2021",
         "state": "future"
     },
     "b-trk10.com": {
