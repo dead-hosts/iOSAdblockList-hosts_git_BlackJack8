@@ -8475,8 +8475,8 @@
         "state": "future"
     },
     "mparticle.com": {
-        "epoch": 1593648000.0,
-        "expiration_date": "02-jul-2020",
+        "epoch": 1625184000.0,
+        "expiration_date": "02-jul-2021",
         "state": "future"
     },
     "mpire.com": {
@@ -8510,9 +8510,9 @@
         "state": "future"
     },
     "msales.com": {
-        "epoch": 1593129600.0,
-        "expiration_date": "26-jun-2020",
-        "state": "past"
+        "epoch": 1624665600.0,
+        "expiration_date": "26-jun-2021",
+        "state": "future"
     },
     "mstrlytcs.com": {
         "epoch": 1661385600.0,
