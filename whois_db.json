@@ -1577,7 +1577,7 @@
     "adspace.ro": {
         "epoch": 1593734400.0,
         "expiration_date": "03-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "adspeed.com": {
         "epoch": 1824076800.0,
@@ -2080,8 +2080,8 @@
         "state": "future"
     },
     "affiz.net": {
-        "epoch": 1593734400.0,
-        "expiration_date": "03-jul-2020",
+        "epoch": 1625270400.0,
+        "expiration_date": "03-jul-2021",
         "state": "future"
     },
     "agentanalytics.com": {
@@ -2112,7 +2112,7 @@
     "ailamtrieuphu.com": {
         "epoch": 1593734400.0,
         "expiration_date": "03-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "aim4media.com": {
         "epoch": 1609200000.0,
