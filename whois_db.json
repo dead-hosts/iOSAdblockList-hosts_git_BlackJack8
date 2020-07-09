@@ -6745,9 +6745,9 @@
         "state": "future"
     },
     "inspiredjournal.xyz": {
-        "epoch": 1593734400.0,
-        "expiration_date": "03-jul-2020",
-        "state": "past"
+        "epoch": 1625270400.0,
+        "expiration_date": "03-jul-2021",
+        "state": "future"
     },
     "installp.com": {
         "epoch": 1595894400.0,
@@ -7567,7 +7567,7 @@
     "madnet.ru": {
         "epoch": 1594252800.0,
         "expiration_date": "09-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "mads.com": {
         "epoch": 1610409600.0,
@@ -7670,8 +7670,8 @@
         "state": "future"
     },
     "matchcraft.com": {
-        "epoch": 1593993600.0,
-        "expiration_date": "06-jul-2020",
+        "epoch": 1657065600.0,
+        "expiration_date": "06-jul-2022",
         "state": "future"
     },
     "matheranalytics.com": {
