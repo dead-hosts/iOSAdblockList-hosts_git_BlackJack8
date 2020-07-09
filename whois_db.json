@@ -130,8 +130,8 @@
         "state": "future"
     },
     "4mads.com": {
-        "epoch": 1594166400.0,
-        "expiration_date": "08-jul-2020",
+        "epoch": 1625702400.0,
+        "expiration_date": "08-jul-2021",
         "state": "future"
     },
     "4seeresults.com": {
@@ -189,6 +189,11 @@
         "expiration_date": "25-may-2021",
         "state": "future"
     },
+    "7solo.biz": {
+        "epoch": 1622160000.0,
+        "expiration_date": "28-may-2021",
+        "state": "future"
+    },
     "8live.com": {
         "epoch": 1649808000.0,
         "expiration_date": "13-apr-2022",
@@ -205,8 +210,8 @@
         "state": "future"
     },
     "a-ads.com": {
-        "epoch": 1594080000.0,
-        "expiration_date": "07-jul-2020",
+        "epoch": 1625616000.0,
+        "expiration_date": "07-jul-2021",
         "state": "future"
     },
     "a-counter.kiev.ua": {
@@ -955,8 +960,8 @@
         "state": "future"
     },
     "admeld.com": {
-        "epoch": 1593907200.0,
-        "expiration_date": "05-jul-2020",
+        "epoch": 1625443200.0,
+        "expiration_date": "05-jul-2021",
         "state": "future"
     },
     "admeta.com": {
