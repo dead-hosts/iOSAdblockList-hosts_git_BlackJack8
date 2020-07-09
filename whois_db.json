@@ -11635,8 +11635,8 @@
         "state": "future"
     },
     "switchadhub.com": {
-        "epoch": 1593993600.0,
-        "expiration_date": "06-jul-2020",
+        "epoch": 1625529600.0,
+        "expiration_date": "06-jul-2021",
         "state": "future"
     },
     "switchads.com": {
@@ -11790,8 +11790,8 @@
         "state": "future"
     },
     "targetnet.com": {
-        "epoch": 1594166400.0,
-        "expiration_date": "08-jul-2020",
+        "epoch": 1625702400.0,
+        "expiration_date": "08-jul-2021",
         "state": "future"
     },
     "targetpoint.com": {
@@ -11857,6 +11857,11 @@
     "tempobanners.com": {
         "epoch": 1625270400.0,
         "expiration_date": "03-jul-2021",
+        "state": "future"
+    },
+    "tenmax.io": {
+        "epoch": 1631232000.0,
+        "expiration_date": "10-sep-2021",
         "state": "future"
     },
     "teracreative.com": {
@@ -12085,8 +12090,8 @@
         "state": "future"
     },
     "top-site-list.com": {
-        "epoch": 1594080000.0,
-        "expiration_date": "07-jul-2020",
+        "epoch": 1625616000.0,
+        "expiration_date": "07-jul-2021",
         "state": "future"
     },
     "top123.ro": {
