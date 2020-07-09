@@ -13289,6 +13289,11 @@
         "expiration_date": "08-nov-2020",
         "state": "future"
     },
+    "wildernbus19.live": {
+        "epoch": 1623888000.0,
+        "expiration_date": "17-jun-2021",
+        "state": "future"
+    },
     "winoladber.com": {
         "epoch": 1599696000.0,
         "expiration_date": "10-sep-2020",
@@ -13627,6 +13632,11 @@
     "yourblocksite.com": {
         "epoch": 1626739200.0,
         "expiration_date": "20-jul-2021",
+        "state": "future"
+    },
+    "yourtopprize.life": {
+        "epoch": 1619049600.0,
+        "expiration_date": "22-apr-2021",
         "state": "future"
     },
     "yuhuads.com": {
