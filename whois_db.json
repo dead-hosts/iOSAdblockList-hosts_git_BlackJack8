@@ -5710,8 +5710,8 @@
         "state": "future"
     },
     "gdwviet.com": {
-        "epoch": 1593993600.0,
-        "expiration_date": "06-jul-2020",
+        "epoch": 1625529600.0,
+        "expiration_date": "06-jul-2021",
         "state": "future"
     },
     "gebadu.com": {
@@ -5935,8 +5935,8 @@
         "state": "future"
     },
     "goyetteconnelly.bid": {
-        "epoch": 1593907200.0,
-        "expiration_date": "05-jul-2020",
+        "epoch": 1625443200.0,
+        "expiration_date": "05-jul-2021",
         "state": "future"
     },
     "grabify.link": {
@@ -6180,8 +6180,8 @@
         "state": "future"
     },
     "himediads.com": {
-        "epoch": 1593820800.0,
-        "expiration_date": "04-jul-2020",
+        "epoch": 1625356800.0,
+        "expiration_date": "04-jul-2021",
         "state": "future"
     },
     "histats.com": {
@@ -6225,8 +6225,8 @@
         "state": "future"
     },
     "hitlist.ru": {
-        "epoch": 1593993600.0,
-        "expiration_date": "06-jul-2020",
+        "epoch": 1625529600.0,
+        "expiration_date": "06-jul-2021",
         "state": "future"
     },
     "hitlounge.com": {
@@ -6267,7 +6267,7 @@
     "homify.com.mx": {
         "epoch": 1594080000.0,
         "expiration_date": "07-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "hostgrater.com": {
         "epoch": 1594425600.0,
