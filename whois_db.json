@@ -3180,8 +3180,8 @@
         "state": "future"
     },
     "blogherads.com": {
-        "epoch": 1594166400.0,
-        "expiration_date": "08-jul-2020",
+        "epoch": 1625702400.0,
+        "expiration_date": "08-jul-2021",
         "state": "future"
     },
     "blogrush.com": {
@@ -3215,8 +3215,8 @@
         "state": "future"
     },
     "bluekai.com": {
-        "epoch": 1593993600.0,
-        "expiration_date": "06-jul-2020",
+        "epoch": 1625529600.0,
+        "expiration_date": "06-jul-2021",
         "state": "future"
     },
     "bluelithium.com": {
@@ -3237,6 +3237,11 @@
     "blutrumpet.com": {
         "epoch": 1606780800.0,
         "expiration_date": "01-dec-2020",
+        "state": "future"
+    },
+    "bngpt.com": {
+        "epoch": 1616025600.0,
+        "expiration_date": "18-mar-2021",
         "state": "future"
     },
     "bnmla.com": {
@@ -3269,6 +3274,11 @@
         "expiration_date": "12-dec-2021",
         "state": "future"
     },
+    "bongacams.com": {
+        "epoch": 1706140800.0,
+        "expiration_date": "25-jan-2024",
+        "state": "future"
+    },
     "bonship-edules.com": {
         "epoch": 1598313600.0,
         "expiration_date": "25-aug-2020",
@@ -3285,8 +3295,8 @@
         "state": "future"
     },
     "boostads.net": {
-        "epoch": 1593907200.0,
-        "expiration_date": "05-jul-2020",
+        "epoch": 1625443200.0,
+        "expiration_date": "05-jul-2021",
         "state": "future"
     },
     "boudja.com": {
@@ -3375,8 +3385,8 @@
         "state": "future"
     },
     "browser-update.org": {
-        "epoch": 1594080000.0,
-        "expiration_date": "07-jul-2020",
+        "epoch": 1625616000.0,
+        "expiration_date": "07-jul-2021",
         "state": "future"
     },
     "brucelead.com": {
