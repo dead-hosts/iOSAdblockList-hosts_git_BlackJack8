@@ -1935,8 +1935,8 @@
         "state": "future"
     },
     "advombat.ru": {
-        "epoch": 1594080000.0,
-        "expiration_date": "07-jul-2020",
+        "epoch": 1625616000.0,
+        "expiration_date": "07-jul-2021",
         "state": "future"
     },
     "adwareremovergold.com": {
@@ -2115,9 +2115,9 @@
         "state": "future"
     },
     "ailamtrieuphu.com": {
-        "epoch": 1593734400.0,
-        "expiration_date": "03-jul-2020",
-        "state": "past"
+        "epoch": 1625270400.0,
+        "expiration_date": "03-jul-2021",
+        "state": "future"
     },
     "aim4media.com": {
         "epoch": 1609200000.0,
@@ -2187,6 +2187,11 @@
     "alexametrics.com": {
         "epoch": 1624060800.0,
         "expiration_date": "19-jun-2021",
+        "state": "future"
+    },
+    "aliadvert.ru": {
+        "epoch": 1606521600.0,
+        "expiration_date": "28-nov-2020",
         "state": "future"
     },
     "all4spy.com": {
