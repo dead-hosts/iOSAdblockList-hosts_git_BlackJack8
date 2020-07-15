@@ -1617,7 +1617,7 @@
     "adsrocket.net": {
         "epoch": 1594771200.0,
         "expiration_date": "15-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "adsrvmedia.net": {
         "epoch": 1629417600.0,
@@ -2205,8 +2205,8 @@
         "state": "future"
     },
     "allmygoodlife.com": {
-        "epoch": 1594512000.0,
-        "expiration_date": "12-jul-2020",
+        "epoch": 1626048000.0,
+        "expiration_date": "12-jul-2021",
         "state": "future"
     },
     "allosponsor.com": {
