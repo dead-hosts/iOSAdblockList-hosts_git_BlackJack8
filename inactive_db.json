@@ -2873,8 +2873,8 @@
         "join-latest.skype.com": {
             "included_at_epoch": 1593780734.815307,
             "included_at_iso": "2020-07-03T12:52:14.815307",
-            "last_retested_at_epoch": 1594303595.429679,
-            "last_retested_at_iso": "2020-07-09T14:06:35.429679",
+            "last_retested_at_epoch": 1594830867.058573,
+            "last_retested_at_iso": "2020-07-15T16:34:27.058573",
             "status": "INACTIVE"
         },
         "joneself.com": {
@@ -3013,8 +3013,8 @@
         "m.baidu.com.zhiduo.org": {
             "included_at_epoch": 1593780740.812439,
             "included_at_iso": "2020-07-03T12:52:20.812439",
-            "last_retested_at_epoch": 1594303595.466293,
-            "last_retested_at_iso": "2020-07-09T14:06:35.466293",
+            "last_retested_at_epoch": 1594830867.077177,
+            "last_retested_at_iso": "2020-07-15T16:34:27.077177",
             "status": "INACTIVE"
         },
         "m.webtrends.com": {
@@ -3972,8 +3972,8 @@
         "rj.baidu.com": {
             "included_at_epoch": 1593785862.84496,
             "included_at_iso": "2020-07-03T14:17:42.844960",
-            "last_retested_at_epoch": 1594303595.44825,
-            "last_retested_at_iso": "2020-07-09T14:06:35.448250",
+            "last_retested_at_epoch": 1594830867.038875,
+            "last_retested_at_iso": "2020-07-15T16:34:27.038875",
             "status": "INACTIVE"
         },
         "rma.adcolony.com": {
