@@ -6440,8 +6440,8 @@
         "state": "future"
     },
     "iclickyou.com": {
-        "epoch": 1594684800.0,
-        "expiration_date": "14-jul-2020",
+        "epoch": 1657756800.0,
+        "expiration_date": "14-jul-2022",
         "state": "future"
     },
     "iconadserver.com": {
@@ -6487,7 +6487,7 @@
     "idot.cz": {
         "epoch": 1594598400.0,
         "expiration_date": "13-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "idregie.com": {
         "epoch": 1617062400.0,
