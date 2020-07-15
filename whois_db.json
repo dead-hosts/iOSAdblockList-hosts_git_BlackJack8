@@ -11977,7 +11977,7 @@
     "thogethoffic.co": {
         "epoch": 1594598400.0,
         "expiration_date": "13-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "thoughtleadr.com": {
         "epoch": 1620777600.0,
@@ -12210,8 +12210,8 @@
         "state": "future"
     },
     "touchclarity.com": {
-        "epoch": 1594425600.0,
-        "expiration_date": "11-jul-2020",
+        "epoch": 1625961600.0,
+        "expiration_date": "11-jul-2021",
         "state": "future"
     },
     "tpbid.com": {
@@ -12380,8 +12380,8 @@
         "state": "future"
     },
     "trafic.ro": {
-        "epoch": 1594425600.0,
-        "expiration_date": "11-jul-2020",
+        "epoch": 1622592000.0,
+        "expiration_date": "02-jun-2021",
         "state": "future"
     },
     "traktum.com": {
@@ -12447,7 +12447,7 @@
     "tribpubads.com": {
         "epoch": 1594771200.0,
         "expiration_date": "15-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "triplelift.com": {
         "epoch": 1613779200.0,
@@ -12610,8 +12610,8 @@
         "state": "future"
     },
     "umengcloud.com": {
-        "epoch": 1594684800.0,
-        "expiration_date": "14-jul-2020",
+        "epoch": 1657756800.0,
+        "expiration_date": "14-jul-2022",
         "state": "future"
     },
     "umtrack.com": {
