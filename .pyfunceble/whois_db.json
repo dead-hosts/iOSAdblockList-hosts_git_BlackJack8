@@ -4610,8 +4610,8 @@
         "state": "future"
     },
     "deltago.com": {
-        "epoch": 1594857600.0,
-        "expiration_date": "16-jul-2020",
+        "epoch": 1626393600.0,
+        "expiration_date": "16-jul-2021",
         "state": "future"
     },
     "demandbase.com": {
@@ -4750,8 +4750,8 @@
         "state": "future"
     },
     "dolightiritar.info": {
-        "epoch": 1595116800.0,
-        "expiration_date": "19-jul-2020",
+        "epoch": 1626652800.0,
+        "expiration_date": "19-jul-2021",
         "state": "future"
     },
     "domaining.in": {
@@ -5139,6 +5139,11 @@
         "expiration_date": "08-jun-2021",
         "state": "future"
     },
+    "ethicalads.net": {
+        "epoch": 1626652800.0,
+        "expiration_date": "19-jul-2021",
+        "state": "future"
+    },
     "eu-adcenter.net": {
         "epoch": 1626048000.0,
         "expiration_date": "12-jul-2021",
@@ -5180,8 +5185,8 @@
         "state": "future"
     },
     "eviltracker.net": {
-        "epoch": 1595203200.0,
-        "expiration_date": "20-jul-2020",
+        "epoch": 1626739200.0,
+        "expiration_date": "20-jul-2021",
         "state": "future"
     },
     "ewebcounter.com": {
@@ -5217,7 +5222,7 @@
     "exe.bid": {
         "epoch": 1595289600.0,
         "expiration_date": "21-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "exit76.com": {
         "epoch": 1604448000.0,
