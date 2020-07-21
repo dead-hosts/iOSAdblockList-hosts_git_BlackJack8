@@ -12450,9 +12450,9 @@
         "state": "future"
     },
     "tribpubads.com": {
-        "epoch": 1594771200.0,
-        "expiration_date": "15-jul-2020",
-        "state": "past"
+        "epoch": 1626307200.0,
+        "expiration_date": "15-jul-2021",
+        "state": "future"
     },
     "triplelift.com": {
         "epoch": 1613779200.0,
@@ -12782,7 +12782,7 @@
     "validclick.com": {
         "epoch": 1595289600.0,
         "expiration_date": "21-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "valshara.com": {
         "epoch": 1612742400.0,
@@ -12820,8 +12820,8 @@
         "state": "future"
     },
     "varielcontentdelivery.info": {
-        "epoch": 1594944000.0,
-        "expiration_date": "17-jul-2020",
+        "epoch": 1626480000.0,
+        "expiration_date": "17-jul-2021",
         "state": "future"
     },
     "varravgames.com": {
@@ -13225,8 +13225,8 @@
         "state": "future"
     },
     "wegcash.com": {
-        "epoch": 1595116800.0,
-        "expiration_date": "19-jul-2020",
+        "epoch": 1626652800.0,
+        "expiration_date": "19-jul-2021",
         "state": "future"
     },
     "wellmov.com": {
@@ -13285,8 +13285,8 @@
         "state": "future"
     },
     "widgetbucks.com": {
-        "epoch": 1594944000.0,
-        "expiration_date": "17-jul-2020",
+        "epoch": 1626480000.0,
+        "expiration_date": "17-jul-2021",
         "state": "future"
     },
     "wigetmedia.com": {
