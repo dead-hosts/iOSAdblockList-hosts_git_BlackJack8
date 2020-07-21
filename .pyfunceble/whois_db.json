@@ -6820,8 +6820,8 @@
         "state": "future"
     },
     "internetfuel.com": {
-        "epoch": 1595203200.0,
-        "expiration_date": "20-jul-2020",
+        "epoch": 1626739200.0,
+        "expiration_date": "20-jul-2021",
         "state": "future"
     },
     "interseek.si": {
@@ -6910,8 +6910,8 @@
         "state": "future"
     },
     "iteratehq.com": {
-        "epoch": 1594857600.0,
-        "expiration_date": "16-jul-2020",
+        "epoch": 1626393600.0,
+        "expiration_date": "16-jul-2021",
         "state": "future"
     },
     "itfarm.com": {
@@ -6952,7 +6952,7 @@
     "iz682noju02ye5.com": {
         "epoch": 1595289600.0,
         "expiration_date": "21-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "jampp.com": {
         "epoch": 1619654400.0,
