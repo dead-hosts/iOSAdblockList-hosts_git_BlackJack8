@@ -2400,8 +2400,8 @@
         "state": "future"
     },
     "app-promo.com": {
-        "epoch": 1595548800.0,
-        "expiration_date": "24-jul-2020",
+        "epoch": 1627084800.0,
+        "expiration_date": "24-jul-2021",
         "state": "future"
     },
     "app.link": {
@@ -2694,6 +2694,11 @@
         "expiration_date": "29-oct-2021",
         "state": "future"
     },
+    "au79nt5wic4x.com": {
+        "epoch": 1619481600.0,
+        "expiration_date": "27-apr-2021",
+        "state": "future"
+    },
     "auctionads.com": {
         "epoch": 1666828800.0,
         "expiration_date": "27-oct-2022",
@@ -2825,8 +2830,8 @@
         "state": "future"
     },
     "b59812ee54afcabd.com": {
-        "epoch": 1595721600.0,
-        "expiration_date": "26-jul-2020",
+        "epoch": 1627257600.0,
+        "expiration_date": "26-jul-2021",
         "state": "future"
     },
     "backbeatmedia.com": {
@@ -3185,8 +3190,8 @@
         "state": "future"
     },
     "bj1110.online": {
-        "epoch": 1595721600.0,
-        "expiration_date": "26-jul-2020",
+        "epoch": 1627257600.0,
+        "expiration_date": "26-jul-2021",
         "state": "future"
     },
     "bkrtx.com": {
