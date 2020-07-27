@@ -4529,6 +4529,11 @@
         "expiration_date": "02-jan-2021",
         "state": "future"
     },
+    "d24ak3f2b.top": {
+        "epoch": 1622160000.0,
+        "expiration_date": "28-may-2021",
+        "state": "future"
+    },
     "d2cmedia.ca": {
         "epoch": 1612569600.0,
         "expiration_date": "06-feb-2021",
@@ -4700,8 +4705,8 @@
         "state": "future"
     },
     "differentdesk.com": {
-        "epoch": 1595721600.0,
-        "expiration_date": "26-jul-2020",
+        "epoch": 1627257600.0,
+        "expiration_date": "26-jul-2021",
         "state": "future"
     },
     "digitalmerkat.com": {
@@ -4790,8 +4795,8 @@
         "state": "future"
     },
     "do-not-tracker.org": {
-        "epoch": 1595808000.0,
-        "expiration_date": "27-jul-2020",
+        "epoch": 1627344000.0,
+        "expiration_date": "27-jul-2021",
         "state": "future"
     },
     "dolightiritar.info": {
@@ -4947,6 +4952,11 @@
     "e-planning.net": {
         "epoch": 1727049600.0,
         "expiration_date": "23-sep-2024",
+        "state": "future"
+    },
+    "e1bl1t39c4.com": {
+        "epoch": 1622160000.0,
+        "expiration_date": "28-may-2021",
         "state": "future"
     },
     "eacdn.com": {
@@ -5130,8 +5140,8 @@
         "state": "future"
     },
     "entercasino.com": {
-        "epoch": 1595548800.0,
-        "expiration_date": "24-jul-2020",
+        "epoch": 1627084800.0,
+        "expiration_date": "24-jul-2021",
         "state": "future"
     },
     "epiccash.com": {
@@ -5455,8 +5465,8 @@
         "state": "future"
     },
     "fineclicks.com": {
-        "epoch": 1595548800.0,
-        "expiration_date": "24-jul-2020",
+        "epoch": 1627084800.0,
+        "expiration_date": "24-jul-2021",
         "state": "future"
     },
     "firstimpression.io": {
@@ -5507,6 +5517,11 @@
     "flurry.com": {
         "epoch": 1620000000.0,
         "expiration_date": "03-may-2021",
+        "state": "future"
+    },
+    "flvs7ql3l6.com": {
+        "epoch": 1622160000.0,
+        "expiration_date": "28-may-2021",
         "state": "future"
     },
     "flygo.ru": {
@@ -5615,8 +5630,8 @@
         "state": "future"
     },
     "freestats.tv": {
-        "epoch": 1595548800.0,
-        "expiration_date": "24-jul-2020",
+        "epoch": 1627084800.0,
+        "expiration_date": "24-jul-2021",
         "state": "future"
     },
     "freewebcounter.com": {
