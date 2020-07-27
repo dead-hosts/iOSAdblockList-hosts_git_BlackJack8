@@ -11684,6 +11684,11 @@
         "expiration_date": "10-dec-2020",
         "state": "future"
     },
+    "stripchat.com": {
+        "epoch": 1613174400.0,
+        "expiration_date": "13-feb-2021",
+        "state": "future"
+    },
     "strivesidewalk.com": {
         "epoch": 1617408000.0,
         "expiration_date": "03-apr-2021",
@@ -11940,8 +11945,8 @@
         "state": "future"
     },
     "targetspot.com": {
-        "epoch": 1595721600.0,
-        "expiration_date": "26-jul-2020",
+        "epoch": 1627257600.0,
+        "expiration_date": "26-jul-2021",
         "state": "future"
     },
     "tatango.com": {
@@ -12075,8 +12080,8 @@
         "state": "future"
     },
     "theoremreach.com": {
-        "epoch": 1595635200.0,
-        "expiration_date": "25-jul-2020",
+        "epoch": 1627171200.0,
+        "expiration_date": "25-jul-2021",
         "state": "future"
     },
     "therapistla.com": {
@@ -12637,7 +12642,7 @@
     "ttringwall.com": {
         "epoch": 1595808000.0,
         "expiration_date": "27-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "tubedspots.com": {
         "epoch": 1605744000.0,
@@ -12662,6 +12667,11 @@
     "tvmtracker.com": {
         "epoch": 1601856000.0,
         "expiration_date": "05-oct-2020",
+        "state": "future"
+    },
+    "twinrdsrv.com": {
+        "epoch": 1637280000.0,
+        "expiration_date": "19-nov-2021",
         "state": "future"
     },
     "twittad.com": {
@@ -12712,6 +12722,11 @@
     "ubiquitousyard.com": {
         "epoch": 1611619200.0,
         "expiration_date": "26-jan-2021",
+        "state": "future"
+    },
+    "ufow9xfashbm.com": {
+        "epoch": 1624147200.0,
+        "expiration_date": "20-jun-2021",
         "state": "future"
     },
     "uimserv.net": {
@@ -12780,8 +12795,8 @@
         "state": "future"
     },
     "unicume.com": {
-        "epoch": 1595203200.0,
-        "expiration_date": "20-jul-2020",
+        "epoch": 1626739200.0,
+        "expiration_date": "20-jul-2021",
         "state": "future"
     },
     "unilead.com": {
