@@ -12885,8 +12885,8 @@
         "state": "future"
     },
     "usapromotravel.com": {
-        "epoch": 1595462400.0,
-        "expiration_date": "23-jul-2020",
+        "epoch": 1626998400.0,
+        "expiration_date": "23-jul-2021",
         "state": "future"
     },
     "use-application-dns.net": {
@@ -12930,9 +12930,9 @@
         "state": "future"
     },
     "validclick.com": {
-        "epoch": 1595289600.0,
-        "expiration_date": "21-jul-2020",
-        "state": "past"
+        "epoch": 1626825600.0,
+        "expiration_date": "21-jul-2021",
+        "state": "future"
     },
     "valshara.com": {
         "epoch": 1612742400.0,
@@ -13260,13 +13260,13 @@
         "state": "future"
     },
     "wayxx.com": {
-        "epoch": 1595548800.0,
-        "expiration_date": "24-jul-2020",
+        "epoch": 1627084800.0,
+        "expiration_date": "24-jul-2021",
         "state": "future"
     },
     "wbn.su": {
-        "epoch": 1595462400.0,
-        "expiration_date": "23-jul-2020",
+        "epoch": 1626998400.0,
+        "expiration_date": "23-jul-2021",
         "state": "future"
     },
     "wda.com": {
@@ -13519,6 +13519,11 @@
         "expiration_date": "08-apr-2021",
         "state": "future"
     },
+    "wtdome.com": {
+        "epoch": 1624579200.0,
+        "expiration_date": "25-jun-2021",
+        "state": "future"
+    },
     "wtlive.com": {
         "epoch": 1603152000.0,
         "expiration_date": "20-oct-2020",
@@ -13527,6 +13532,11 @@
     "wwserch43.biz": {
         "epoch": 1599868800.0,
         "expiration_date": "12-sep-2020",
+        "state": "future"
+    },
+    "www3secure.com": {
+        "epoch": 1606262400.0,
+        "expiration_date": "25-nov-2020",
         "state": "future"
     },
     "wzrkt.com": {
@@ -13579,6 +13589,11 @@
         "expiration_date": "11-sep-2020",
         "state": "future"
     },
+    "xioodnxc1p1a.com": {
+        "epoch": 1623110400.0,
+        "expiration_date": "08-jun-2021",
+        "state": "future"
+    },
     "xiti.com": {
         "epoch": 1614556800.0,
         "expiration_date": "01-mar-2021",
@@ -13605,8 +13620,8 @@
         "state": "future"
     },
     "xrea.com": {
-        "epoch": 1595548800.0,
-        "expiration_date": "24-jul-2020",
+        "epoch": 1627084800.0,
+        "expiration_date": "24-jul-2021",
         "state": "future"
     },
     "xtendmedia.com": {
@@ -13657,6 +13672,11 @@
     "yandexadexchange.net": {
         "epoch": 1645142400.0,
         "expiration_date": "18-feb-2022",
+        "state": "future"
+    },
+    "yb7a1bb6k1.com": {
+        "epoch": 1622160000.0,
+        "expiration_date": "28-may-2021",
         "state": "future"
     },
     "ybrantdigital.com": {
@@ -13905,8 +13925,8 @@
         "state": "future"
     },
     "zmedia.com": {
-        "epoch": 1595808000.0,
-        "expiration_date": "27-jul-2020",
+        "epoch": 1627344000.0,
+        "expiration_date": "27-jul-2021",
         "state": "future"
     },
     "zumobi.com": {
