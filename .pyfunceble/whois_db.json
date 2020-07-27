@@ -5760,8 +5760,8 @@
         "state": "future"
     },
     "gdmconvtrck.com": {
-        "epoch": 1595721600.0,
-        "expiration_date": "26-jul-2020",
+        "epoch": 1627257600.0,
+        "expiration_date": "26-jul-2021",
         "state": "future"
     },
     "gdpr-check.net": {
@@ -5797,6 +5797,11 @@
     "genieessp.com": {
         "epoch": 1632441600.0,
         "expiration_date": "24-sep-2021",
+        "state": "future"
+    },
+    "geoip-js.com": {
+        "epoch": 1616544000.0,
+        "expiration_date": "24-mar-2021",
         "state": "future"
     },
     "geoplugin.net": {
@@ -5870,9 +5875,9 @@
         "state": "future"
     },
     "globe7.com": {
-        "epoch": 1595289600.0,
-        "expiration_date": "21-jul-2020",
-        "state": "past"
+        "epoch": 1626825600.0,
+        "expiration_date": "21-jul-2021",
+        "state": "future"
     },
     "globus-inter.com": {
         "epoch": 1618012800.0,
@@ -6122,6 +6127,11 @@
     "hadarone.com": {
         "epoch": 1624665600.0,
         "expiration_date": "26-jun-2021",
+        "state": "future"
+    },
+    "hadspms.com": {
+        "epoch": 1614211200.0,
+        "expiration_date": "25-feb-2021",
         "state": "future"
     },
     "hajoopteg.com": {
@@ -6409,6 +6419,11 @@
         "expiration_date": "29-mar-2024",
         "state": "future"
     },
+    "hubtraffic.com": {
+        "epoch": 1633564800.0,
+        "expiration_date": "07-oct-2021",
+        "state": "future"
+    },
     "huidakms.com.cn": {
         "epoch": 1621382400.0,
         "expiration_date": "19-may-2021",
@@ -6425,8 +6440,8 @@
         "state": "future"
     },
     "hurricanedigitalmedia.com": {
-        "epoch": 1595376000.0,
-        "expiration_date": "22-jul-2020",
+        "epoch": 1626912000.0,
+        "expiration_date": "22-jul-2021",
         "state": "future"
     },
     "hxczzzw.com": {
@@ -6564,6 +6579,11 @@
         "expiration_date": "02-nov-2020",
         "state": "future"
     },
+    "ie8eamus.com": {
+        "epoch": 1619222400.0,
+        "expiration_date": "24-apr-2021",
+        "state": "future"
+    },
     "ientrymail.com": {
         "epoch": 1596153600.0,
         "expiration_date": "31-jul-2020",
@@ -6644,14 +6664,19 @@
         "expiration_date": "23-aug-2020",
         "state": "future"
     },
+    "impactserving.com": {
+        "epoch": 1624233600.0,
+        "expiration_date": "21-jun-2021",
+        "state": "future"
+    },
     "imprese.cz": {
         "epoch": 1598572800.0,
         "expiration_date": "28-aug-2020",
         "state": "future"
     },
     "impressionmedia.cz": {
-        "epoch": 1595462400.0,
-        "expiration_date": "23-jul-2020",
+        "epoch": 1690070400.0,
+        "expiration_date": "23-jul-2023",
         "state": "future"
     },
     "impressionz.co.uk": {
@@ -6680,8 +6705,8 @@
         "state": "future"
     },
     "incentaclick.com": {
-        "epoch": 1595548800.0,
-        "expiration_date": "24-jul-2020",
+        "epoch": 1627084800.0,
+        "expiration_date": "24-jul-2021",
         "state": "future"
     },
     "inclk.com": {
@@ -7010,9 +7035,9 @@
         "state": "future"
     },
     "iz682noju02ye5.com": {
-        "epoch": 1595289600.0,
-        "expiration_date": "21-jul-2020",
-        "state": "past"
+        "epoch": 1626825600.0,
+        "expiration_date": "21-jul-2021",
+        "state": "future"
     },
     "jampp.com": {
         "epoch": 1619654400.0,
