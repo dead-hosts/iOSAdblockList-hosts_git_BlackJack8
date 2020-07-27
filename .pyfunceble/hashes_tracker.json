@@ -1,12 +1,12 @@
 {
     "/home/travis/build/dead-hosts/iOSAdblockList-hosts_git_BlackJack8/domains.list": {
         "base": {
-            "datetime_iso": "2020-07-15T09:00:37.643989",
-            "hash": "e870a7be316fd6117b2c114ca600fb8ef2a2932ac33076e30249d67e"
+            "datetime_iso": "2020-07-27T08:59:01.381628",
+            "hash": "2922aa489064846f4da6731e101ed4136aa19f920665f81a5dfb105c"
         },
         "latest": {
-            "datetime_iso": "2020-07-21T14:32:13.012886",
-            "hash": "e870a7be316fd6117b2c114ca600fb8ef2a2932ac33076e30249d67e"
+            "datetime_iso": "2020-07-27T08:59:01.381628",
+            "hash": "2922aa489064846f4da6731e101ed4136aa19f920665f81a5dfb105c"
         },
         "position": 0
     }

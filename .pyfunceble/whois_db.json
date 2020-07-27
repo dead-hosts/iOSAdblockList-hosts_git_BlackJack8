@@ -1,4 +1,14 @@
 {
+    "050y9lhe8p.com": {
+        "epoch": 1622160000.0,
+        "expiration_date": "28-may-2021",
+        "state": "future"
+    },
+    "0i0i0i0.com": {
+        "epoch": 1680998400.0,
+        "expiration_date": "09-apr-2023",
+        "state": "future"
+    },
     "101order.com": {
         "epoch": 1597363200.0,
         "expiration_date": "14-aug-2020",
@@ -154,6 +164,11 @@
         "expiration_date": "24-nov-2026",
         "state": "future"
     },
+    "5pr1sfzsl9.com": {
+        "epoch": 1622160000.0,
+        "expiration_date": "28-may-2021",
+        "state": "future"
+    },
     "5thfinger.com": {
         "epoch": 1619395200.0,
         "expiration_date": "26-apr-2021",
@@ -197,6 +212,16 @@
     "8live.com": {
         "epoch": 1649808000.0,
         "expiration_date": "13-apr-2022",
+        "state": "future"
+    },
+    "8ozhygzz5eke.com": {
+        "epoch": 1624147200.0,
+        "expiration_date": "20-jun-2021",
+        "state": "future"
+    },
+    "970ztqtss4.com": {
+        "epoch": 1622160000.0,
+        "expiration_date": "28-may-2021",
         "state": "future"
     },
     "980media.com": {
@@ -595,8 +620,8 @@
         "state": "future"
     },
     "adcome.cn": {
-        "epoch": 1595376000.0,
-        "expiration_date": "22-jul-2020",
+        "epoch": 1626912000.0,
+        "expiration_date": "22-jul-2021",
         "state": "future"
     },
     "adcomplete.com": {
@@ -647,6 +672,11 @@
     "addthis.com": {
         "epoch": 1621900800.0,
         "expiration_date": "25-may-2021",
+        "state": "future"
+    },
+    "addtoany.com": {
+        "epoch": 1615334400.0,
+        "expiration_date": "10-mar-2021",
         "state": "future"
     },
     "adecn.com": {
@@ -1257,7 +1287,7 @@
     "adprimemedia.com": {
         "epoch": 1595808000.0,
         "expiration_date": "27-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "adprofile.net": {
         "epoch": 1623888000.0,
@@ -1305,8 +1335,8 @@
         "state": "future"
     },
     "adrevolver.com": {
-        "epoch": 1595548800.0,
-        "expiration_date": "24-jul-2020",
+        "epoch": 1627084800.0,
+        "expiration_date": "24-jul-2021",
         "state": "future"
     },
     "adroll.com": {
