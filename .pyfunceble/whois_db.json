@@ -10989,9 +10989,19 @@
         "expiration_date": "09-nov-2020",
         "state": "future"
     },
+    "secret-flirts.com": {
+        "epoch": 1618531200.0,
+        "expiration_date": "16-apr-2021",
+        "state": "future"
+    },
     "securecloud-smart.com": {
         "epoch": 1607126400.0,
         "expiration_date": "05-dec-2020",
+        "state": "future"
+    },
+    "securepaths.com": {
+        "epoch": 1629158400.0,
+        "expiration_date": "17-aug-2021",
         "state": "future"
     },
     "sedoparking.com": {
@@ -11244,6 +11254,11 @@
         "expiration_date": "22-jan-2021",
         "state": "future"
     },
+    "skeetads.com": {
+        "epoch": 1606608000.0,
+        "expiration_date": "29-nov-2020",
+        "state": "future"
+    },
     "skimresources.com": {
         "epoch": 1626220800.0,
         "expiration_date": "14-jul-2021",
@@ -11367,7 +11382,7 @@
     "softclick.com.br": {
         "epoch": 1595289600.0,
         "expiration_date": "21-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "solocpm.com": {
         "epoch": 1610409600.0,
@@ -11439,6 +11454,11 @@
         "expiration_date": "06-may-2021",
         "state": "future"
     },
+    "spo7h3ktdvy5.com": {
+        "epoch": 1624147200.0,
+        "expiration_date": "20-jun-2021",
+        "state": "future"
+    },
     "sponsorpay.com": {
         "epoch": 1600819200.0,
         "expiration_date": "23-sep-2020",
@@ -11495,8 +11515,8 @@
         "state": "future"
     },
     "spywords.com": {
-        "epoch": 1595721600.0,
-        "expiration_date": "26-jul-2020",
+        "epoch": 1627257600.0,
+        "expiration_date": "26-jul-2021",
         "state": "future"
     },
     "srbijacafe.org": {
