@@ -1002,8 +1002,8 @@
 0.0.0.0 ads.gplusmedia.com
 0.0.0.0 ads.gradfinder.com
 0.0.0.0 ads.grindinggears.com
-0.0.0.0 ads.gsmexchange.com
 0.0.0.0 ads.gsm-exchange.com
+0.0.0.0 ads.gsmexchange.com
 0.0.0.0 ads.guardian.co.uk
 0.0.0.0 ads.guardianunlimited.co.uk
 0.0.0.0 ads.guru3d.com
@@ -7020,8 +7020,8 @@
 0.0.0.0 inmobi-east-bidder.manage.com
 0.0.0.0 inmobi-eu-bidder.manage.com
 0.0.0.0 inmobisdk-a.akamaihd.net
-0.0.0.0 inner-active.com
 0.0.0.0 inneractive.com
+0.0.0.0 inner-active.com
 0.0.0.0 inner-active.mobi
 0.0.0.0 inneractive-assets.s3.amazonaws.com
 0.0.0.0 inneractive-d.openx.net
@@ -12782,8 +12782,8 @@
 0.0.0.0 tuiguang.meitu.com
 0.0.0.0 tunein.adswizz.com
 0.0.0.0 tunein.deliveryengine.adswizz.com
-0.0.0.0 tune-in-d.openx.net
 0.0.0.0 tunein-d.openx.net
+0.0.0.0 tune-in-d.openx.net
 0.0.0.0 tunion-api.m.taobao.com
 0.0.0.0 turbo2sdk-push.oupeng.com
 0.0.0.0 turbo.engageclick.com
@@ -13980,6 +13980,16 @@
 0.0.0.0 zones.kitchensync.pro
 0.0.0.0 zookeeper01.aatkit.com
 0.0.0.0 zoopla-d.openx.net
+0.0.0.0 zplayer.trk.zapps.vn
+0.0.0.0 zplayer-trk.zdn.vn
+0.0.0.0 zumobi.com
+0.0.0.0 zumobi-d.openx.net
+0.0.0.0 zwaar.org
+0.0.0.0 zxa4kxw2nvox.com
+0.0.0.0 zynga-d.openx.net
+0.0.0.0 zzhc.vnet.cn
+0.0.0.0 zzhengre.com
+0.0.0.0 zzxd.mediav.com
 0.0.0.0 1bb821ddb967b3e010b63f2a2f3308e3.api.appsee.com
 0.0.0.0 1mp.mobi
 0.0.0.0 1phads.com
@@ -14066,8 +14076,8 @@
 0.0.0.0 707.bapi.adsafeprotected.com
 0.0.0.0 777partner.com
 0.0.0.0 777seo.com
-0.0.0.0 0914.global.ssl.fastly.net
 0.0.0.0 914.global.ssl.fastly.net
+0.0.0.0 0914.global.ssl.fastly.net
 0.0.0.0 959cad30.api.splkmobile.com
 0.0.0.0 970ztqtss4.com
 0.0.0.0 980media.com

@@ -3314,8 +3314,8 @@
         "m.baidu.com.zhiduo.org": {
             "included_at_epoch": 1593780740.812439,
             "included_at_iso": "2020-07-03T12:52:20.812439",
-            "last_retested_at_epoch": 1595342543.743089,
-            "last_retested_at_iso": "2020-07-21T14:42:23.743089",
+            "last_retested_at_epoch": 1595853061.976854,
+            "last_retested_at_iso": "2020-07-27T12:31:01.976854",
             "status": "INACTIVE"
         },
         "m.webtrends.com": {
@@ -4497,8 +4497,8 @@
         "rj.baidu.com": {
             "included_at_epoch": 1593785862.84496,
             "included_at_iso": "2020-07-03T14:17:42.844960",
-            "last_retested_at_epoch": 1594830867.038875,
-            "last_retested_at_iso": "2020-07-15T16:34:27.038875",
+            "last_retested_at_epoch": 1595853062.006795,
+            "last_retested_at_iso": "2020-07-27T12:31:02.006795",
             "status": "INACTIVE"
         },
         "rma.adcolony.com": {

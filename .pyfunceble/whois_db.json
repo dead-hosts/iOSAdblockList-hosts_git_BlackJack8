@@ -13935,9 +13935,14 @@
         "state": "future"
     },
     "zwaar.org": {
-        "epoch": 1595289600.0,
-        "expiration_date": "21-jul-2020",
-        "state": "past"
+        "epoch": 1626825600.0,
+        "expiration_date": "21-jul-2021",
+        "state": "future"
+    },
+    "zxa4kxw2nvox.com": {
+        "epoch": 1620604800.0,
+        "expiration_date": "10-may-2021",
+        "state": "future"
     },
     "zzhengre.com": {
         "epoch": 1613606400.0,
