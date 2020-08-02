@@ -3765,8 +3765,8 @@
         "state": "future"
     },
     "chartbeat.com": {
-        "epoch": 1596326400.0,
-        "expiration_date": "02-aug-2020",
+        "epoch": 1627862400.0,
+        "expiration_date": "02-aug-2021",
         "state": "future"
     },
     "chartbeat.net": {
@@ -4209,6 +4209,11 @@
         "expiration_date": "13-jan-2021",
         "state": "future"
     },
+    "completehatch.com": {
+        "epoch": 1618531200.0,
+        "expiration_date": "16-apr-2021",
+        "state": "future"
+    },
     "comprabanner.it": {
         "epoch": 1614988800.0,
         "expiration_date": "06-mar-2021",
@@ -4245,8 +4250,8 @@
         "state": "future"
     },
     "consting-hancessor.com": {
-        "epoch": 1596240000.0,
-        "expiration_date": "01-aug-2020",
+        "epoch": 1627776000.0,
+        "expiration_date": "01-aug-2021",
         "state": "future"
     },
     "constintptr.com": {
@@ -4487,6 +4492,11 @@
     "crowdgravity.com": {
         "epoch": 1608076800.0,
         "expiration_date": "16-dec-2020",
+        "state": "future"
+    },
+    "crrepo.com": {
+        "epoch": 1604966400.0,
+        "expiration_date": "10-nov-2020",
         "state": "future"
     },
     "crwdcntrl.net": {
