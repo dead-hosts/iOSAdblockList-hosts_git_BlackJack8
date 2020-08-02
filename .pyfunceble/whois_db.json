@@ -5809,6 +5809,11 @@
         "expiration_date": "24-sep-2021",
         "state": "future"
     },
+    "geniusdexchange.com": {
+        "epoch": 1614902400.0,
+        "expiration_date": "05-mar-2021",
+        "state": "future"
+    },
     "geoip-js.com": {
         "epoch": 1616544000.0,
         "expiration_date": "24-mar-2021",
@@ -6595,8 +6600,8 @@
         "state": "future"
     },
     "ientrymail.com": {
-        "epoch": 1596153600.0,
-        "expiration_date": "31-jul-2020",
+        "epoch": 1627689600.0,
+        "expiration_date": "31-jul-2021",
         "state": "future"
     },
     "iesnare.com": {
@@ -6850,8 +6855,8 @@
         "state": "future"
     },
     "installp.com": {
-        "epoch": 1595894400.0,
-        "expiration_date": "28-jul-2020",
+        "epoch": 1627430400.0,
+        "expiration_date": "28-jul-2021",
         "state": "future"
     },
     "installrevenue.com": {
