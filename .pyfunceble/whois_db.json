@@ -1515,8 +1515,8 @@
         "state": "future"
     },
     "adskape.ru": {
-        "epoch": 1595894400.0,
-        "expiration_date": "28-jul-2020",
+        "epoch": 1627430400.0,
+        "expiration_date": "28-jul-2021",
         "state": "future"
     },
     "adskeeper.co.uk": {
@@ -1600,8 +1600,8 @@
         "state": "future"
     },
     "adsoptimal.com": {
-        "epoch": 1596067200.0,
-        "expiration_date": "30-jul-2020",
+        "epoch": 1627603200.0,
+        "expiration_date": "30-jul-2021",
         "state": "future"
     },
     "adsota.com": {
@@ -1997,7 +1997,7 @@
     "adwods.com": {
         "epoch": 1596326400.0,
         "expiration_date": "02-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "adworldnetwork.com": {
         "epoch": 1610582400.0,
@@ -2140,8 +2140,8 @@
         "state": "future"
     },
     "ahalogy.com": {
-        "epoch": 1595980800.0,
-        "expiration_date": "29-jul-2020",
+        "epoch": 1627516800.0,
+        "expiration_date": "29-jul-2021",
         "state": "future"
     },
     "ailalbapt.club": {
