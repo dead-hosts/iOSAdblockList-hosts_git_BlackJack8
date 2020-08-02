@@ -2427,7 +2427,7 @@
     "appclick.co": {
         "epoch": 1596326400.0,
         "expiration_date": "02-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "appclick.net": {
         "epoch": 1613520000.0,
@@ -2602,7 +2602,7 @@
     "aptashant.club": {
         "epoch": 1596240000.0,
         "expiration_date": "01-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "aptrk5.com": {
         "epoch": 1582502400.0,
@@ -2855,8 +2855,8 @@
         "state": "future"
     },
     "banner.kiev.ua": {
-        "epoch": 1596240000.0,
-        "expiration_date": "01-aug-2020",
+        "epoch": 1627776000.0,
+        "expiration_date": "01-aug-2021",
         "state": "future"
     },
     "bannerads.co.in": {
