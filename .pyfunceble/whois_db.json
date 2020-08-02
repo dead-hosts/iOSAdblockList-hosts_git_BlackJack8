@@ -4820,8 +4820,8 @@
         "state": "past"
     },
     "domainsponsor.com": {
-        "epoch": 1596153600.0,
-        "expiration_date": "31-jul-2020",
+        "epoch": 1627689600.0,
+        "expiration_date": "31-jul-2021",
         "state": "future"
     },
     "domdex.com": {
@@ -5325,8 +5325,8 @@
         "state": "future"
     },
     "experteerads.com": {
-        "epoch": 1595980800.0,
-        "expiration_date": "29-jul-2020",
+        "epoch": 1627516800.0,
+        "expiration_date": "29-jul-2021",
         "state": "future"
     },
     "exponential.com": {
@@ -5755,8 +5755,8 @@
         "state": "future"
     },
     "gammitcube.com": {
-        "epoch": 1595894400.0,
-        "expiration_date": "28-jul-2020",
+        "epoch": 1627430400.0,
+        "expiration_date": "28-jul-2021",
         "state": "future"
     },
     "gator.com": {
