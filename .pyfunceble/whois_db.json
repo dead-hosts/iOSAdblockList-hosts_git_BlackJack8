@@ -690,8 +690,8 @@
         "state": "future"
     },
     "ademails.com": {
-        "epoch": 1595980800.0,
-        "expiration_date": "29-jul-2020",
+        "epoch": 1659052800.0,
+        "expiration_date": "29-jul-2022",
         "state": "future"
     },
     "adengage.com": {
@@ -740,8 +740,8 @@
         "state": "future"
     },
     "adforce.com": {
-        "epoch": 1596326400.0,
-        "expiration_date": "02-aug-2020",
+        "epoch": 1659398400.0,
+        "expiration_date": "02-aug-2022",
         "state": "future"
     },
     "adforgames.com": {
@@ -840,8 +840,8 @@
         "state": "future"
     },
     "adisfy.com": {
-        "epoch": 1596153600.0,
-        "expiration_date": "31-jul-2020",
+        "epoch": 1627689600.0,
+        "expiration_date": "31-jul-2021",
         "state": "future"
     },
     "adition.com": {
@@ -1055,8 +1055,8 @@
         "state": "future"
     },
     "admob.dk": {
-        "epoch": 1596153600.0,
-        "expiration_date": "31-jul-2020",
+        "epoch": 1627689600.0,
+        "expiration_date": "31-jul-2021",
         "state": "future"
     },
     "admob.fi": {
@@ -1285,9 +1285,9 @@
         "state": "future"
     },
     "adprimemedia.com": {
-        "epoch": 1595808000.0,
-        "expiration_date": "27-jul-2020",
-        "state": "past"
+        "epoch": 1627344000.0,
+        "expiration_date": "27-jul-2021",
+        "state": "future"
     },
     "adprofile.net": {
         "epoch": 1623888000.0,
