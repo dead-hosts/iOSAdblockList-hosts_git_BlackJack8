@@ -1755,8 +1755,8 @@
         "state": "future"
     },
     "adtilt.com": {
-        "epoch": 1596758400.0,
-        "expiration_date": "07-aug-2020",
+        "epoch": 1628294400.0,
+        "expiration_date": "07-aug-2021",
         "state": "future"
     },
     "adtng.com": {
@@ -1845,8 +1845,8 @@
         "state": "future"
     },
     "advariant.com": {
-        "epoch": 1596412800.0,
-        "expiration_date": "03-aug-2020",
+        "epoch": 1627948800.0,
+        "expiration_date": "03-aug-2021",
         "state": "future"
     },
     "adventory.com": {
@@ -1995,9 +1995,9 @@
         "state": "future"
     },
     "adwods.com": {
-        "epoch": 1596326400.0,
-        "expiration_date": "02-aug-2020",
-        "state": "past"
+        "epoch": 1627862400.0,
+        "expiration_date": "02-aug-2021",
+        "state": "future"
     },
     "adworldnetwork.com": {
         "epoch": 1610582400.0,
@@ -2230,8 +2230,8 @@
         "state": "future"
     },
     "all4spy.com": {
-        "epoch": 1596499200.0,
-        "expiration_date": "04-aug-2020",
+        "epoch": 1628035200.0,
+        "expiration_date": "04-aug-2021",
         "state": "future"
     },
     "alladvantage.com": {
