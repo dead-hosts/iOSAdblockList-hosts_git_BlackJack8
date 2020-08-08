@@ -11280,8 +11280,8 @@
         "state": "future"
     },
     "slickaffiliate.com": {
-        "epoch": 1596412800.0,
-        "expiration_date": "03-aug-2020",
+        "epoch": 1627948800.0,
+        "expiration_date": "03-aug-2021",
         "state": "future"
     },
     "slicktext.com": {
@@ -11395,9 +11395,9 @@
         "state": "future"
     },
     "softclick.com.br": {
-        "epoch": 1595289600.0,
-        "expiration_date": "21-jul-2020",
-        "state": "past"
+        "epoch": 1626825600.0,
+        "expiration_date": "21-jul-2021",
+        "state": "future"
     },
     "solocpm.com": {
         "epoch": 1610409600.0,
@@ -11497,7 +11497,7 @@
     "spotscenered.info": {
         "epoch": 1596844800.0,
         "expiration_date": "08-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "spotxchange.com": {
         "epoch": 1717804800.0,
