@@ -6184,29 +6184,29 @@
         "zap.mookie1.com": {
             "included_at_epoch": 1596371123.617192,
             "included_at_iso": "2020-08-02T12:25:23.617192",
-            "last_retested_at_epoch": 1596892183.088532,
-            "last_retested_at_iso": "2020-08-08T13:09:43.088532",
+            "last_retested_at_epoch": 1597412296.230291,
+            "last_retested_at_iso": "2020-08-14T13:38:16.230291",
             "status": "INACTIVE"
         },
         "zde-affinity.edgecaching.net": {
             "included_at_epoch": 1596371123.723203,
             "included_at_iso": "2020-08-02T12:25:23.723203",
-            "last_retested_at_epoch": 1596892183.18457,
-            "last_retested_at_iso": "2020-08-08T13:09:43.184570",
+            "last_retested_at_epoch": 1597412296.359571,
+            "last_retested_at_iso": "2020-08-14T13:38:16.359571",
             "status": "INACTIVE"
         },
         "zealotnetworks-d.openx.net": {
             "included_at_epoch": 1595342539.411094,
             "included_at_iso": "2020-07-21T14:42:19.411094",
-            "last_retested_at_epoch": 1596892183.217433,
-            "last_retested_at_iso": "2020-08-08T13:09:43.217433",
+            "last_retested_at_epoch": 1597412296.337956,
+            "last_retested_at_iso": "2020-08-14T13:38:16.337956",
             "status": "INACTIVE"
         },
         "zeus.ad.intl.xiaomi.com": {
             "included_at_epoch": 1596371124.026662,
             "included_at_iso": "2020-08-02T12:25:24.026662",
-            "last_retested_at_epoch": 1596892183.496417,
-            "last_retested_at_iso": "2020-08-08T13:09:43.496417",
+            "last_retested_at_epoch": 1597412296.623728,
+            "last_retested_at_iso": "2020-08-14T13:38:16.623728",
             "status": "INACTIVE"
         }
     }
