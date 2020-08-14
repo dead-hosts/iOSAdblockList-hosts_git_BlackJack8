@@ -5735,8 +5735,8 @@
         "state": "future"
     },
     "gamesites100.net": {
-        "epoch": 1597363200.0,
-        "expiration_date": "14-aug-2020",
+        "epoch": 1628899200.0,
+        "expiration_date": "14-aug-2021",
         "state": "future"
     },
     "gamesites200.com": {
@@ -5855,8 +5855,8 @@
         "state": "future"
     },
     "glishais.net": {
-        "epoch": 1597190400.0,
-        "expiration_date": "12-aug-2020",
+        "epoch": 1628726400.0,
+        "expiration_date": "12-aug-2021",
         "state": "future"
     },
     "glispa.com": {
@@ -6300,8 +6300,8 @@
         "state": "future"
     },
     "hitexchange.net": {
-        "epoch": 1597104000.0,
-        "expiration_date": "11-aug-2020",
+        "epoch": 1628640000.0,
+        "expiration_date": "11-aug-2021",
         "state": "future"
     },
     "hitfarm.com": {
@@ -6845,9 +6845,9 @@
         "state": "future"
     },
     "inspectorclick.com": {
-        "epoch": 1596844800.0,
-        "expiration_date": "08-aug-2020",
-        "state": "past"
+        "epoch": 1628380800.0,
+        "expiration_date": "08-aug-2021",
+        "state": "future"
     },
     "inspiredjournal.xyz": {
         "epoch": 1625270400.0,
