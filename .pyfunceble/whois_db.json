@@ -1470,9 +1470,9 @@
         "state": "future"
     },
     "adservinginternational.com": {
-        "epoch": 1597363200.0,
-        "expiration_date": "14-aug-2020",
-        "state": "past"
+        "epoch": 1628899200.0,
+        "expiration_date": "14-aug-2021",
+        "state": "future"
     },
     "adservme.com": {
         "epoch": 1601942400.0,
@@ -1955,8 +1955,8 @@
         "state": "future"
     },
     "adviva.net": {
-        "epoch": 1597449600.0,
-        "expiration_date": "15-aug-2020",
+        "epoch": 1628985600.0,
+        "expiration_date": "15-aug-2021",
         "state": "future"
     },
     "advmob.cn": {
@@ -2117,7 +2117,7 @@
     "affiliation-france.com": {
         "epoch": 1597881600.0,
         "expiration_date": "20-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "affiz.net": {
         "epoch": 1625270400.0,
