@@ -11027,7 +11027,7 @@
     "sedotracker.com": {
         "epoch": 1597881600.0,
         "expiration_date": "20-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "sekindo.com": {
         "epoch": 1672963200.0,
@@ -11040,9 +11040,9 @@
         "state": "future"
     },
     "sendmepixel.com": {
-        "epoch": 1597363200.0,
-        "expiration_date": "14-aug-2020",
-        "state": "past"
+        "epoch": 1628899200.0,
+        "expiration_date": "14-aug-2021",
+        "state": "future"
     },
     "sensenetworks.com": {
         "epoch": 1602460800.0,
@@ -11405,8 +11405,8 @@
         "state": "future"
     },
     "sortable.com": {
-        "epoch": 1597795200.0,
-        "expiration_date": "19-aug-2020",
+        "epoch": 1629331200.0,
+        "expiration_date": "19-aug-2021",
         "state": "future"
     },
     "spacash.com": {
@@ -11450,8 +11450,8 @@
         "state": "future"
     },
     "spiffymachine.com": {
-        "epoch": 1597622400.0,
-        "expiration_date": "17-aug-2020",
+        "epoch": 1629158400.0,
+        "expiration_date": "17-aug-2021",
         "state": "future"
     },
     "spiritscourge.com": {
