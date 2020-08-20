@@ -7140,9 +7140,9 @@
         "state": "future"
     },
     "jwpltx.com": {
-        "epoch": 1597363200.0,
-        "expiration_date": "14-aug-2020",
-        "state": "past"
+        "epoch": 1628899200.0,
+        "expiration_date": "14-aug-2021",
+        "state": "future"
     },
     "kaffnet.com": {
         "epoch": 1609804800.0,
@@ -7545,8 +7545,8 @@
         "state": "future"
     },
     "localmediabuying.com": {
-        "epoch": 1597536000.0,
-        "expiration_date": "16-aug-2020",
+        "epoch": 1629072000.0,
+        "expiration_date": "16-aug-2021",
         "state": "future"
     },
     "localytics.com": {
