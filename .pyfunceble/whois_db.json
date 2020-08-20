@@ -3210,8 +3210,8 @@
         "state": "future"
     },
     "blast4traffic.com": {
-        "epoch": 1597622400.0,
-        "expiration_date": "17-aug-2020",
+        "epoch": 1629158400.0,
+        "expiration_date": "17-aug-2021",
         "state": "future"
     },
     "blingbucks.com": {
@@ -3245,8 +3245,8 @@
         "state": "future"
     },
     "blueadvertise.com": {
-        "epoch": 1597536000.0,
-        "expiration_date": "16-aug-2020",
+        "epoch": 1629072000.0,
+        "expiration_date": "16-aug-2021",
         "state": "future"
     },
     "bluecava.com": {
@@ -3415,8 +3415,8 @@
         "state": "future"
     },
     "british-banners.com": {
-        "epoch": 1597536000.0,
-        "expiration_date": "16-aug-2020",
+        "epoch": 1692144000.0,
+        "expiration_date": "16-aug-2023",
         "state": "future"
     },
     "broadboundary.com": {
@@ -3515,9 +3515,9 @@
         "state": "future"
     },
     "c4t.cc": {
-        "epoch": 1597363200.0,
-        "expiration_date": "14-aug-2020",
-        "state": "past"
+        "epoch": 1628899200.0,
+        "expiration_date": "14-aug-2021",
+        "state": "future"
     },
     "c8.net.ua": {
         "epoch": 1608336000.0,
@@ -3580,8 +3580,8 @@
         "state": "future"
     },
     "cashengines.com": {
-        "epoch": 1597536000.0,
-        "expiration_date": "16-aug-2020",
+        "epoch": 1629072000.0,
+        "expiration_date": "16-aug-2021",
         "state": "future"
     },
     "cashfiesta.com": {
@@ -4235,8 +4235,8 @@
         "state": "future"
     },
     "comscoreresearch.com": {
-        "epoch": 1597622400.0,
-        "expiration_date": "17-aug-2020",
+        "epoch": 1629158400.0,
+        "expiration_date": "17-aug-2021",
         "state": "future"
     },
     "concert.io": {
