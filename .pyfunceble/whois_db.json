@@ -11025,9 +11025,9 @@
         "state": "future"
     },
     "sedotracker.com": {
-        "epoch": 1597881600.0,
-        "expiration_date": "20-aug-2020",
-        "state": "past"
+        "epoch": 1629417600.0,
+        "expiration_date": "20-aug-2021",
+        "state": "future"
     },
     "sekindo.com": {
         "epoch": 1672963200.0,
@@ -11067,7 +11067,7 @@
     "serve-sys.com": {
         "epoch": 1598400000.0,
         "expiration_date": "26-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "servebom.com": {
         "epoch": 1609804800.0,
@@ -11200,8 +11200,8 @@
         "state": "future"
     },
     "silvermob.com": {
-        "epoch": 1598313600.0,
-        "expiration_date": "25-aug-2020",
+        "epoch": 1629849600.0,
+        "expiration_date": "25-aug-2021",
         "state": "future"
     },
     "simonsignal.com": {
