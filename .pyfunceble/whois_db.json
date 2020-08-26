@@ -1485,8 +1485,8 @@
         "state": "future"
     },
     "adsfac.us": {
-        "epoch": 1597968000.0,
-        "expiration_date": "21-aug-2020",
+        "epoch": 1629504000.0,
+        "expiration_date": "21-aug-2021",
         "state": "future"
     },
     "adsfactor.net": {
@@ -1915,8 +1915,8 @@
         "state": "future"
     },
     "advertmarket.com": {
-        "epoch": 1598400000.0,
-        "expiration_date": "26-aug-2020",
+        "epoch": 1629936000.0,
+        "expiration_date": "26-aug-2021",
         "state": "future"
     },
     "advertnative.com": {
@@ -2115,9 +2115,9 @@
         "state": "future"
     },
     "affiliation-france.com": {
-        "epoch": 1597881600.0,
-        "expiration_date": "20-aug-2020",
-        "state": "past"
+        "epoch": 1629417600.0,
+        "expiration_date": "20-aug-2021",
+        "state": "future"
     },
     "affiz.net": {
         "epoch": 1625270400.0,
