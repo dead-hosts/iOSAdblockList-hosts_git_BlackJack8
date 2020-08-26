@@ -6272,39 +6272,46 @@
             "last_retested_at_iso": "2020-08-26T13:06:59.670339",
             "status": "INACTIVE"
         },
+        "yellow.soju.openx.net": {
+            "included_at_epoch": 1598448439.254506,
+            "included_at_iso": "2020-08-26T13:27:19.254506",
+            "last_retested_at_epoch": 1598448439.254506,
+            "last_retested_at_iso": "2020-08-26T13:27:19.254506",
+            "status": "INACTIVE"
+        },
         "yoc.mobi": {
             "included_at_epoch": 1596371122.784887,
             "included_at_iso": "2020-08-02T12:25:22.784887",
-            "last_retested_at_epoch": 1597931986.93356,
-            "last_retested_at_iso": "2020-08-20T13:59:46.933560",
+            "last_retested_at_epoch": 1598448440.075641,
+            "last_retested_at_iso": "2020-08-26T13:27:20.075641",
             "status": "INACTIVE"
         },
         "zap.mookie1.com": {
             "included_at_epoch": 1596371123.617192,
             "included_at_iso": "2020-08-02T12:25:23.617192",
-            "last_retested_at_epoch": 1597931987.836498,
-            "last_retested_at_iso": "2020-08-20T13:59:47.836498",
+            "last_retested_at_epoch": 1598448440.927425,
+            "last_retested_at_iso": "2020-08-26T13:27:20.927425",
             "status": "INACTIVE"
         },
         "zde-affinity.edgecaching.net": {
             "included_at_epoch": 1596371123.723203,
             "included_at_iso": "2020-08-02T12:25:23.723203",
-            "last_retested_at_epoch": 1597931987.948841,
-            "last_retested_at_iso": "2020-08-20T13:59:47.948841",
+            "last_retested_at_epoch": 1598448441.063985,
+            "last_retested_at_iso": "2020-08-26T13:27:21.063985",
             "status": "INACTIVE"
         },
         "zealotnetworks-d.openx.net": {
             "included_at_epoch": 1597931987.970923,
             "included_at_iso": "2020-08-20T13:59:47.970923",
-            "last_retested_at_epoch": 1597931987.970923,
-            "last_retested_at_iso": "2020-08-20T13:59:47.970923",
+            "last_retested_at_epoch": 1598448441.041833,
+            "last_retested_at_iso": "2020-08-26T13:27:21.041833",
             "status": "INACTIVE"
         },
         "zeus.ad.intl.xiaomi.com": {
             "included_at_epoch": 1596371124.026662,
             "included_at_iso": "2020-08-02T12:25:24.026662",
-            "last_retested_at_epoch": 1597931988.264386,
-            "last_retested_at_iso": "2020-08-20T13:59:48.264386",
+            "last_retested_at_epoch": 1598448441.336579,
+            "last_retested_at_iso": "2020-08-26T13:27:21.336579",
             "status": "INACTIVE"
         }
     }
