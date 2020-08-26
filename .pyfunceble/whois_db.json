@@ -6060,8 +6060,8 @@
         "state": "future"
     },
     "grt03.com": {
-        "epoch": 1598054400.0,
-        "expiration_date": "22-aug-2020",
+        "epoch": 1629590400.0,
+        "expiration_date": "22-aug-2021",
         "state": "future"
     },
     "gsmtop.net": {
@@ -6355,9 +6355,9 @@
         "state": "future"
     },
     "homify.com.mx": {
-        "epoch": 1594080000.0,
-        "expiration_date": "07-jul-2020",
-        "state": "past"
+        "epoch": 1625616000.0,
+        "expiration_date": "07-jul-2021",
+        "state": "future"
     },
     "hostgrater.com": {
         "epoch": 1625961600.0,
@@ -6400,8 +6400,8 @@
         "state": "future"
     },
     "howdoesin.net": {
-        "epoch": 1598227200.0,
-        "expiration_date": "24-aug-2020",
+        "epoch": 1629763200.0,
+        "expiration_date": "24-aug-2021",
         "state": "future"
     },
     "hs-analytics.net": {
@@ -6675,8 +6675,8 @@
         "state": "future"
     },
     "impactmobile.com": {
-        "epoch": 1598140800.0,
-        "expiration_date": "23-aug-2020",
+        "epoch": 1629676800.0,
+        "expiration_date": "23-aug-2021",
         "state": "future"
     },
     "impactserving.com": {
