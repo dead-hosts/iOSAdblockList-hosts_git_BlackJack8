@@ -3590,8 +3590,8 @@
         "state": "future"
     },
     "cashlayer.com": {
-        "epoch": 1598400000.0,
-        "expiration_date": "26-aug-2020",
+        "epoch": 1629936000.0,
+        "expiration_date": "26-aug-2021",
         "state": "future"
     },
     "cashpartner.com": {
@@ -4160,8 +4160,8 @@
         "state": "future"
     },
     "coin-hive.com": {
-        "epoch": 1598227200.0,
-        "expiration_date": "24-aug-2020",
+        "epoch": 1629763200.0,
+        "expiration_date": "24-aug-2021",
         "state": "future"
     },
     "coinhive.com": {
@@ -4225,8 +4225,8 @@
         "state": "future"
     },
     "comscoredatamine.com": {
-        "epoch": 1598400000.0,
-        "expiration_date": "26-aug-2020",
+        "epoch": 1629936000.0,
+        "expiration_date": "26-aug-2021",
         "state": "future"
     },
     "comscoredirect.net": {
