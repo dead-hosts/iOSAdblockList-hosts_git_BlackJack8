@@ -1938,8 +1938,9 @@
         "state": "future"
     },
     "advertur.ru": {
-        "epoch": 1598659200.0,
-        "expiration_date": "29-aug-2020",
+        "epoch": 1630195200.0,
+        "expiration_date": "29-aug-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "advertwizard.com": {
@@ -2068,8 +2069,9 @@
         "state": "future"
     },
     "adztec.com": {
-        "epoch": 1598659200.0,
-        "expiration_date": "29-aug-2020",
+        "epoch": 1630195200.0,
+        "expiration_date": "29-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "af-ad.co.uk": {
@@ -2318,8 +2320,9 @@
         "state": "future"
     },
     "analytiall.com": {
-        "epoch": 1598486400.0,
-        "expiration_date": "27-aug-2020",
+        "epoch": 1630022400.0,
+        "expiration_date": "27-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "andomedia.com": {
