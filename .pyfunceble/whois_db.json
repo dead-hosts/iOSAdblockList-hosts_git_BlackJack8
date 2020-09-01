@@ -647,6 +647,7 @@
     "addash.co": {
         "epoch": 1595116800.0,
         "expiration_date": "19-jul-2020",
+        "server": "whois.nic.co",
         "state": "past"
     },
     "addealing.com": {
@@ -1137,6 +1138,7 @@
     "admotion.com.ar": {
         "epoch": 1596758400.0,
         "expiration_date": "07-aug-2020",
+        "server": "whois.nic.ar",
         "state": "past"
     },
     "admtpmp123.com": {
@@ -1145,8 +1147,9 @@
         "state": "future"
     },
     "admtpmp124.com": {
-        "epoch": 1598745600.0,
-        "expiration_date": "30-aug-2020",
+        "epoch": 1630281600.0,
+        "expiration_date": "30-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "admtpmp127.com": {
