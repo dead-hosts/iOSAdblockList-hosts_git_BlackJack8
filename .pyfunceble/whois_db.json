@@ -11378,8 +11378,9 @@
         "state": "future"
     },
     "smilered.com": {
-        "epoch": 1598572800.0,
-        "expiration_date": "28-aug-2020",
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "smowtion.com": {
@@ -11518,8 +11519,9 @@
         "state": "future"
     },
     "sportplus.pro": {
-        "epoch": 1598918400.0,
-        "expiration_date": "01-sep-2020",
+        "epoch": 1630454400.0,
+        "expiration_date": "01-sep-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "sportstream.biz": {
@@ -11563,8 +11565,9 @@
         "state": "future"
     },
     "spywarenuker.com": {
-        "epoch": 1598659200.0,
-        "expiration_date": "29-aug-2020",
+        "epoch": 1630195200.0,
+        "expiration_date": "29-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "spywords.com": {
@@ -11883,8 +11886,9 @@
         "state": "future"
     },
     "tailsweep.se": {
-        "epoch": 1598659200.0,
-        "expiration_date": "29-aug-2020",
+        "epoch": 1630195200.0,
+        "expiration_date": "29-aug-2021",
+        "server": "whois.iis.se",
         "state": "future"
     },
     "takeyourprizesnow4.life": {
@@ -12098,8 +12102,9 @@
         "state": "future"
     },
     "the-bitcoin-circuit.com": {
-        "epoch": 1598572800.0,
-        "expiration_date": "28-aug-2020",
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "theadhost.com": {
@@ -12175,6 +12180,7 @@
     "thogethoffic.co": {
         "epoch": 1594598400.0,
         "expiration_date": "13-jul-2020",
+        "server": "whois.nic.co",
         "state": "past"
     },
     "thoughtleadr.com": {
@@ -12428,8 +12434,9 @@
         "state": "future"
     },
     "track.lt": {
-        "epoch": 1598745600.0,
-        "expiration_date": "30-aug-2020",
+        "epoch": 1630281600.0,
+        "expiration_date": "30-aug-2021",
+        "server": "whois.domreg.lt",
         "state": "future"
     },
     "trackalyzer.com": {
