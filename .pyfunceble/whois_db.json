@@ -3698,8 +3698,9 @@
         "state": "future"
     },
     "cdntrf.com": {
-        "epoch": 1598486400.0,
-        "expiration_date": "27-aug-2020",
+        "epoch": 1630022400.0,
+        "expiration_date": "27-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "cdnwidget.com": {
@@ -3888,8 +3889,9 @@
         "state": "future"
     },
     "cld4r.com": {
-        "epoch": 1598486400.0,
-        "expiration_date": "27-aug-2020",
+        "epoch": 1630022400.0,
+        "expiration_date": "27-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "clearonclick.com": {
@@ -4253,8 +4255,9 @@
         "state": "future"
     },
     "concert.io": {
-        "epoch": 1598659200.0,
-        "expiration_date": "29-aug-2020",
+        "epoch": 1630195200.0,
+        "expiration_date": "29-aug-2021",
+        "server": "whois.nic.io",
         "state": "future"
     },
     "connextra.com": {
@@ -4523,8 +4526,9 @@
         "state": "future"
     },
     "cubics.com": {
-        "epoch": 1598572800.0,
-        "expiration_date": "28-aug-2020",
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "curtaincows.com": {
@@ -4663,8 +4667,9 @@
         "state": "future"
     },
     "deliveroo.com.sg": {
-        "epoch": 1598572800.0,
-        "expiration_date": "28-aug-2020",
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
+        "server": "whois.sgnic.sg",
         "state": "future"
     },
     "deloplen.com": {
