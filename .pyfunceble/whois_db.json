@@ -4928,13 +4928,15 @@
         "state": "future"
     },
     "duomeng.cn": {
-        "epoch": 1598572800.0,
-        "expiration_date": "28-aug-2020",
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
+        "server": "whois.cnnic.cn",
         "state": "future"
     },
     "duomeng.net": {
-        "epoch": 1598572800.0,
-        "expiration_date": "28-aug-2020",
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "duomeng.org": {
@@ -5305,6 +5307,7 @@
     "exe.bid": {
         "epoch": 1595289600.0,
         "expiration_date": "21-jul-2020",
+        "server": "whois.nic.bid",
         "state": "past"
     },
     "exit76.com": {
@@ -5578,8 +5581,9 @@
         "state": "future"
     },
     "fortt-rade.com": {
-        "epoch": 1598486400.0,
-        "expiration_date": "27-aug-2020",
+        "epoch": 1630022400.0,
+        "expiration_date": "27-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "fpctraffic.com": {
@@ -6033,8 +6037,9 @@
         "state": "future"
     },
     "gowide.com": {
-        "epoch": 1598659200.0,
-        "expiration_date": "29-aug-2020",
+        "epoch": 1630195200.0,
+        "expiration_date": "29-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "goyetteconnelly.bid": {
@@ -6583,8 +6588,9 @@
         "state": "future"
     },
     "iddiction.com": {
-        "epoch": 1598832000.0,
-        "expiration_date": "31-aug-2020",
+        "epoch": 1630368000.0,
+        "expiration_date": "31-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "ident.me": {
@@ -6600,6 +6606,7 @@
     "idot.cz": {
         "epoch": 1594598400.0,
         "expiration_date": "13-jul-2020",
+        "server": "whois.nic.cz",
         "state": "past"
     },
     "idregie.com": {
