@@ -2471,8 +2471,9 @@
         "state": "future"
     },
     "appier.com": {
-        "epoch": 1598832000.0,
-        "expiration_date": "31-aug-2020",
+        "epoch": 1630368000.0,
+        "expiration_date": "31-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "appier.net": {
@@ -2526,8 +2527,9 @@
         "state": "future"
     },
     "apprebates.com": {
-        "epoch": 1598486400.0,
-        "expiration_date": "27-aug-2020",
+        "epoch": 1630022400.0,
+        "expiration_date": "27-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "appredeem.com": {
@@ -2581,8 +2583,9 @@
         "state": "future"
     },
     "appsnack.com": {
-        "epoch": 1598572800.0,
-        "expiration_date": "28-aug-2020",
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "apptera.com": {
@@ -2608,6 +2611,7 @@
     "aptashant.club": {
         "epoch": 1596240000.0,
         "expiration_date": "01-aug-2020",
+        "server": "whois.nic.club",
         "state": "past"
     },
     "aptrk5.com": {
@@ -3096,13 +3100,15 @@
         "state": "future"
     },
     "bidgear.com": {
-        "epoch": 1598745600.0,
-        "expiration_date": "30-aug-2020",
+        "epoch": 1693353600.0,
+        "expiration_date": "30-aug-2023",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "bidr.io": {
-        "epoch": 1598745600.0,
-        "expiration_date": "30-aug-2020",
+        "epoch": 1630281600.0,
+        "expiration_date": "30-aug-2021",
+        "server": "whois.nic.io",
         "state": "future"
     },
     "bidsopt.com": {
@@ -3511,8 +3517,9 @@
         "state": "future"
     },
     "bvalphaserver.com": {
-        "epoch": 1598745600.0,
-        "expiration_date": "30-aug-2020",
+        "epoch": 1630281600.0,
+        "expiration_date": "30-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "c1exchange.com": {
