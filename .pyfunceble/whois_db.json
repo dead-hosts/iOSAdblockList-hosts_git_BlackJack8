@@ -9977,9 +9977,10 @@
         "state": "future"
     },
     "popupnation.com": {
-        "epoch": 1598400000.0,
-        "expiration_date": "26-aug-2020",
-        "state": "past"
+        "epoch": 1629936000.0,
+        "expiration_date": "26-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
     },
     "popuptraffic.com": {
         "epoch": 1607817600.0,
@@ -10132,9 +10133,10 @@
         "state": "future"
     },
     "projectwonderful.com": {
-        "epoch": 1598400000.0,
-        "expiration_date": "26-aug-2020",
-        "state": "past"
+        "epoch": 1629936000.0,
+        "expiration_date": "26-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
     },
     "promio-mail.com": {
         "epoch": 1614556800.0,
@@ -10297,8 +10299,9 @@
         "state": "future"
     },
     "pushazer.com": {
-        "epoch": 1598486400.0,
-        "expiration_date": "27-aug-2020",
+        "epoch": 1630022400.0,
+        "expiration_date": "27-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "pushcrew.com": {
@@ -10837,8 +10840,9 @@
         "state": "future"
     },
     "roxr.net": {
-        "epoch": 1598659200.0,
-        "expiration_date": "29-aug-2020",
+        "epoch": 1630195200.0,
+        "expiration_date": "29-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "rtb-seller.com": {
@@ -10947,8 +10951,9 @@
         "state": "future"
     },
     "sascdn.com": {
-        "epoch": 1598659200.0,
-        "expiration_date": "29-aug-2020",
+        "epoch": 1630195200.0,
+        "expiration_date": "29-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "saspreview.com": {
@@ -11097,9 +11102,10 @@
         "state": "future"
     },
     "serve-sys.com": {
-        "epoch": 1598400000.0,
-        "expiration_date": "26-aug-2020",
-        "state": "past"
+        "epoch": 1629936000.0,
+        "expiration_date": "26-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
     },
     "servebom.com": {
         "epoch": 1609804800.0,
