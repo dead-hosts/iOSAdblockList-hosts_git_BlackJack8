@@ -896,6 +896,20 @@
             "last_retested_at_iso": "2020-09-01T09:48:34.601244",
             "status": "INACTIVE"
         },
+        "ads.us-east-1.prodaa.netflix.com": {
+            "included_at_epoch": 1599472294.037909,
+            "included_at_iso": "2020-09-07T09:51:34.037909",
+            "last_retested_at_epoch": 1599472294.037909,
+            "last_retested_at_iso": "2020-09-07T09:51:34.037909",
+            "status": "INACTIVE"
+        },
+        "ads.us-west-2.prodaa.netflix.com": {
+            "included_at_epoch": 1599472294.051953,
+            "included_at_iso": "2020-09-07T09:51:34.051953",
+            "last_retested_at_epoch": 1599472294.051953,
+            "last_retested_at_iso": "2020-09-07T09:51:34.051953",
+            "status": "INACTIVE"
+        },
         "ads.v3.com": {
             "included_at_epoch": 1598953714.632811,
             "included_at_iso": "2020-09-01T09:48:34.632811",
@@ -1050,6 +1064,13 @@
             "last_retested_at_iso": "2020-09-01T09:48:35.144110",
             "status": "INACTIVE"
         },
+        "adserver.portugalmail.pt": {
+            "included_at_epoch": 1599472294.443118,
+            "included_at_iso": "2020-09-07T09:51:34.443118",
+            "last_retested_at_epoch": 1599472294.443118,
+            "last_retested_at_iso": "2020-09-07T09:51:34.443118",
+            "status": "INACTIVE"
+        },
         "adserver.startnow.com": {
             "included_at_epoch": 1598953715.173976,
             "included_at_iso": "2020-09-01T09:48:35.173976",
@@ -1104,6 +1125,13 @@
             "included_at_iso": "2020-09-01T09:48:35.430732",
             "last_retested_at_epoch": 1598953715.430732,
             "last_retested_at_iso": "2020-09-01T09:48:35.430732",
+            "status": "INACTIVE"
+        },
+        "adsrvr.receptiv.com": {
+            "included_at_epoch": 1599472294.737984,
+            "included_at_iso": "2020-09-07T09:51:34.737984",
+            "last_retested_at_epoch": 1599472294.737984,
+            "last_retested_at_iso": "2020-09-07T09:51:34.737984",
             "status": "INACTIVE"
         },
         "adthrive-d.openx.net": {
@@ -1211,6 +1239,13 @@
             "last_retested_at_iso": "2020-09-01T09:48:36.019733",
             "status": "INACTIVE"
         },
+        "affiliate.mercola.com": {
+            "included_at_epoch": 1599472295.24988,
+            "included_at_iso": "2020-09-07T09:51:35.249880",
+            "last_retested_at_epoch": 1599472295.24988,
+            "last_retested_at_iso": "2020-09-07T09:51:35.249880",
+            "status": "INACTIVE"
+        },
         "affiliates-prod.us-east-1.elasticbeanstalk.com": {
             "included_at_epoch": 1598953716.056577,
             "included_at_iso": "2020-09-01T09:48:36.056577",
@@ -1265,6 +1300,13 @@
             "included_at_iso": "2020-09-01T09:48:36.301248",
             "last_retested_at_epoch": 1598953716.301248,
             "last_retested_at_iso": "2020-09-01T09:48:36.301248",
+            "status": "INACTIVE"
+        },
+        "alkutbay.starbolt.io": {
+            "included_at_epoch": 1599472295.537398,
+            "included_at_iso": "2020-09-07T09:51:35.537398",
+            "last_retested_at_epoch": 1599472295.537398,
+            "last_retested_at_iso": "2020-09-07T09:51:35.537398",
             "status": "INACTIVE"
         },
         "all.unrulyx.unrulymedia.com": {
@@ -1358,6 +1400,13 @@
             "last_retested_at_iso": "2020-09-01T09:48:36.988860",
             "status": "INACTIVE"
         },
+        "anm.intelli-direct.com": {
+            "included_at_epoch": 1599472296.246097,
+            "included_at_iso": "2020-09-07T09:51:36.246097",
+            "last_retested_at_epoch": 1599472296.246097,
+            "last_retested_at_iso": "2020-09-07T09:51:36.246097",
+            "status": "INACTIVE"
+        },
         "aopa-d.openx.net": {
             "included_at_epoch": 1597919383.68159,
             "included_at_iso": "2020-08-20T10:29:43.681590",
@@ -1384,6 +1433,13 @@
             "included_at_iso": "2020-09-01T09:48:37.356769",
             "last_retested_at_epoch": 1598953717.356769,
             "last_retested_at_iso": "2020-09-01T09:48:37.356769",
+            "status": "INACTIVE"
+        },
+        "api.admob.xiaomi.com": {
+            "included_at_epoch": 1599472296.544319,
+            "included_at_iso": "2020-09-07T09:51:36.544319",
+            "last_retested_at_epoch": 1599472296.544319,
+            "last_retested_at_iso": "2020-09-07T09:51:36.544319",
             "status": "INACTIVE"
         },
         "api.ambelbet.com": {
