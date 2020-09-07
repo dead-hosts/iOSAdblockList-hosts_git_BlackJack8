@@ -4025,6 +4025,13 @@
             "last_retested_at_iso": "2020-09-01T11:14:49.527970",
             "status": "INACTIVE"
         },
+        "nsg2.namebrightdns.com": {
+            "included_at_epoch": 1599477461.752606,
+            "included_at_iso": "2020-09-07T11:17:41.752606",
+            "last_retested_at_epoch": 1599477461.752606,
+            "last_retested_at_iso": "2020-09-07T11:17:41.752606",
+            "status": "INACTIVE"
+        },
         "oas.foxnews.com": {
             "included_at_epoch": 1598958889.812498,
             "included_at_iso": "2020-09-01T11:14:49.812498",
@@ -4074,6 +4081,13 @@
             "last_retested_at_iso": "2020-09-01T11:14:51.244187",
             "status": "INACTIVE"
         },
+        "ordingly.com": {
+            "included_at_epoch": 1599477463.433031,
+            "included_at_iso": "2020-09-07T11:17:43.433031",
+            "last_retested_at_epoch": 1599477463.433031,
+            "last_retested_at_iso": "2020-09-07T11:17:43.433031",
+            "status": "INACTIVE"
+        },
         "origin-ui.revcontent.com": {
             "included_at_epoch": 1598958891.364365,
             "included_at_iso": "2020-09-01T11:14:51.364365",
@@ -4081,11 +4095,25 @@
             "last_retested_at_iso": "2020-09-01T11:14:51.364365",
             "status": "INACTIVE"
         },
+        "osc.optimize.webtrends.com": {
+            "included_at_epoch": 1599477463.578604,
+            "included_at_iso": "2020-09-07T11:17:43.578604",
+            "last_retested_at_epoch": 1599477463.578604,
+            "last_retested_at_iso": "2020-09-07T11:17:43.578604",
+            "status": "INACTIVE"
+        },
         "overdrive-d.openx.net": {
             "included_at_epoch": 1597925295.802319,
             "included_at_iso": "2020-08-20T12:08:15.802319",
             "last_retested_at_epoch": 1598442673.09159,
             "last_retested_at_iso": "2020-08-26T11:51:13.091590",
+            "status": "INACTIVE"
+        },
+        "overlay-track-prod01.sailthru.cloud": {
+            "included_at_epoch": 1599477463.782446,
+            "included_at_iso": "2020-09-07T11:17:43.782446",
+            "last_retested_at_epoch": 1599477463.782446,
+            "last_retested_at_iso": "2020-09-07T11:17:43.782446",
             "status": "INACTIVE"
         },
         "ox-d.247wallst.servedbyopenx.com": {
@@ -4660,6 +4688,13 @@
             "included_at_iso": "2020-08-14T12:26:56.280087",
             "last_retested_at_epoch": 1598443705.831428,
             "last_retested_at_iso": "2020-08-26T12:08:25.831428",
+            "status": "INACTIVE"
+        },
+        "pso-imbot.inmobi.com": {
+            "included_at_epoch": 1599477468.712772,
+            "included_at_iso": "2020-09-07T11:17:48.712772",
+            "last_retested_at_epoch": 1599477468.712772,
+            "last_retested_at_iso": "2020-09-07T11:17:48.712772",
             "status": "INACTIVE"
         },
         "pub-thanhnien.advenueplatform.com": {

@@ -9194,6 +9194,12 @@
         "expiration_date": "26-aug-2021",
         "state": "future"
     },
+    "nuvuneu.com": {
+        "epoch": 1626912000.0,
+        "expiration_date": "22-jul-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "nxtck.com": {
         "epoch": 1614038400.0,
         "expiration_date": "23-feb-2021",
@@ -9232,6 +9238,12 @@
     "offerfusion.com": {
         "epoch": 1741651200.0,
         "expiration_date": "11-mar-2025",
+        "state": "future"
+    },
+    "offerimage.com": {
+        "epoch": 1623283200.0,
+        "expiration_date": "10-jun-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "offermatica.com": {
@@ -9350,6 +9362,12 @@
         "expiration_date": "10-jan-2023",
         "state": "future"
     },
+    "onstunkyr.com": {
+        "epoch": 1626307200.0,
+        "expiration_date": "15-jul-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "onthe.io": {
         "epoch": 1611878400.0,
         "expiration_date": "29-jan-2021",
@@ -9411,8 +9429,9 @@
         "state": "future"
     },
     "opienetwork.com": {
-        "epoch": 1599350400.0,
-        "expiration_date": "06-sep-2020",
+        "epoch": 1630886400.0,
+        "expiration_date": "06-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "opinionstage.com": {
@@ -9721,8 +9740,9 @@
         "state": "future"
     },
     "pflexads.com": {
-        "epoch": 1599436800.0,
-        "expiration_date": "07-sep-2020",
+        "epoch": 1630972800.0,
+        "expiration_date": "07-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "pgmediaserve.com": {
@@ -10510,8 +10530,9 @@
         "state": "future"
     },
     "rayjump.com": {
-        "epoch": 1599350400.0,
-        "expiration_date": "06-sep-2020",
+        "epoch": 1757116800.0,
+        "expiration_date": "06-sep-2025",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "rbnt.org": {
