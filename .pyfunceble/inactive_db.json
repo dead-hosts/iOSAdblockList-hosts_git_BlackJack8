@@ -2940,6 +2940,13 @@
             "last_retested_at_iso": "2020-09-01T10:40:08.636656",
             "status": "INACTIVE"
         },
+        "expired1.namebrightdns.com": {
+            "included_at_epoch": 1599475394.525923,
+            "included_at_iso": "2020-09-07T10:43:14.525923",
+            "last_retested_at_epoch": 1599475394.525923,
+            "last_retested_at_iso": "2020-09-07T10:43:14.525923",
+            "status": "INACTIVE"
+        },
         "expired2.namebrightdns.com": {
             "included_at_epoch": 1598956808.672348,
             "included_at_iso": "2020-09-01T10:40:08.672348",
@@ -2959,6 +2966,13 @@
             "included_at_iso": "2020-09-01T10:40:09.029715",
             "last_retested_at_epoch": 1598956809.029715,
             "last_retested_at_iso": "2020-09-01T10:40:09.029715",
+            "status": "INACTIVE"
+        },
+        "files.revcontent.com": {
+            "included_at_epoch": 1599475395.049595,
+            "included_at_iso": "2020-09-07T10:43:15.049595",
+            "last_retested_at_epoch": 1599475395.049595,
+            "last_retested_at_iso": "2020-09-07T10:43:15.049595",
             "status": "INACTIVE"
         },
         "fk-mtrack.rayjump.com": {
