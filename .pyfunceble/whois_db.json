@@ -2643,8 +2643,9 @@
         "state": "future"
     },
     "arraghand-top.com": {
-        "epoch": 1599350400.0,
-        "expiration_date": "06-sep-2020",
+        "epoch": 1630886400.0,
+        "expiration_date": "06-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "arrlnk.com": {
@@ -2913,8 +2914,9 @@
         "state": "future"
     },
     "bannermall.com": {
-        "epoch": 1599264000.0,
-        "expiration_date": "05-sep-2020",
+        "epoch": 1630800000.0,
+        "expiration_date": "05-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "bannerpower.com": {
@@ -3060,6 +3062,12 @@
     "bestsearch.net": {
         "epoch": 1623456000.0,
         "expiration_date": "12-jun-2021",
+        "state": "future"
+    },
+    "betgorebysson.club": {
+        "epoch": 1627084800.0,
+        "expiration_date": "24-jul-2021",
+        "server": "whois.nic.club",
         "state": "future"
     },
     "betrad.com": {

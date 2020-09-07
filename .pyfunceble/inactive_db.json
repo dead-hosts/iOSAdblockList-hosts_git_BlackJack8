@@ -1883,6 +1883,13 @@
             "last_retested_at_iso": "2020-09-01T10:05:47.913903",
             "status": "INACTIVE"
         },
+        "bidwin.vrtzads.com": {
+            "included_at_epoch": 1599473327.616966,
+            "included_at_iso": "2020-09-07T10:08:47.616966",
+            "last_retested_at_epoch": 1599473327.616966,
+            "last_retested_at_iso": "2020-09-07T10:08:47.616966",
+            "status": "INACTIVE"
+        },
         "bigads.guj.de": {
             "included_at_epoch": 1598954748.199003,
             "included_at_iso": "2020-09-01T10:05:48.199003",
@@ -1931,6 +1938,13 @@
             "last_retested_at_epoch": 1598954748.741822,
             "last_retested_at_iso": "2020-09-01T10:05:48.741822",
             "status": "INVALID"
+        },
+        "broker.video-v2.fyber.com": {
+            "included_at_epoch": 1599473328.11356,
+            "included_at_iso": "2020-09-07T10:08:48.113560",
+            "last_retested_at_epoch": 1599473328.11356,
+            "last_retested_at_iso": "2020-09-07T10:08:48.113560",
+            "status": "INACTIVE"
         },
         "bumpclick-d.openx.net": {
             "included_at_epoch": 1597920415.641504,
@@ -2014,6 +2028,13 @@
             "included_at_iso": "2020-09-01T10:22:54.160115",
             "last_retested_at_epoch": 1598955774.160115,
             "last_retested_at_iso": "2020-09-01T10:22:54.160115",
+            "status": "INACTIVE"
+        },
+        "cdn.mediabrix.com": {
+            "included_at_epoch": 1599473329.556196,
+            "included_at_iso": "2020-09-07T10:08:49.556196",
+            "last_retested_at_epoch": 1599473329.556196,
+            "last_retested_at_iso": "2020-09-07T10:08:49.556196",
             "status": "INACTIVE"
         },
         "cdn.mobiletop.cc": {
