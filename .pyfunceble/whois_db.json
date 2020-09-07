@@ -11887,7 +11887,8 @@
     "swan-swan-goose.com": {
         "epoch": 1599436800.0,
         "expiration_date": "07-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "swelen.com": {
         "epoch": 1649635200.0,
@@ -11915,8 +11916,9 @@
         "state": "future"
     },
     "sync2ad.com": {
-        "epoch": 1599177600.0,
-        "expiration_date": "04-sep-2020",
+        "epoch": 1630713600.0,
+        "expiration_date": "04-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "tabcompany.com": {
@@ -12696,8 +12698,9 @@
         "state": "future"
     },
     "trfmxt.com": {
-        "epoch": 1599177600.0,
-        "expiration_date": "04-sep-2020",
+        "epoch": 1630713600.0,
+        "expiration_date": "04-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "trhunt.com": {
@@ -13022,10 +13025,10 @@
         "state": "future"
     },
     "usekahuna.com": {
-        "epoch": 1598918400.0,
-        "expiration_date": "01-sep-2020",
+        "epoch": 1630454400.0,
+        "expiration_date": "01-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "usergrid.com": {
         "epoch": 1614297600.0,
