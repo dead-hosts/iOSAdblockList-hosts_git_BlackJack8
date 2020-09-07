@@ -2163,6 +2163,13 @@
             "last_retested_at_iso": "2020-09-01T10:22:55.900642",
             "status": "INACTIVE"
         },
+        "cloud-graphql-live.us-east-1.elasticbeanstalk.com": {
+            "included_at_epoch": 1599474360.312852,
+            "included_at_iso": "2020-09-07T10:26:00.312852",
+            "last_retested_at_epoch": 1599474360.312852,
+            "last_retested_at_iso": "2020-09-07T10:26:00.312852",
+            "status": "INACTIVE"
+        },
         "cloud-pool-lb-357895053.eu-central-1.elb.amazonaws.com": {
             "included_at_epoch": 1598955775.98682,
             "included_at_iso": "2020-09-01T10:22:55.986820",
@@ -2254,6 +2261,13 @@
             "last_retested_at_iso": "2020-09-01T10:22:56.752269",
             "status": "INACTIVE"
         },
+        "com-rypl-main.collector.snplow.net": {
+            "included_at_epoch": 1599474361.010585,
+            "included_at_iso": "2020-09-07T10:26:01.010585",
+            "last_retested_at_epoch": 1599474361.010585,
+            "last_retested_at_iso": "2020-09-07T10:26:01.010585",
+            "status": "INACTIVE"
+        },
         "com.tenjin.ios.api": {
             "included_at_epoch": 1598955776.779476,
             "included_at_iso": "2020-09-01T10:22:56.779476",
@@ -2280,6 +2294,13 @@
             "included_at_iso": "2020-08-20T10:47:04.066616",
             "last_retested_at_epoch": 1598437989.914063,
             "last_retested_at_iso": "2020-08-26T10:33:09.914063",
+            "status": "INACTIVE"
+        },
+        "connect.fullstory.com": {
+            "included_at_epoch": 1599474361.286683,
+            "included_at_iso": "2020-09-07T10:26:01.286683",
+            "last_retested_at_epoch": 1599474361.286683,
+            "last_retested_at_iso": "2020-09-07T10:26:01.286683",
             "status": "INACTIVE"
         },
         "contextualadsorigin.media.net": {
@@ -2639,6 +2660,13 @@
             "last_retested_at_iso": "2020-09-01T10:40:05.888316",
             "status": "INACTIVE"
         },
+        "dmp.aerserv.com": {
+            "included_at_epoch": 1599474364.262474,
+            "included_at_iso": "2020-09-07T10:26:04.262474",
+            "last_retested_at_epoch": 1599474364.262474,
+            "last_retested_at_iso": "2020-09-07T10:26:04.262474",
+            "status": "INACTIVE"
+        },
         "dmp.ivitrack.com": {
             "included_at_epoch": 1597922189.114955,
             "included_at_iso": "2020-08-20T11:16:29.114955",
@@ -2672,6 +2700,13 @@
             "included_at_iso": "2020-09-01T10:40:06.113930",
             "last_retested_at_epoch": 1598956806.11393,
             "last_retested_at_iso": "2020-09-01T10:40:06.113930",
+            "status": "INACTIVE"
+        },
+        "dot.a.mobimagic.com": {
+            "included_at_epoch": 1599474364.476915,
+            "included_at_iso": "2020-09-07T10:26:04.476915",
+            "last_retested_at_epoch": 1599474364.476915,
+            "last_retested_at_iso": "2020-09-07T10:26:04.476915",
             "status": "INACTIVE"
         },
         "doubleclickbygoogle.de": {
