@@ -7165,8 +7165,9 @@
         "state": "future"
     },
     "jumptab.com": {
-        "epoch": 1599177600.0,
-        "expiration_date": "04-sep-2020",
+        "epoch": 1630713600.0,
+        "expiration_date": "04-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "jumptap.com": {
@@ -7618,6 +7619,12 @@
     "loopme.me": {
         "epoch": 1629590400.0,
         "expiration_date": "22-aug-2021",
+        "state": "future"
+    },
+    "lootvalley.com": {
+        "epoch": 1609632000.0,
+        "expiration_date": "03-jan-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "lop.com": {
@@ -8166,8 +8173,9 @@
         "state": "future"
     },
     "mintrace.com": {
-        "epoch": 1599436800.0,
-        "expiration_date": "07-sep-2020",
+        "epoch": 1630972800.0,
+        "expiration_date": "07-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "miscopy.com": {
@@ -8251,8 +8259,9 @@
         "state": "future"
     },
     "mmtro.com": {
-        "epoch": 1599177600.0,
-        "expiration_date": "04-sep-2020",
+        "epoch": 1630713600.0,
+        "expiration_date": "04-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "mnectar.com": {
@@ -8341,8 +8350,9 @@
         "state": "future"
     },
     "mobidea.com": {
-        "epoch": 1599350400.0,
-        "expiration_date": "06-sep-2020",
+        "epoch": 1662422400.0,
+        "expiration_date": "06-sep-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "mobilda.com": {
@@ -9064,8 +9074,9 @@
         "state": "future"
     },
     "newsnet.in.ua": {
-        "epoch": 1599177600.0,
-        "expiration_date": "04-sep-2020",
+        "epoch": 1630713600.0,
+        "expiration_date": "04-sep-2021",
+        "server": "whois.ua",
         "state": "future"
     },
     "newstarads.com": {

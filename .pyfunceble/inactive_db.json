@@ -3423,6 +3423,13 @@
             "last_retested_at_iso": "2020-08-26T11:16:50.835189",
             "status": "INACTIVE"
         },
+        "iw.a.mobimagic.com": {
+            "included_at_epoch": 1599476426.784574,
+            "included_at_iso": "2020-09-07T11:00:26.784574",
+            "last_retested_at_epoch": 1599476426.784574,
+            "last_retested_at_iso": "2020-09-07T11:00:26.784574",
+            "status": "INACTIVE"
+        },
         "iw3.a.mobimagic.com": {
             "included_at_epoch": 1598957840.904446,
             "included_at_iso": "2020-09-01T10:57:20.904446",
@@ -3491,6 +3498,13 @@
             "included_at_iso": "2020-09-01T10:57:22.033526",
             "last_retested_at_epoch": 1598957842.033526,
             "last_retested_at_iso": "2020-09-01T10:57:22.033526",
+            "status": "INACTIVE"
+        },
+        "kt-g.de": {
+            "included_at_epoch": 1599476427.921758,
+            "included_at_iso": "2020-09-07T11:00:27.921758",
+            "last_retested_at_epoch": 1599476427.921758,
+            "last_retested_at_iso": "2020-09-07T11:00:27.921758",
             "status": "INACTIVE"
         },
         "l3op.info": {
@@ -3696,6 +3710,13 @@
             "last_retested_at_iso": "2020-08-26T11:34:01.388315",
             "status": "INACTIVE"
         },
+        "mediate.mediabrix.com": {
+            "included_at_epoch": 1599476432.254197,
+            "included_at_iso": "2020-09-07T11:00:32.254197",
+            "last_retested_at_epoch": 1599476432.254197,
+            "last_retested_at_iso": "2020-09-07T11:00:32.254197",
+            "status": "INACTIVE"
+        },
         "mediatrking.com": {
             "included_at_epoch": 1598957847.118939,
             "included_at_iso": "2020-09-01T10:57:27.118939",
@@ -3736,6 +3757,13 @@
             "included_at_iso": "2020-09-01T10:57:27.716160",
             "last_retested_at_epoch": 1598957847.71616,
             "last_retested_at_iso": "2020-09-01T10:57:27.716160",
+            "status": "INACTIVE"
+        },
+        "metrics.windowsitpro.com": {
+            "included_at_epoch": 1599476432.82312,
+            "included_at_iso": "2020-09-07T11:00:32.823120",
+            "last_retested_at_epoch": 1599476432.82312,
+            "last_retested_at_iso": "2020-09-07T11:00:32.823120",
             "status": "INACTIVE"
         },
         "milliyetreklam-p.mncdn.com": {
@@ -3801,11 +3829,25 @@
             "last_retested_at_iso": "2020-09-01T10:57:28.457887",
             "status": "INACTIVE"
         },
+        "mobile.mediabrix.com": {
+            "included_at_epoch": 1599476433.902782,
+            "included_at_iso": "2020-09-07T11:00:33.902782",
+            "last_retested_at_epoch": 1599476433.902782,
+            "last_retested_at_iso": "2020-09-07T11:00:33.902782",
+            "status": "INACTIVE"
+        },
         "mobile.mofowl.com": {
             "included_at_epoch": 1597924263.83006,
             "included_at_iso": "2020-08-20T11:51:03.830060",
             "last_retested_at_epoch": 1598441646.094774,
             "last_retested_at_iso": "2020-08-26T11:34:06.094774",
+            "status": "INACTIVE"
+        },
+        "mobile15.mediabrix.com": {
+            "included_at_epoch": 1599476433.940163,
+            "included_at_iso": "2020-09-07T11:00:33.940163",
+            "last_retested_at_epoch": 1599476433.940163,
+            "last_retested_at_iso": "2020-09-07T11:00:33.940163",
             "status": "INACTIVE"
         },
         "mobile9897.drumteam99.live": {
@@ -3890,6 +3932,13 @@
             "included_at_iso": "2020-09-01T11:14:47.229791",
             "last_retested_at_epoch": 1598958887.229791,
             "last_retested_at_iso": "2020-09-01T11:14:47.229791",
+            "status": "INACTIVE"
+        },
+        "na-gateway.supersonicads.com": {
+            "included_at_epoch": 1599476435.585672,
+            "included_at_iso": "2020-09-07T11:00:35.585672",
+            "last_retested_at_epoch": 1599476435.585672,
+            "last_retested_at_iso": "2020-09-07T11:00:35.585672",
             "status": "INACTIVE"
         },
         "na.cdn5.onthe.io": {
