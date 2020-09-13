@@ -3733,8 +3733,9 @@
         "state": "future"
     },
     "cecash.com": {
-        "epoch": 1599696000.0,
-        "expiration_date": "10-sep-2020",
+        "epoch": 1631232000.0,
+        "expiration_date": "10-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "cedexis-radar.net": {
@@ -3994,8 +3995,9 @@
         "state": "future"
     },
     "clickedyclick.com": {
-        "epoch": 1599955200.0,
-        "expiration_date": "13-sep-2020",
+        "epoch": 1631491200.0,
+        "expiration_date": "13-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "clickfuse.com": {
@@ -4191,7 +4193,8 @@
     "code-server.biz": {
         "epoch": 1599609600.0,
         "expiration_date": "09-sep-2020",
-        "state": "future"
+        "server": "whois.nic.biz",
+        "state": "past"
     },
     "codefuel.com": {
         "epoch": 1609459200.0,
@@ -4320,8 +4323,9 @@
         "state": "future"
     },
     "conversionruler.com": {
-        "epoch": 1599955200.0,
-        "expiration_date": "13-sep-2020",
+        "epoch": 1631491200.0,
+        "expiration_date": "13-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "copperchickens.com": {
@@ -4515,8 +4519,9 @@
         "state": "future"
     },
     "croissed.info": {
-        "epoch": 1599523200.0,
-        "expiration_date": "08-sep-2020",
+        "epoch": 1631059200.0,
+        "expiration_date": "08-sep-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "crossboardmobile.com": {
@@ -4812,8 +4817,9 @@
         "state": "future"
     },
     "discountclick.com": {
-        "epoch": 1599696000.0,
-        "expiration_date": "10-sep-2020",
+        "epoch": 1631232000.0,
+        "expiration_date": "10-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "displayadsmedia.com": {
@@ -4979,13 +4985,15 @@
         "state": "future"
     },
     "dyntrk.com": {
-        "epoch": 1599696000.0,
-        "expiration_date": "10-sep-2020",
+        "epoch": 1631232000.0,
+        "expiration_date": "10-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "e-bannerx.com": {
-        "epoch": 1599609600.0,
-        "expiration_date": "09-sep-2020",
+        "epoch": 1631145600.0,
+        "expiration_date": "09-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "e-debtconsolidation.com": {

@@ -2051,6 +2051,13 @@
             "last_retested_at_iso": "2020-08-26T10:33:05.918740",
             "status": "INACTIVE"
         },
+        "cheetahmobile.de": {
+            "included_at_epoch": 1599992901.767516,
+            "included_at_iso": "2020-09-13T10:28:21.767516",
+            "last_retested_at_epoch": 1599992901.767516,
+            "last_retested_at_iso": "2020-09-13T10:28:21.767516",
+            "status": "INACTIVE"
+        },
         "cherrythread.com": {
             "included_at_epoch": 1598955775.110577,
             "included_at_iso": "2020-09-01T10:22:55.110577",
