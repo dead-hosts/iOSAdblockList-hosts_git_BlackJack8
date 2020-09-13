@@ -7680,8 +7680,9 @@
         "state": "future"
     },
     "lucklayed.info": {
-        "epoch": 1599523200.0,
-        "expiration_date": "08-sep-2020",
+        "epoch": 1631059200.0,
+        "expiration_date": "08-sep-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "luckymeetyou.com": {
@@ -7905,8 +7906,9 @@
         "state": "future"
     },
     "mdotm.com": {
-        "epoch": 1599955200.0,
-        "expiration_date": "13-sep-2020",
+        "epoch": 1631491200.0,
+        "expiration_date": "13-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "measuread.com": {
@@ -7985,8 +7987,9 @@
         "state": "future"
     },
     "mediaiqdigital.com": {
-        "epoch": 1599609600.0,
-        "expiration_date": "09-sep-2020",
+        "epoch": 1631145600.0,
+        "expiration_date": "09-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "medialets.com": {
@@ -8513,8 +8516,9 @@
         "state": "future"
     },
     "mobrain.com": {
-        "epoch": 1599955200.0,
-        "expiration_date": "13-sep-2020",
+        "epoch": 1631491200.0,
+        "expiration_date": "13-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "mobrand.net": {
@@ -8800,8 +8804,9 @@
         "state": "future"
     },
     "mybuys.com": {
-        "epoch": 1599782400.0,
-        "expiration_date": "11-sep-2020",
+        "epoch": 1631318400.0,
+        "expiration_date": "11-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "mycliplister.com": {
@@ -8825,8 +8830,9 @@
         "state": "future"
     },
     "mypagerank.net": {
-        "epoch": 1599955200.0,
-        "expiration_date": "13-sep-2020",
+        "epoch": 1631491200.0,
+        "expiration_date": "13-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "mypagerank.ru": {
