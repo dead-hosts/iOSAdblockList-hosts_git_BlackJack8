@@ -295,8 +295,9 @@
         "state": "future"
     },
     "accesstrade.com": {
-        "epoch": 1599955200.0,
-        "expiration_date": "13-sep-2020",
+        "epoch": 1631491200.0,
+        "expiration_date": "13-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "acento.com": {
@@ -832,8 +833,9 @@
         "state": "future"
     },
     "adinjector.net": {
-        "epoch": 1599696000.0,
-        "expiration_date": "10-sep-2020",
+        "epoch": 1631232000.0,
+        "expiration_date": "10-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "adinterax.com": {
@@ -972,8 +974,9 @@
         "state": "future"
     },
     "admaster.net": {
-        "epoch": 1599782400.0,
-        "expiration_date": "11-sep-2020",
+        "epoch": 1631318400.0,
+        "expiration_date": "11-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "admedia.com": {
@@ -1127,8 +1130,9 @@
         "state": "future"
     },
     "admonitor.com": {
-        "epoch": 1599609600.0,
-        "expiration_date": "09-sep-2020",
+        "epoch": 1631145600.0,
+        "expiration_date": "09-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "admost.com": {
@@ -1184,8 +1188,9 @@
         "state": "future"
     },
     "adnetinteractive.com": {
-        "epoch": 1599523200.0,
-        "expiration_date": "08-sep-2020",
+        "epoch": 1631059200.0,
+        "expiration_date": "08-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "adnetwork.net": {
