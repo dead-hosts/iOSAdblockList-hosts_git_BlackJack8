@@ -13043,8 +13043,9 @@
         "state": "future"
     },
     "urlcash.net": {
-        "epoch": 1599609600.0,
-        "expiration_date": "09-sep-2020",
+        "epoch": 1631145600.0,
+        "expiration_date": "09-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "usapromotravel.com": {
@@ -13534,8 +13535,9 @@
         "state": "future"
     },
     "webtrendslive.com": {
-        "epoch": 1599609600.0,
-        "expiration_date": "09-sep-2020",
+        "epoch": 1631145600.0,
+        "expiration_date": "09-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "wegcash.com": {
@@ -13614,8 +13616,9 @@
         "state": "future"
     },
     "winoladber.com": {
-        "epoch": 1599696000.0,
-        "expiration_date": "10-sep-2020",
+        "epoch": 1631232000.0,
+        "expiration_date": "10-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "wiyun.com": {
@@ -13696,7 +13699,8 @@
     "wwserch43.biz": {
         "epoch": 1599868800.0,
         "expiration_date": "12-sep-2020",
-        "state": "future"
+        "server": "whois.nic.biz",
+        "state": "past"
     },
     "www3secure.com": {
         "epoch": 1606262400.0,
