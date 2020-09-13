@@ -3185,6 +3185,13 @@
             "last_retested_at_iso": "2020-08-26T11:16:45.335749",
             "status": "INACTIVE"
         },
+        "idot.cz": {
+            "included_at_epoch": 1599993929.862865,
+            "included_at_iso": "2020-09-13T10:45:29.862865",
+            "last_retested_at_epoch": 1599993929.862865,
+            "last_retested_at_iso": "2020-09-13T10:45:29.862865",
+            "status": "INACTIVE"
+        },
         "iflscience-d.openx.net": {
             "included_at_epoch": 1597923226.822844,
             "included_at_iso": "2020-08-20T11:33:46.822844",
