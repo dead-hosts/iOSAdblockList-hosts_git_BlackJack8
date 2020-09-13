@@ -1570,18 +1570,21 @@
         "state": "future"
     },
     "adsmogo.mobi": {
-        "epoch": 1599782400.0,
-        "expiration_date": "11-sep-2020",
+        "epoch": 1662854400.0,
+        "expiration_date": "11-sep-2022",
+        "server": "whois.nic.mobi",
         "state": "future"
     },
     "adsmogo.net": {
-        "epoch": 1599782400.0,
-        "expiration_date": "11-sep-2020",
+        "epoch": 1662854400.0,
+        "expiration_date": "11-sep-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "adsmogo.org": {
-        "epoch": 1599955200.0,
-        "expiration_date": "13-sep-2020",
+        "epoch": 1663027200.0,
+        "expiration_date": "13-sep-2022",
+        "server": "whois.pir.org",
         "state": "future"
     },
     "adsmoloco.com": {
@@ -1755,8 +1758,9 @@
         "state": "future"
     },
     "adthis.com": {
-        "epoch": 1599696000.0,
-        "expiration_date": "10-sep-2020",
+        "epoch": 1631232000.0,
+        "expiration_date": "10-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "adthor.com": {
@@ -2160,7 +2164,8 @@
     "ailalbapt.club": {
         "epoch": 1599868800.0,
         "expiration_date": "12-sep-2020",
-        "state": "future"
+        "server": "whois.nic.club",
+        "state": "past"
     },
     "ailamtrieuphu.com": {
         "epoch": 1625270400.0,
@@ -2334,8 +2339,9 @@
         "state": "future"
     },
     "andomedia.com": {
-        "epoch": 1599696000.0,
-        "expiration_date": "10-sep-2020",
+        "epoch": 1631232000.0,
+        "expiration_date": "10-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "andromob.info": {

@@ -1407,6 +1407,13 @@
             "last_retested_at_iso": "2020-09-07T09:51:36.544319",
             "status": "INACTIVE"
         },
+        "api.altamob.com": {
+            "included_at_epoch": 1599990857.044608,
+            "included_at_iso": "2020-09-13T09:54:17.044608",
+            "last_retested_at_epoch": 1599990857.044608,
+            "last_retested_at_iso": "2020-09-13T09:54:17.044608",
+            "status": "INACTIVE"
+        },
         "api.ambelbet.com": {
             "included_at_epoch": 1598954744.277005,
             "included_at_iso": "2020-09-01T10:05:44.277005",
