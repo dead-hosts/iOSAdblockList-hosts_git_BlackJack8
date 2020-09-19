@@ -9350,8 +9350,9 @@
         "state": "future"
     },
     "oneandonlynetwork.com": {
-        "epoch": 1600041600.0,
-        "expiration_date": "14-sep-2020",
+        "epoch": 1631577600.0,
+        "expiration_date": "14-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "onedrive.su": {
@@ -9680,7 +9681,8 @@
     "pay-ads.com": {
         "epoch": 1600473600.0,
         "expiration_date": "19-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "paycounter.com": {
         "epoch": 1622419200.0,
@@ -9901,8 +9903,9 @@
         "state": "future"
     },
     "pixel.watch": {
-        "epoch": 1600387200.0,
-        "expiration_date": "18-sep-2020",
+        "epoch": 1631923200.0,
+        "expiration_date": "18-sep-2021",
+        "server": "whois.nic.watch",
         "state": "future"
     },
     "pixels.asia": {
@@ -10172,8 +10175,9 @@
         "state": "future"
     },
     "primaryads.com": {
-        "epoch": 1600387200.0,
-        "expiration_date": "18-sep-2020",
+        "epoch": 1631923200.0,
+        "expiration_date": "18-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "prime31.com": {
@@ -10338,8 +10342,9 @@
         "state": "future"
     },
     "psoptopi.com": {
-        "epoch": 1600387200.0,
-        "expiration_date": "18-sep-2020",
+        "epoch": 1631923200.0,
+        "expiration_date": "18-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "psstt.com": {
@@ -10697,8 +10702,9 @@
         "state": "future"
     },
     "reduxmedia.com": {
-        "epoch": 1600214400.0,
-        "expiration_date": "16-sep-2020",
+        "epoch": 1631750400.0,
+        "expiration_date": "16-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "reduxmediagroup.com": {
@@ -10707,8 +10713,9 @@
         "state": "future"
     },
     "reedbusiness.com": {
-        "epoch": 1600473600.0,
-        "expiration_date": "19-sep-2020",
+        "epoch": 1632009600.0,
+        "expiration_date": "19-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "referralware.com": {
