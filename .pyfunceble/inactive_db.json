@@ -2709,6 +2709,13 @@
             "last_retested_at_iso": "2020-09-01T10:57:18.413853",
             "status": "INACTIVE"
         },
+        "images1.lavanetwork.net": {
+            "included_at_epoch": 1600512610.0419,
+            "included_at_iso": "2020-09-19T10:50:10.041900",
+            "last_retested_at_epoch": 1600512610.0419,
+            "last_retested_at_iso": "2020-09-19T10:50:10.041900",
+            "status": "INACTIVE"
+        },
         "img.hdocache.ru": {
             "included_at_epoch": 1598957838.629005,
             "included_at_iso": "2020-09-01T10:57:18.629005",
