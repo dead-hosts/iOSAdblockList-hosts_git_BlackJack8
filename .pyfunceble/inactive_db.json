@@ -2919,6 +2919,13 @@
             "last_retested_at_iso": "2020-09-01T10:57:24.289725",
             "status": "INACTIVE"
         },
+        "lsp-prod.cmgdigital.com": {
+            "included_at_epoch": 1600513637.640302,
+            "included_at_iso": "2020-09-19T11:07:17.640302",
+            "last_retested_at_epoch": 1600513637.640302,
+            "last_retested_at_iso": "2020-09-19T11:07:17.640302",
+            "status": "INACTIVE"
+        },
         "lumpyleaf.com": {
             "included_at_epoch": 1598957844.612285,
             "included_at_iso": "2020-09-01T10:57:24.612285",
@@ -3052,6 +3059,13 @@
             "last_retested_at_iso": "2020-09-01T10:57:27.557305",
             "status": "INACTIVE"
         },
+        "metrics.macys.net": {
+            "included_at_epoch": 1600513640.410134,
+            "included_at_iso": "2020-09-19T11:07:20.410134",
+            "last_retested_at_epoch": 1600513640.410134,
+            "last_retested_at_iso": "2020-09-19T11:07:20.410134",
+            "status": "INACTIVE"
+        },
         "metrics.tbliab.net": {
             "included_at_epoch": 1598957847.71616,
             "included_at_iso": "2020-09-01T10:57:27.716160",
@@ -3099,6 +3113,13 @@
             "included_at_iso": "2020-09-01T10:57:28.457887",
             "last_retested_at_epoch": 1598957848.457887,
             "last_retested_at_iso": "2020-09-01T10:57:28.457887",
+            "status": "INACTIVE"
+        },
+        "mobile-service.segment.com": {
+            "included_at_epoch": 1600513641.31387,
+            "included_at_iso": "2020-09-19T11:07:21.313870",
+            "last_retested_at_epoch": 1600513641.31387,
+            "last_retested_at_iso": "2020-09-19T11:07:21.313870",
             "status": "INACTIVE"
         },
         "mobile.mediabrix.com": {

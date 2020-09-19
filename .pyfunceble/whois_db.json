@@ -7380,8 +7380,9 @@
         "state": "future"
     },
     "kurlichan.com": {
-        "epoch": 1600387200.0,
-        "expiration_date": "18-sep-2020",
+        "epoch": 1631923200.0,
+        "expiration_date": "18-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "ladsblue.com": {
@@ -7798,8 +7799,9 @@
         "state": "future"
     },
     "mainadv.com": {
-        "epoch": 1600041600.0,
-        "expiration_date": "14-sep-2020",
+        "epoch": 1631577600.0,
+        "expiration_date": "14-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "mallmotion.com": {
@@ -7956,7 +7958,8 @@
     "media-servers.net": {
         "epoch": 1600473600.0,
         "expiration_date": "19-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "media.net": {
         "epoch": 1615852800.0,
