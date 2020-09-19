@@ -11052,8 +11052,9 @@
         "state": "future"
     },
     "sam4m.com": {
-        "epoch": 1600473600.0,
-        "expiration_date": "19-sep-2020",
+        "epoch": 1632009600.0,
+        "expiration_date": "19-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "samsungacr.com": {
@@ -11178,8 +11179,9 @@
         "state": "future"
     },
     "sedoparking.com": {
-        "epoch": 1600387200.0,
-        "expiration_date": "18-sep-2020",
+        "epoch": 1631923200.0,
+        "expiration_date": "18-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "sedotracker.com": {
@@ -11334,8 +11336,9 @@
         "state": "future"
     },
     "shoppingads.com": {
-        "epoch": 1600128000.0,
-        "expiration_date": "15-sep-2020",
+        "epoch": 1631664000.0,
+        "expiration_date": "15-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "showmeboobs.xyz": {
@@ -11582,8 +11585,9 @@
         "state": "future"
     },
     "specially4u.net": {
-        "epoch": 1600387200.0,
-        "expiration_date": "18-sep-2020",
+        "epoch": 1631923200.0,
+        "expiration_date": "18-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "specificmedia.co.uk": {
@@ -11599,7 +11603,8 @@
     "speedomizer.com": {
         "epoch": 1600473600.0,
         "expiration_date": "19-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "speedshiftmedia.com": {
         "epoch": 1733097600.0,
