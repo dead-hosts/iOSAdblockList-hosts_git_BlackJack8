@@ -1204,6 +1204,13 @@
             "last_retested_at_iso": "2020-09-01T09:48:36.417038",
             "status": "INACTIVE"
         },
+        "amobi.vn": {
+            "included_at_epoch": 1600509496.64166,
+            "included_at_iso": "2020-09-19T09:58:16.641660",
+            "last_retested_at_epoch": 1600509496.64166,
+            "last_retested_at_iso": "2020-09-19T09:58:16.641660",
+            "status": "INACTIVE"
+        },
         "an.tacoda.net": {
             "included_at_epoch": 1598953716.572871,
             "included_at_iso": "2020-09-01T09:48:36.572871",
@@ -1316,6 +1323,13 @@
             "last_retested_at_iso": "2020-09-01T10:05:44.392892",
             "status": "INACTIVE"
         },
+        "api.beacons.technology": {
+            "included_at_epoch": 1600509497.60367,
+            "included_at_iso": "2020-09-19T09:58:17.603670",
+            "last_retested_at_epoch": 1600509497.60367,
+            "last_retested_at_iso": "2020-09-19T09:58:17.603670",
+            "status": "INACTIVE"
+        },
         "api.deep-ad.com.edgekey.net": {
             "included_at_epoch": 1598954744.508126,
             "included_at_iso": "2020-09-01T10:05:44.508126",
@@ -1342,6 +1356,13 @@
             "included_at_iso": "2020-09-01T10:05:44.647901",
             "last_retested_at_epoch": 1598954744.647901,
             "last_retested_at_iso": "2020-09-01T10:05:44.647901",
+            "status": "INACTIVE"
+        },
+        "api.insmobi.com": {
+            "included_at_epoch": 1600509497.800337,
+            "included_at_iso": "2020-09-19T09:58:17.800337",
+            "last_retested_at_epoch": 1600509497.800337,
+            "last_retested_at_iso": "2020-09-19T09:58:17.800337",
             "status": "INACTIVE"
         },
         "api.instartlogic.com": {
