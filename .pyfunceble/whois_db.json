@@ -9491,8 +9491,9 @@
         "state": "future"
     },
     "openxenterprise.com": {
-        "epoch": 1600732800.0,
-        "expiration_date": "22-sep-2020",
+        "epoch": 1632268800.0,
+        "expiration_date": "22-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "opienetwork.com": {
@@ -9592,8 +9593,9 @@
         "state": "future"
     },
     "owebmoney.ru": {
-        "epoch": 1600560000.0,
-        "expiration_date": "20-sep-2020",
+        "epoch": 1632096000.0,
+        "expiration_date": "20-sep-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "owneriq.net": {
@@ -9697,10 +9699,10 @@
         "state": "future"
     },
     "pay-ads.com": {
-        "epoch": 1600473600.0,
-        "expiration_date": "19-sep-2020",
+        "epoch": 1632009600.0,
+        "expiration_date": "19-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "paycounter.com": {
         "epoch": 1622419200.0,
@@ -10493,8 +10495,9 @@
         "state": "future"
     },
     "quantcount.com": {
-        "epoch": 1600646400.0,
-        "expiration_date": "21-sep-2020",
+        "epoch": 1663718400.0,
+        "expiration_date": "21-sep-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "quantserve.com": {
