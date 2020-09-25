@@ -2485,7 +2485,8 @@
     "appfireworks.com": {
         "epoch": 1600992000.0,
         "expiration_date": "25-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "appflood.com": {
         "epoch": 1601424000.0,
@@ -3782,8 +3783,9 @@
         "state": "future"
     },
     "ceppartner.com": {
-        "epoch": 1600819200.0,
-        "expiration_date": "23-sep-2020",
+        "epoch": 1632355200.0,
+        "expiration_date": "23-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "cetrk.com": {
