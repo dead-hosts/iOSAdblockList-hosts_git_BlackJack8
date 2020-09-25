@@ -538,8 +538,9 @@
         "state": "future"
     },
     "adbuyer.com": {
-        "epoch": 1600905600.0,
-        "expiration_date": "24-sep-2020",
+        "epoch": 1632441600.0,
+        "expiration_date": "24-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "adcamp.ru": {
@@ -603,8 +604,9 @@
         "state": "future"
     },
     "adclick.com": {
-        "epoch": 1600732800.0,
-        "expiration_date": "22-sep-2020",
+        "epoch": 1632268800.0,
+        "expiration_date": "22-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "adclix.org": {
@@ -730,8 +732,9 @@
         "state": "future"
     },
     "adflake.com": {
-        "epoch": 1600819200.0,
-        "expiration_date": "23-sep-2020",
+        "epoch": 1632355200.0,
+        "expiration_date": "23-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "adflight.com": {
@@ -987,8 +990,9 @@
         "state": "future"
     },
     "admedia.ro": {
-        "epoch": 1600732800.0,
-        "expiration_date": "22-sep-2020",
+        "epoch": 1632268800.0,
+        "expiration_date": "22-sep-2021",
+        "server": "whois.rotld.ro",
         "state": "future"
     },
     "admedo.com": {
@@ -1241,10 +1245,10 @@
         "state": "future"
     },
     "adorigin.com": {
-        "epoch": 1600473600.0,
-        "expiration_date": "19-sep-2020",
+        "epoch": 1632009600.0,
+        "expiration_date": "19-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "adorika.net": {
         "epoch": 1661990400.0,
