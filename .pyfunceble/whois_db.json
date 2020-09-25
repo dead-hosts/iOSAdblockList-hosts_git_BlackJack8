@@ -13763,10 +13763,10 @@
         "state": "future"
     },
     "wwserch43.biz": {
-        "epoch": 1599868800.0,
-        "expiration_date": "12-sep-2020",
+        "epoch": 1631404800.0,
+        "expiration_date": "12-sep-2021",
         "server": "whois.nic.biz",
-        "state": "past"
+        "state": "future"
     },
     "www3secure.com": {
         "epoch": 1606262400.0,
