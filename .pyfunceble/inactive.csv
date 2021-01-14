@@ -367,3 +367,4 @@ idna_subject,checker_type,destination,source,tested_at
 ||ad.about.com^,AVAILABILITY,origin.list,/home/runner/work/iOSAdblockList-hosts_git_BlackJack8/iOSAdblockList-hosts_git_BlackJack8/origin.list,2021-01-14 04:50:37.617507
 ||ad.aboutwebservices.com^,AVAILABILITY,origin.list,/home/runner/work/iOSAdblockList-hosts_git_BlackJack8/iOSAdblockList-hosts_git_BlackJack8/origin.list,2021-01-14 04:50:41.034449
 ||ad.abum.com^,AVAILABILITY,origin.list,/home/runner/work/iOSAdblockList-hosts_git_BlackJack8/iOSAdblockList-hosts_git_BlackJack8/origin.list,2021-01-14 04:50:44.389401
+||ad.ad-srv.net^,AVAILABILITY,origin.list,/home/runner/work/iOSAdblockList-hosts_git_BlackJack8/iOSAdblockList-hosts_git_BlackJack8/origin.list,2021-01-14 08:49:00.525669
