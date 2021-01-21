@@ -1,0 +1,15 @@
+{
+    "abs_source": "/home/runner/work/iOSAdblockList-hosts_git_BlackJack8/iOSAdblockList-hosts_git_BlackJack8/origin.list",
+    "checker_type": "AVAILABILITY",
+    "destination": "origin.list",
+    "hash": "e57d36fd6a9ec0b9d0f6ad4a958bb9285f25aebc841ac83eaaf58717",
+    "line_number": 11023,
+    "output_dir": "/home/runner/work/iOSAdblockList-hosts_git_BlackJack8/iOSAdblockList-hosts_git_BlackJack8/output/origin.list",
+    "previous_hash": null,
+    "rel_source": "origin.list",
+    "session_id": "d496d987024170cf23949c1e",
+    "source": "/home/runner/work/iOSAdblockList-hosts_git_BlackJack8/iOSAdblockList-hosts_git_BlackJack8/origin.list",
+    "subject": "/home/runner/work/iOSAdblockList-hosts_git_BlackJack8/iOSAdblockList-hosts_git_BlackJack8/origin.list",
+    "subject_type": "domain",
+    "type": "file"
+}
