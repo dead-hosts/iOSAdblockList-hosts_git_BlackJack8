@@ -12901,3 +12901,4 @@ idna_subject,checker_type,destination,source,tested_at,session_id
 ||slb-vgwort-de-pool03.vgwort-de.2cnt.net^,AVAILABILITY,origin.list,origin.list,2001-04-17 22:54:34.481237,d496d987024170cf23949c1e
 ||sni.cdn.prod.www.spiegel.de.c.footprint.net^,AVAILABILITY,origin.list,origin.list,2001-04-17 22:54:44.987871,d496d987024170cf23949c1e
 ||sperans-beactor.com^,AVAILABILITY,origin.list,origin.list,2001-04-17 22:54:57.888760,d496d987024170cf23949c1e
+||stats.toi.de^,AVAILABILITY,origin.list,origin.list,2001-04-18 02:12:42.017339,d496d987024170cf23949c1e
