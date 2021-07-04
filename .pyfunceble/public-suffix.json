@@ -343,6 +343,7 @@
         "2.bg",
         "3.bg",
         "4.bg",
+        "5.bg",
         "6.bg",
         "7.bg",
         "8.bg",
@@ -768,11 +769,9 @@
         "gotdns.ch",
         "lima-city.ch",
         "linkyard-cloud.ch",
-        "square7.ch",
-        "svc.firenet.ch"
+        "square7.ch"
     ],
     "ci": [
-        "5.bg",
         "ac.ci",
         "asso.ci",
         "aéroport.ci",
@@ -1812,7 +1811,8 @@
         "kaas.gg",
         "net.gg",
         "org.gg",
-        "panel.gg"
+        "panel.gg",
+        "svc.firenet.ch"
     ],
     "gh": [
         "com.gh",
