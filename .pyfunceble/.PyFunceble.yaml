@@ -29,8 +29,10 @@ cli_testing:
         dots: true
         execution_time: true
         less: false
+        max_registrar: 15
         percentage: true
         quiet: false
+        registrar: false
         simple: false
         status: all
     file_filter: null
@@ -148,6 +150,12 @@ lookup:
     special: true
     timeout: 5
     whois: true
+max_http_retries: 3
+proxy:
+    global:
+        http: null
+        https: null
+    rules: []
 share_logs: false
 user_agent:
     browser: chrome
