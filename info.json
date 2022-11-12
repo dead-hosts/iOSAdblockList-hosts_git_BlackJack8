@@ -6,8 +6,8 @@
     "finish_timestamp": 1667161340.090458,
     "last_download_datetime": "2020-10-19T09:38:59.908178",
     "last_download_timestamp": 1603100339.908178,
-    "latest_part_finish_datetime": "2022-11-05T06:50:50.874013",
-    "latest_part_finish_timestamp": 1667631050.874013,
+    "latest_part_finish_datetime": "2022-11-12T19:48:03.771405",
+    "latest_part_finish_timestamp": 1668282483.771405,
     "latest_part_start_datetime": "2020-10-19T09:38:59.938173",
     "latest_part_start_timestamp": 1603100339.938173,
     "live_update": true,
@@ -17,6 +17,7 @@
         "@BlackJack8"
     ],
     "raw_link": "https://raw.githubusercontent.com/BlackJack8/iOSAdblockList/master/Hosts.txt",
+    "repo": "iOSAdblockList-hosts_git_BlackJack8/iOSAdblockList-hosts_git_BlackJack8",
     "start_datetime": "2020-10-19T09:38:59.934100",
     "start_timestamp": 1603100339.9341
 }
