@@ -1,6 +1,8 @@
 {
     "currently_under_test": false,
-    "custom_pyfunceble_config": {},
+    "custom_pyfunceble_config": {
+        "adblock": true
+    },
     "days_until_next_test": 5.0,
     "finish_datetime": "2022-12-28T16:23:55.733807",
     "finish_timestamp": 1672244635.733807,
