@@ -16,6 +16,11 @@
     "ping": [
         "@BlackJack8"
     ],
+    "platform_container_id": null,
+    "platform_description": "Imported from Dead-Hosts legacy infrastructure.",
+    "platform_optout": false,
+    "platform_remote_source_id": null,
+    "platform_shortname": "iosadblocklist-hosts_git_blackjack8",
     "raw_link": "https://raw.githubusercontent.com/BlackJack8/iOSAdblockList/master/Hosts.txt",
     "repo": "dead-hosts/iOSAdblockList-hosts_git_BlackJack8",
     "start_datetime": "2020-10-19T09:38:59.934100",
