@@ -18,6 +18,7 @@
     "ping": [
         "@BlackJack8"
     ],
+    "ping_enabled": false,
     "platform_container_id": null,
     "platform_container_name": "iosadblocklist-hosts_git_blackjack8",
     "platform_description": "Imported from Dead-Hosts legacy infrastructure.",
